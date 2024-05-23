@@ -1,0 +1,80 @@
+[W python_anomaly_mode.cpp:104] Warning: Error detected in CudnnBatchNormBackward0. Traceback of forward call that caused the error:
+  File "<string>", line 1, in <module>
+  File "/usr/lib64/python3.6/multiprocessing/spawn.py", line 105, in spawn_main
+    exitcode = _main(fd)
+  File "/usr/lib64/python3.6/multiprocessing/spawn.py", line 118, in _main
+    return self._bootstrap()
+  File "/usr/lib64/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/usr/lib64/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/cluster/research-groups/deneke/minecraft-gan/pyenv/lib64/python3.6/site-packages/torch/multiprocessing/spawn.py", line 59, in _wrap
+    fn(i, *args)
+  File "/cluster/research-groups/deneke/minecraft-gan/src/train.py", line 233, in main
+    output_real = discriminator(real_data)
+  File "/cluster/research-groups/deneke/minecraft-gan/pyenv/lib64/python3.6/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/cluster/research-groups/deneke/minecraft-gan/pyenv/lib64/python3.6/site-packages/torch/nn/parallel/distributed.py", line 886, in forward
+    output = self.module(*inputs[0], **kwargs[0])
+  File "/cluster/research-groups/deneke/minecraft-gan/pyenv/lib64/python3.6/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/cluster/research-groups/deneke/minecraft-gan/src/dcgan.py", line 216, in forward
+    x = F.leaky_relu(self.bn4(self.conv4(x)), 0.2)
+  File "/cluster/research-groups/deneke/minecraft-gan/pyenv/lib64/python3.6/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/cluster/research-groups/deneke/minecraft-gan/pyenv/lib64/python3.6/site-packages/torch/nn/modules/batchnorm.py", line 179, in forward
+    self.eps,
+  File "/cluster/research-groups/deneke/minecraft-gan/pyenv/lib64/python3.6/site-packages/torch/nn/functional.py", line 2283, in batch_norm
+    input, weight, bias, running_mean, running_var, training, momentum, eps, torch.backends.cudnn.enabled
+ (function _print_stack)
+[W python_anomaly_mode.cpp:104] Warning: Error detected in CudnnBatchNormBackward0. Traceback of forward call that caused the error:
+  File "<string>", line 1, in <module>
+  File "/usr/lib64/python3.6/multiprocessing/spawn.py", line 105, in spawn_main
+    exitcode = _main(fd)
+  File "/usr/lib64/python3.6/multiprocessing/spawn.py", line 118, in _main
+    return self._bootstrap()
+  File "/usr/lib64/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/usr/lib64/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/cluster/research-groups/deneke/minecraft-gan/pyenv/lib64/python3.6/site-packages/torch/multiprocessing/spawn.py", line 59, in _wrap
+    fn(i, *args)
+  File "/cluster/research-groups/deneke/minecraft-gan/src/train.py", line 233, in main
+    output_real = discriminator(real_data)
+  File "/cluster/research-groups/deneke/minecraft-gan/pyenv/lib64/python3.6/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/cluster/research-groups/deneke/minecraft-gan/pyenv/lib64/python3.6/site-packages/torch/nn/parallel/distributed.py", line 886, in forward
+    output = self.module(*inputs[0], **kwargs[0])
+  File "/cluster/research-groups/deneke/minecraft-gan/pyenv/lib64/python3.6/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/cluster/research-groups/deneke/minecraft-gan/src/dcgan.py", line 216, in forward
+    x = F.leaky_relu(self.bn4(self.conv4(x)), 0.2)
+  File "/cluster/research-groups/deneke/minecraft-gan/pyenv/lib64/python3.6/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/cluster/research-groups/deneke/minecraft-gan/pyenv/lib64/python3.6/site-packages/torch/nn/modules/batchnorm.py", line 179, in forward
+    self.eps,
+  File "/cluster/research-groups/deneke/minecraft-gan/pyenv/lib64/python3.6/site-packages/torch/nn/functional.py", line 2283, in batch_norm
+    input, weight, bias, running_mean, running_var, training, momentum, eps, torch.backends.cudnn.enabled
+ (function _print_stack)
+Traceback (most recent call last):
+  File "train.py", line 373, in <module>
+    torch.multiprocessing.spawn(main, args=spawn_args, nprocs=world_size, join=True)
+  File "/cluster/research-groups/deneke/minecraft-gan/pyenv/lib64/python3.6/site-packages/torch/multiprocessing/spawn.py", line 230, in spawn
+    return start_processes(fn, args, nprocs, join, daemon, start_method='spawn')
+  File "/cluster/research-groups/deneke/minecraft-gan/pyenv/lib64/python3.6/site-packages/torch/multiprocessing/spawn.py", line 188, in start_processes
+    while not context.join():
+  File "/cluster/research-groups/deneke/minecraft-gan/pyenv/lib64/python3.6/site-packages/torch/multiprocessing/spawn.py", line 150, in join
+    raise ProcessRaisedException(msg, error_index, failed_process.pid)
+torch.multiprocessing.spawn.ProcessRaisedException:
+
+-- Process 0 terminated with the following error:
+Traceback (most recent call last):
+  File "/cluster/research-groups/deneke/minecraft-gan/pyenv/lib64/python3.6/site-packages/torch/multiprocessing/spawn.py", line 59, in _wrap
+    fn(i, *args)
+  File "/cluster/research-groups/deneke/minecraft-gan/src/train.py", line 244, in main
+    loss_d.backward()
+  File "/cluster/research-groups/deneke/minecraft-gan/pyenv/lib64/python3.6/site-packages/torch/_tensor.py", line 307, in backward
+    torch.autograd.backward(self, gradient, retain_graph, create_graph, inputs=inputs)
+  File "/cluster/research-groups/deneke/minecraft-gan/pyenv/lib64/python3.6/site-packages/torch/autograd/__init__.py", line 156, in backward
+    allow_unreachable=True, accumulate_grad=True)  # allow_unreachable flag
+RuntimeError: one of the variables needed for gradient computation has been modified by an inplace operation: [torch.cuda.FloatTensor [512]] is at version 4; expected version 3 instead. Hint: the backtrace further above shows the operation that failed to compute its gradient. The variable in question was changed in there or anywhere later. Good luck!

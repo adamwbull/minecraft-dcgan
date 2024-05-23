@@ -1,0 +1,13 @@
+Universe   = vanilla
+Executable = run_job.sh
+Arguments  = train.py ml_mb --epochs 100 --lr 0.00015 --batch_size 18
+
+Output     = logs/models/ml_mb.log
+Error      = logs/errors/ml_mb.log
+Log        = logs/condor/ml_mb.log
+
+Request_Cpus   = 1
+Request_Gpus   = 2
+Request_Memory = 40GB
+
+Queue

@@ -1,0 +1,88 @@
+000 (55626.000.000) 2023-12-01 13:43:23 Job submitted from host: <140.160.143.130:9618?addrs=140.160.143.130-9618&alias=csci-head.cluster.cs.wwu.edu&noUDP&sock=schedd_1686_08c4>
+...
+001 (55626.000.000) 2023-12-01 13:43:23 Job executing on host: <140.160.143.172:9618?addrs=140.160.143.172-9618&alias=g-1-0.cluster.cs.wwu.edu&noUDP&sock=startd_2355_e99f>
+	SlotName: slot1_2@g-1-0.cluster.cs.wwu.edu
+	AvailableGPUs = { GPUs_GPU_4baabe5e,GPUs_GPU_ba1787c6 }
+	CondorScratchDir = "/scratch_ssd/condor/execute/dir_2427672"
+	Cpus = 1
+	Disk = 3503172
+	GPUs = 2
+	GPUs_GPU_4baabe5e = [ DeviceName = "NVIDIA GeForce RTX 2080 Ti"; DriverVersion = 12.2; ECCEnabled = false; DevicePciBusId = "0000:AF:00.0"; DeviceUuid = "4baabe5e-6d32-d686-d67b-51558270e42e"; GlobalMemoryMb = 11012; MaxSupportedVersion = 12020; Capability = 7.5; Id = "GPU-4baabe5e" ]
+	GPUs_GPU_ba1787c6 = [ DeviceName = "NVIDIA GeForce RTX 2080 Ti"; DriverVersion = 12.2; ECCEnabled = false; DevicePciBusId = "0000:D8:00.0"; DeviceUuid = "ba1787c6-b8e6-cc61-7296-f35ff2ec108c"; GlobalMemoryMb = 11012; MaxSupportedVersion = 12020; Capability = 7.5; Id = "GPU-ba1787c6" ]
+	Memory = 40960
+...
+006 (55626.000.000) 2023-12-01 13:43:32 Image size of job updated: 3624348
+	3540  -  MemoryUsage of job (MB)
+	3624348  -  ResidentSetSize of job (KB)
+...
+006 (55626.000.000) 2023-12-01 13:48:33 Image size of job updated: 23346728
+	22475  -  MemoryUsage of job (MB)
+	23013828  -  ResidentSetSize of job (KB)
+...
+006 (55626.000.000) 2023-12-01 13:53:34 Image size of job updated: 35166024
+	32045  -  MemoryUsage of job (MB)
+	32813132  -  ResidentSetSize of job (KB)
+...
+006 (55626.000.000) 2023-12-01 14:08:36 Image size of job updated: 35166024
+	32321  -  MemoryUsage of job (MB)
+	33095760  -  ResidentSetSize of job (KB)
+...
+006 (55626.000.000) 2023-12-01 14:13:36 Image size of job updated: 35166024
+	32328  -  MemoryUsage of job (MB)
+	33102928  -  ResidentSetSize of job (KB)
+...
+006 (55626.000.000) 2023-12-01 14:48:39 Image size of job updated: 35666992
+	32328  -  MemoryUsage of job (MB)
+	33102928  -  ResidentSetSize of job (KB)
+...
+006 (55626.000.000) 2023-12-01 14:53:40 Image size of job updated: 35831792
+	32328  -  MemoryUsage of job (MB)
+	33102928  -  ResidentSetSize of job (KB)
+...
+006 (55626.000.000) 2023-12-01 15:38:44 Image size of job updated: 36167140
+	32330  -  MemoryUsage of job (MB)
+	33105620  -  ResidentSetSize of job (KB)
+...
+006 (55626.000.000) 2023-12-01 15:43:45 Image size of job updated: 36167140
+	32624  -  MemoryUsage of job (MB)
+	33406000  -  ResidentSetSize of job (KB)
+...
+006 (55626.000.000) 2023-12-01 15:53:46 Image size of job updated: 36167140
+	32641  -  MemoryUsage of job (MB)
+	33423928  -  ResidentSetSize of job (KB)
+...
+006 (55626.000.000) 2023-12-01 15:58:47 Image size of job updated: 36465596
+	32758  -  MemoryUsage of job (MB)
+	33544156  -  ResidentSetSize of job (KB)
+...
+006 (55626.000.000) 2023-12-01 16:03:48 Image size of job updated: 36465596
+	32766  -  MemoryUsage of job (MB)
+	33552348  -  ResidentSetSize of job (KB)
+...
+006 (55626.000.000) 2023-12-01 16:23:49 Image size of job updated: 36477964
+	32766  -  MemoryUsage of job (MB)
+	33552348  -  ResidentSetSize of job (KB)
+...
+006 (55626.000.000) 2023-12-01 16:38:51 Image size of job updated: 36700376
+	32766  -  MemoryUsage of job (MB)
+	33552348  -  ResidentSetSize of job (KB)
+...
+005 (55626.000.000) 2023-12-01 17:45:56 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 03:11:10, Sys 0 00:26:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 03:11:10, Sys 0 00:26:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :     1.00        1         1 
+	   Disk (KB)            :     1           1   3503172 
+	   Gpus (Average)       :     0.69        2         2 "GPU-4baabe5e,GPU-ba1787c6"
+	   GpusMemory (MB)      :   256                       
+	   Memory (MB)          : 32766       40960     40960 
+
+	Job terminated of its own accord at 2023-12-02T01:45:56Z with exit-code 0.
+...

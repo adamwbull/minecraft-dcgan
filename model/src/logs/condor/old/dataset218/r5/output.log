@@ -1,0 +1,1111 @@
+[2023-11-27 14:27:42] Loaded checkpoint with best_loss_d value of 0.01164760161191225
+[2023-11-27 14:29:52] Saved new best checkpoint to medium_learn_medium_batch_best.pth.tar
+[2023-11-27 14:29:52] Saved Epoch 0/100 | Discriminator Loss: 0.0007 | Generator Loss: 15.0799
+[2023-11-27 14:30:32] Saved new best checkpoint to medium_learn_medium_batch_best.pth.tar
+[2023-11-27 14:30:32] Saved Epoch 0/100 | Discriminator Loss: 0.0002 | Generator Loss: 8.5147
+[2023-11-27 14:32:36] Epoch 0/100 | Discriminator Loss: 0.0661 | Generator Loss: 6.0699
+[2023-11-27 14:33:23] Epoch 1/100 | Discriminator Loss: 0.0089 | Generator Loss: 11.8956
+[2023-11-27 14:33:44] Saved new best checkpoint to medium_learn_medium_batch_best.pth.tar
+[2023-11-27 14:33:44] Saved Epoch 2/100 | Discriminator Loss: 0.0000 | Generator Loss: 13.6772
+[2023-11-27 14:33:48] Saved new best checkpoint to medium_learn_medium_batch_best.pth.tar
+[2023-11-27 14:33:48] Saved Epoch 2/100 | Discriminator Loss: 0.0000 | Generator Loss: 15.7658
+[2023-11-27 14:34:13] Saved new best checkpoint to medium_learn_medium_batch_best.pth.tar
+[2023-11-27 14:34:13] Saved Epoch 2/100 | Discriminator Loss: 0.0000 | Generator Loss: 13.0627
+[2023-11-27 14:34:17] Epoch 2/100 | Discriminator Loss: 5.9432 | Generator Loss: 0.0442
+[2023-11-27 14:34:23] Saved new best checkpoint to medium_learn_medium_batch_best.pth.tar
+[2023-11-27 14:34:23] Saved Epoch 3/100 | Discriminator Loss: 0.0000 | Generator Loss: 19.9257
+[2023-11-27 14:35:06] Epoch 3/100 | Discriminator Loss: 0.0476 | Generator Loss: 4.1378
+[2023-11-27 14:35:52] Epoch 4/100 | Discriminator Loss: 0.0006 | Generator Loss: 8.2362
+[2023-11-27 14:36:38] Epoch 5/100 | Discriminator Loss: 0.2781 | Generator Loss: 5.7823
+[2023-11-27 14:37:24] Epoch 6/100 | Discriminator Loss: 0.0144 | Generator Loss: 9.6977
+[2023-11-27 14:38:10] Epoch 7/100 | Discriminator Loss: 0.0012 | Generator Loss: 8.6434
+[2023-11-27 14:38:56] Epoch 8/100 | Discriminator Loss: 0.0631 | Generator Loss: 7.2125
+[2023-11-27 14:39:42] Epoch 9/100 | Discriminator Loss: 0.0023 | Generator Loss: 11.9281
+[2023-11-27 14:40:28] Epoch 10/100 | Discriminator Loss: 7.9680 | Generator Loss: 2.9713
+[2023-11-27 14:41:14] Epoch 11/100 | Discriminator Loss: 0.0090 | Generator Loss: 5.5355
+[2023-11-27 14:42:00] Epoch 12/100 | Discriminator Loss: 0.0154 | Generator Loss: 5.0353
+[2023-11-27 14:42:46] Epoch 13/100 | Discriminator Loss: 0.0417 | Generator Loss: 5.0389
+[2023-11-27 14:43:32] Epoch 14/100 | Discriminator Loss: 0.3911 | Generator Loss: 8.3352
+[2023-11-27 14:44:19] Epoch 15/100 | Discriminator Loss: 0.0102 | Generator Loss: 7.4781
+[2023-11-27 14:45:06] Epoch 16/100 | Discriminator Loss: 0.1465 | Generator Loss: 5.5980
+[2023-11-27 14:45:52] Epoch 17/100 | Discriminator Loss: 0.0253 | Generator Loss: 6.6332
+[2023-11-27 14:46:38] Epoch 18/100 | Discriminator Loss: 0.6310 | Generator Loss: 6.9954
+[2023-11-27 14:47:24] Epoch 19/100 | Discriminator Loss: 0.2394 | Generator Loss: 8.0177
+[2023-11-27 14:48:11] Epoch 20/100 | Discriminator Loss: 0.0217 | Generator Loss: 7.0401
+[2023-11-27 14:48:56] Epoch 21/100 | Discriminator Loss: 0.0375 | Generator Loss: 4.6858
+[2023-11-27 14:49:42] Epoch 22/100 | Discriminator Loss: 0.0172 | Generator Loss: 5.3045
+[2023-11-27 14:50:28] Epoch 23/100 | Discriminator Loss: 0.1195 | Generator Loss: 3.9599
+[2023-11-27 14:51:13] Epoch 24/100 | Discriminator Loss: 0.0993 | Generator Loss: 4.2699
+[2023-11-27 14:52:02] Saved latest checkpoint to medium_learn_medium_batch_latest.pth.tar
+[2023-11-27 14:52:02] Saved Epoch 25/100 | Discriminator Loss: 0.0185 | Generator Loss: 6.9644
+[2023-11-27 14:52:48] Epoch 26/100 | Discriminator Loss: 0.0019 | Generator Loss: 9.3147
+[2023-11-27 14:53:34] Epoch 27/100 | Discriminator Loss: 0.2809 | Generator Loss: 7.6606
+[2023-11-27 14:54:20] Epoch 28/100 | Discriminator Loss: 0.3637 | Generator Loss: 5.3984
+[2023-11-27 14:55:06] Epoch 29/100 | Discriminator Loss: 0.0180 | Generator Loss: 6.9621
+[2023-11-27 14:55:52] Epoch 30/100 | Discriminator Loss: 0.0862 | Generator Loss: 5.7185
+[2023-11-27 14:56:38] Epoch 31/100 | Discriminator Loss: 0.6205 | Generator Loss: 3.7441
+[2023-11-27 14:57:24] Epoch 32/100 | Discriminator Loss: 0.0226 | Generator Loss: 5.1018
+[2023-11-27 14:58:11] Epoch 33/100 | Discriminator Loss: 0.0126 | Generator Loss: 5.6590
+[2023-11-27 14:58:57] Epoch 34/100 | Discriminator Loss: 2.8802 | Generator Loss: 6.2068
+[2023-11-27 14:59:43] Epoch 35/100 | Discriminator Loss: 1.9070 | Generator Loss: 4.1447
+[2023-11-27 15:00:28] Epoch 36/100 | Discriminator Loss: 0.0002 | Generator Loss: 7.8762
+[2023-11-27 15:01:15] Epoch 37/100 | Discriminator Loss: 2.5369 | Generator Loss: 6.4907
+[2023-11-27 15:02:00] Epoch 38/100 | Discriminator Loss: 0.0241 | Generator Loss: 6.2806
+[2023-11-27 15:02:46] Epoch 39/100 | Discriminator Loss: 0.0004 | Generator Loss: 8.7888
+[2023-11-27 15:03:32] Epoch 40/100 | Discriminator Loss: 6.9830 | Generator Loss: 26.5707
+[2023-11-27 15:04:18] Epoch 41/100 | Discriminator Loss: 0.0748 | Generator Loss: 14.4834
+[2023-11-27 15:05:04] Epoch 42/100 | Discriminator Loss: 0.0208 | Generator Loss: 7.7613
+[2023-11-27 15:05:50] Epoch 43/100 | Discriminator Loss: 0.0031 | Generator Loss: 7.7427
+[2023-11-27 15:06:36] Epoch 44/100 | Discriminator Loss: 0.0027 | Generator Loss: 9.5990
+[2023-11-27 15:07:22] Epoch 45/100 | Discriminator Loss: 0.0143 | Generator Loss: 7.2961
+[2023-11-27 15:08:08] Epoch 46/100 | Discriminator Loss: 0.0013 | Generator Loss: 7.7975
+[2023-11-27 15:08:55] Epoch 47/100 | Discriminator Loss: 0.0915 | Generator Loss: 5.7101
+[2023-11-27 15:09:41] Epoch 48/100 | Discriminator Loss: 0.0188 | Generator Loss: 9.5431
+[2023-11-27 15:10:26] Epoch 49/100 | Discriminator Loss: 0.0371 | Generator Loss: 10.3057
+[2023-11-27 15:11:15] Saved latest checkpoint to medium_learn_medium_batch_latest.pth.tar
+[2023-11-27 15:11:15] Saved Epoch 50/100 | Discriminator Loss: 0.0244 | Generator Loss: 8.0851
+[2023-11-27 15:12:01] Epoch 51/100 | Discriminator Loss: 0.2041 | Generator Loss: 10.8590
+[2023-11-27 15:12:46] Epoch 52/100 | Discriminator Loss: 0.0029 | Generator Loss: 7.5910
+[2023-11-27 15:13:32] Epoch 53/100 | Discriminator Loss: 0.0030 | Generator Loss: 13.5614
+[2023-11-27 15:14:18] Epoch 54/100 | Discriminator Loss: 0.0041 | Generator Loss: 6.3922
+[2023-11-27 15:15:07] Saved new best checkpoint to medium_learn_medium_batch_best.pth.tar
+[2023-11-27 15:15:07] Saved Epoch 55/100 | Discriminator Loss: 0.0000 | Generator Loss: 15.0777
+[2023-11-27 15:15:07] Epoch 55/100 | Discriminator Loss: 0.0000 | Generator Loss: 15.0777
+[2023-11-27 15:15:54] Epoch 56/100 | Discriminator Loss: 0.0491 | Generator Loss: 7.3952
+[2023-11-27 15:16:40] Epoch 57/100 | Discriminator Loss: 0.0061 | Generator Loss: 6.3108
+[2023-11-27 15:17:26] Epoch 58/100 | Discriminator Loss: 0.0006 | Generator Loss: 5.9007
+[2023-11-27 15:18:12] Epoch 59/100 | Discriminator Loss: 0.0034 | Generator Loss: 6.6640
+[2023-11-27 15:18:59] Epoch 60/100 | Discriminator Loss: 0.6335 | Generator Loss: 12.8827
+[2023-11-27 15:19:45] Epoch 61/100 | Discriminator Loss: 0.5147 | Generator Loss: 7.3945
+[2023-11-27 15:20:31] Epoch 62/100 | Discriminator Loss: 0.0099 | Generator Loss: 5.1096
+[2023-11-27 15:21:18] Epoch 63/100 | Discriminator Loss: 0.0124 | Generator Loss: 6.8384
+[2023-11-27 15:22:04] Epoch 64/100 | Discriminator Loss: 0.0047 | Generator Loss: 6.9789
+[2023-11-27 15:22:50] Epoch 65/100 | Discriminator Loss: 0.0015 | Generator Loss: 8.4695
+[2023-11-27 15:23:37] Epoch 66/100 | Discriminator Loss: 2.6228 | Generator Loss: 3.6045
+[2023-11-27 15:24:23] Epoch 67/100 | Discriminator Loss: 0.0971 | Generator Loss: 5.8366
+[2023-11-27 15:25:10] Epoch 68/100 | Discriminator Loss: 0.0001 | Generator Loss: 10.1053
+[2023-11-27 15:25:56] Epoch 69/100 | Discriminator Loss: 0.0083 | Generator Loss: 6.9898
+[2023-11-27 15:26:43] Epoch 70/100 | Discriminator Loss: 0.0702 | Generator Loss: 6.2354
+[2023-11-27 15:27:30] Termination signal received. Saved checkpoint to medium_learn_medium_batch_terminated.pth.tar.
+[2023-11-27 15:27:30] CUDA cache cleared. Exiting train.py...
+[2023-11-27 15:27:38] Loaded checkpoint with best_loss_d value of 0.0
+[2023-11-27 15:28:23] Epoch 78/100 | Discriminator Loss: 0.0000 | Generator Loss: 51.6259
+[2023-11-27 15:29:09] Epoch 79/100 | Discriminator Loss: 0.0000 | Generator Loss: 51.7547
+[2023-11-27 15:29:54] Epoch 80/100 | Discriminator Loss: 0.0000 | Generator Loss: 51.6102
+[2023-11-27 15:30:40] Epoch 81/100 | Discriminator Loss: 0.0000 | Generator Loss: 51.5859
+[2023-11-27 15:31:25] Epoch 82/100 | Discriminator Loss: 0.0000 | Generator Loss: 51.6363
+[2023-11-27 15:32:11] Epoch 83/100 | Discriminator Loss: 0.0000 | Generator Loss: 51.6228
+[2023-11-27 15:32:56] Epoch 84/100 | Discriminator Loss: 0.0000 | Generator Loss: 51.6079
+[2023-11-27 15:33:41] Epoch 85/100 | Discriminator Loss: 0.0000 | Generator Loss: 51.5781
+[2023-11-27 15:34:27] Epoch 86/100 | Discriminator Loss: 0.0000 | Generator Loss: 51.6356
+[2023-11-27 15:35:12] Epoch 87/100 | Discriminator Loss: 0.0000 | Generator Loss: 51.5720
+[2023-11-27 15:35:58] Epoch 88/100 | Discriminator Loss: 0.0000 | Generator Loss: 51.5974
+[2023-11-27 15:36:43] Epoch 89/100 | Discriminator Loss: 0.0000 | Generator Loss: 51.6027
+[2023-11-27 15:37:29] Epoch 90/100 | Discriminator Loss: 0.0000 | Generator Loss: 51.6338
+[2023-11-27 15:38:14] Epoch 91/100 | Discriminator Loss: 0.0000 | Generator Loss: 51.6259
+[2023-11-27 15:38:59] Epoch 92/100 | Discriminator Loss: 0.0000 | Generator Loss: 51.5940
+[2023-11-27 15:39:45] Epoch 93/100 | Discriminator Loss: 0.0000 | Generator Loss: 51.6406
+[2023-11-27 15:40:30] Epoch 94/100 | Discriminator Loss: 0.0000 | Generator Loss: 51.6012
+[2023-11-27 15:41:16] Epoch 95/100 | Discriminator Loss: 0.0000 | Generator Loss: 51.6059
+[2023-11-27 15:42:01] Epoch 96/100 | Discriminator Loss: 0.0000 | Generator Loss: 51.5734
+[2023-11-27 15:42:47] Epoch 97/100 | Discriminator Loss: 0.0000 | Generator Loss: 51.5557
+[2023-11-27 15:43:33] Epoch 98/100 | Discriminator Loss: 0.0000 | Generator Loss: 51.4828
+[2023-11-27 15:44:18] Epoch 99/100 | Discriminator Loss: 0.0000 | Generator Loss: 51.6204
+[2023-11-27 15:44:18] Epoch 100/100 | Discriminator Loss: 0.0000 | Generator Loss: 51.6204
+[2023-11-27 15:44:21] Saved checkpoint to low_learn_small_batch_terminated.pth.tar.
+[2023-11-27 15:44:21] CUDA cache cleared. Exiting train.py...
+[2023-11-27 14:27:27] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 15:27:27] Terminating train process.
+[2023-11-27 15:27:29] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:21] Restarting training due to early completion: 1011.745760679245/3600.0
+[2023-11-27 15:44:21] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:21] Restarting training due to early completion: 1011.7561039924622/3600.0
+[2023-11-27 15:44:21] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:21] Restarting training due to early completion: 1011.7638838291168/3600.0
+[2023-11-27 15:44:21] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:21] Restarting training due to early completion: 1011.7808873653412/3600.0
+[2023-11-27 15:44:21] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:21] Restarting training due to early completion: 1011.7918200492859/3600.0
+[2023-11-27 15:44:21] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:21] Restarting training due to early completion: 1011.8027822971344/3600.0
+[2023-11-27 15:44:21] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:21] Restarting training due to early completion: 1011.8286294937134/3600.0
+[2023-11-27 15:44:21] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:22] Restarting training due to early completion: 1011.9228186607361/3600.0
+[2023-11-27 15:44:22] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:22] Restarting training due to early completion: 1012.0023410320282/3600.0
+[2023-11-27 15:44:22] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:22] Restarting training due to early completion: 1012.0337936878204/3600.0
+[2023-11-27 15:44:22] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:22] Restarting training due to early completion: 1012.1546316146851/3600.0
+[2023-11-27 15:44:22] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:22] Restarting training due to early completion: 1012.2795965671539/3600.0
+[2023-11-27 15:44:22] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:22] Restarting training due to early completion: 1012.3888177871704/3600.0
+[2023-11-27 15:44:22] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:22] Restarting training due to early completion: 1012.520828962326/3600.0
+[2023-11-27 15:44:22] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:22] Restarting training due to early completion: 1012.6763293743134/3600.0
+[2023-11-27 15:44:22] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:22] Restarting training due to early completion: 1012.8308072090149/3600.0
+[2023-11-27 15:44:22] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:23] Restarting training due to early completion: 1012.9668264389038/3600.0
+[2023-11-27 15:44:23] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:23] Restarting training due to early completion: 1013.0639898777008/3600.0
+[2023-11-27 15:44:23] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:23] Restarting training due to early completion: 1013.2415218353271/3600.0
+[2023-11-27 15:44:23] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:23] Restarting training due to early completion: 1013.4424252510071/3600.0
+[2023-11-27 15:44:23] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:23] Restarting training due to early completion: 1013.6356480121613/3600.0
+[2023-11-27 15:44:23] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:23] Restarting training due to early completion: 1013.8503711223602/3600.0
+[2023-11-27 15:44:23] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:24] Restarting training due to early completion: 1014.0384068489075/3600.0
+[2023-11-27 15:44:24] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:24] Restarting training due to early completion: 1014.2965683937073/3600.0
+[2023-11-27 15:44:24] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:24] Restarting training due to early completion: 1014.5074758529663/3600.0
+[2023-11-27 15:44:24] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:24] Restarting training due to early completion: 1014.7633023262024/3600.0
+[2023-11-27 15:44:24] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:25] Restarting training due to early completion: 1014.9974129199982/3600.0
+[2023-11-27 15:44:25] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:25] Restarting training due to early completion: 1015.2628166675568/3600.0
+[2023-11-27 15:44:25] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:25] Restarting training due to early completion: 1015.5488066673279/3600.0
+[2023-11-27 15:44:25] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:25] Restarting training due to early completion: 1015.8241329193115/3600.0
+[2023-11-27 15:44:25] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:26] Restarting training due to early completion: 1016.1235086917877/3600.0
+[2023-11-27 15:44:26] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:26] Restarting training due to early completion: 1016.4191207885742/3600.0
+[2023-11-27 15:44:26] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:26] Restarting training due to early completion: 1016.735600233078/3600.0
+[2023-11-27 15:44:26] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:27] Restarting training due to early completion: 1017.0641894340515/3600.0
+[2023-11-27 15:44:27] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:27] Restarting training due to early completion: 1017.3845374584198/3600.0
+[2023-11-27 15:44:27] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:27] Restarting training due to early completion: 1017.7151124477386/3600.0
+[2023-11-27 15:44:27] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:28] Restarting training due to early completion: 1018.0906779766083/3600.0
+[2023-11-27 15:44:28] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:28] Restarting training due to early completion: 1018.4438092708588/3600.0
+[2023-11-27 15:44:28] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:28] Restarting training due to early completion: 1018.8138132095337/3600.0
+[2023-11-27 15:44:28] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:29] Restarting training due to early completion: 1019.1893904209137/3600.0
+[2023-11-27 15:44:29] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:29] Restarting training due to early completion: 1019.5863065719604/3600.0
+[2023-11-27 15:44:29] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:30] Restarting training due to early completion: 1019.9888191223145/3600.0
+[2023-11-27 15:44:30] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:30] Restarting training due to early completion: 1020.3957378864288/3600.0
+[2023-11-27 15:44:30] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:30] Restarting training due to early completion: 1020.8274657726288/3600.0
+[2023-11-27 15:44:30] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:31] Restarting training due to early completion: 1021.2584974765778/3600.0
+[2023-11-27 15:44:31] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:31] Restarting training due to early completion: 1021.7064745426178/3600.0
+[2023-11-27 15:44:31] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:32] Restarting training due to early completion: 1022.1516637802124/3600.0
+[2023-11-27 15:44:32] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:32] Restarting training due to early completion: 1022.624370098114/3600.0
+[2023-11-27 15:44:32] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:33] Restarting training due to early completion: 1023.0957958698273/3600.0
+[2023-11-27 15:44:33] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:33] Restarting training due to early completion: 1023.5764446258545/3600.0
+[2023-11-27 15:44:33] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:34] Restarting training due to early completion: 1024.0580365657806/3600.0
+[2023-11-27 15:44:34] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:34] Restarting training due to early completion: 1024.5618171691895/3600.0
+[2023-11-27 15:44:34] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:35] Restarting training due to early completion: 1025.1032361984253/3600.0
+[2023-11-27 15:44:35] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:35] Restarting training due to early completion: 1025.5916726589203/3600.0
+[2023-11-27 15:44:35] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:36] Restarting training due to early completion: 1026.1527512073517/3600.0
+[2023-11-27 15:44:36] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:36] Restarting training due to early completion: 1026.6618189811707/3600.0
+[2023-11-27 15:44:36] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:37] Restarting training due to early completion: 1027.2378125190735/3600.0
+[2023-11-27 15:44:37] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:37] Restarting training due to early completion: 1027.8018069267273/3600.0
+[2023-11-27 15:44:37] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:38] Restarting training due to early completion: 1028.3548185825348/3600.0
+[2023-11-27 15:44:38] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:39] Restarting training due to early completion: 1028.9435415267944/3600.0
+[2023-11-27 15:44:39] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:39] Restarting training due to early completion: 1029.520824432373/3600.0
+[2023-11-27 15:44:39] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:40] Restarting training due to early completion: 1030.1338186264038/3600.0
+[2023-11-27 15:44:40] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:40] Restarting training due to early completion: 1030.7738237380981/3600.0
+[2023-11-27 15:44:40] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:41] Restarting training due to early completion: 1031.4148223400116/3600.0
+[2023-11-27 15:44:41] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:42] Restarting training due to early completion: 1032.0374455451965/3600.0
+[2023-11-27 15:44:42] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:42] Restarting training due to early completion: 1032.6548418998718/3600.0
+[2023-11-27 15:44:42] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:43] Restarting training due to early completion: 1033.312827348709/3600.0
+[2023-11-27 15:44:43] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:44] Restarting training due to early completion: 1033.9828293323517/3600.0
+[2023-11-27 15:44:44] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:44] Restarting training due to early completion: 1034.6575343608856/3600.0
+[2023-11-27 15:44:44] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:45] Restarting training due to early completion: 1035.346838235855/3600.0
+[2023-11-27 15:44:45] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:46] Restarting training due to early completion: 1036.0418248176575/3600.0
+[2023-11-27 15:44:46] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:46] Restarting training due to early completion: 1036.7458260059357/3600.0
+[2023-11-27 15:44:46] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:47] Restarting training due to early completion: 1037.4368138313293/3600.0
+[2023-11-27 15:44:47] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:48] Restarting training due to early completion: 1038.178822517395/3600.0
+[2023-11-27 15:44:48] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:48] Restarting training due to early completion: 1038.805404663086/3600.0
+[2023-11-27 15:44:48] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:49] Restarting training due to early completion: 1039.656350851059/3600.0
+[2023-11-27 15:44:49] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:50] Restarting training due to early completion: 1040.4434468746185/3600.0
+[2023-11-27 15:44:50] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:51] Restarting training due to early completion: 1041.1628243923187/3600.0
+[2023-11-27 15:44:51] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:51] Restarting training due to early completion: 1041.8928265571594/3600.0
+[2023-11-27 15:44:51] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:52] Restarting training due to early completion: 1042.7327592372894/3600.0
+[2023-11-27 15:44:52] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:53] Restarting training due to early completion: 1043.533814907074/3600.0
+[2023-11-27 15:44:53] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:54] Restarting training due to early completion: 1044.3232507705688/3600.0
+[2023-11-27 15:44:54] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:55] Restarting training due to early completion: 1045.1517992019653/3600.0
+[2023-11-27 15:44:55] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:56] Restarting training due to early completion: 1046.0034358501434/3600.0
+[2023-11-27 15:44:56] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:56] Restarting training due to early completion: 1046.7988164424896/3600.0
+[2023-11-27 15:44:56] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:57] Restarting training due to early completion: 1047.6718227863312/3600.0
+[2023-11-27 15:44:57] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:58] Restarting training due to early completion: 1048.5419692993164/3600.0
+[2023-11-27 15:44:58] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:44:59] Restarting training due to early completion: 1049.4414813518524/3600.0
+[2023-11-27 15:44:59] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:00] Restarting training due to early completion: 1050.3017981052399/3600.0
+[2023-11-27 15:45:00] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:01] Restarting training due to early completion: 1051.131814956665/3600.0
+[2023-11-27 15:45:01] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:02] Restarting training due to early completion: 1051.9666748046875/3600.0
+[2023-11-27 15:45:02] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:02] Restarting training due to early completion: 1052.7958228588104/3600.0
+[2023-11-27 15:45:02] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:03] Restarting training due to early completion: 1053.6768164634705/3600.0
+[2023-11-27 15:45:03] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:04] Restarting training due to early completion: 1054.4534583091736/3600.0
+[2023-11-27 15:45:04] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:05] Restarting training due to early completion: 1055.2336111068726/3600.0
+[2023-11-27 15:45:05] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:06] Restarting training due to early completion: 1056.1856927871704/3600.0
+[2023-11-27 15:45:06] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:07] Restarting training due to early completion: 1057.0164289474487/3600.0
+[2023-11-27 15:45:07] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:07] Restarting training due to early completion: 1057.8848237991333/3600.0
+[2023-11-27 15:45:07] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:08] Restarting training due to early completion: 1058.7208189964294/3600.0
+[2023-11-27 15:45:08] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:09] Restarting training due to early completion: 1059.5747559070587/3600.0
+[2023-11-27 15:45:09] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:10] Restarting training due to early completion: 1060.4208118915558/3600.0
+[2023-11-27 15:45:10] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:11] Restarting training due to early completion: 1061.274296760559/3600.0
+[2023-11-27 15:45:11] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:12] Restarting training due to early completion: 1062.0943629741669/3600.0
+[2023-11-27 15:45:12] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:13] Restarting training due to early completion: 1063.0877051353455/3600.0
+[2023-11-27 15:45:13] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:13] Restarting training due to early completion: 1063.9025444984436/3600.0
+[2023-11-27 15:45:13] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:14] Restarting training due to early completion: 1064.8751780986786/3600.0
+[2023-11-27 15:45:14] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:15] Restarting training due to early completion: 1065.7169559001923/3600.0
+[2023-11-27 15:45:15] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:16] Restarting training due to early completion: 1066.5478234291077/3600.0
+[2023-11-27 15:45:16] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:17] Restarting training due to early completion: 1067.4052546024323/3600.0
+[2023-11-27 15:45:17] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:18] Restarting training due to early completion: 1068.3748254776/3600.0
+[2023-11-27 15:45:18] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:19] Restarting training due to early completion: 1069.2954075336456/3600.0
+[2023-11-27 15:45:19] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:20] Restarting training due to early completion: 1070.110111951828/3600.0
+[2023-11-27 15:45:20] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:21] Restarting training due to early completion: 1071.066422700882/3600.0
+[2023-11-27 15:45:21] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:22] Restarting training due to early completion: 1071.9659478664398/3600.0
+[2023-11-27 15:45:22] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:23] Restarting training due to early completion: 1073.036329984665/3600.0
+[2023-11-27 15:45:23] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:24] Restarting training due to early completion: 1073.967565536499/3600.0
+[2023-11-27 15:45:24] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:25] Restarting training due to early completion: 1075.0068004131317/3600.0
+[2023-11-27 15:45:25] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:25] Restarting training due to early completion: 1075.8665673732758/3600.0
+[2023-11-27 15:45:25] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:26] Restarting training due to early completion: 1076.7847757339478/3600.0
+[2023-11-27 15:45:26] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:27] Restarting training due to early completion: 1077.8388330936432/3600.0
+[2023-11-27 15:45:27] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:28] Restarting training due to early completion: 1078.7301182746887/3600.0
+[2023-11-27 15:45:28] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:29] Restarting training due to early completion: 1079.504054069519/3600.0
+[2023-11-27 15:45:29] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:30] Restarting training due to early completion: 1080.4104368686676/3600.0
+[2023-11-27 15:45:30] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:31] Restarting training due to early completion: 1081.282806634903/3600.0
+[2023-11-27 15:45:31] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:32] Restarting training due to early completion: 1082.1038155555725/3600.0
+[2023-11-27 15:45:32] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:33] Restarting training due to early completion: 1083.2998135089874/3600.0
+[2023-11-27 15:45:33] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:34] Restarting training due to early completion: 1084.1248247623444/3600.0
+[2023-11-27 15:45:34] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:35] Restarting training due to early completion: 1084.9929766654968/3600.0
+[2023-11-27 15:45:35] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:35] Restarting training due to early completion: 1085.8698358535767/3600.0
+[2023-11-27 15:45:35] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:36] Restarting training due to early completion: 1086.6908469200134/3600.0
+[2023-11-27 15:45:36] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:37] Restarting training due to early completion: 1087.5990710258484/3600.0
+[2023-11-27 15:45:37] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:38] Restarting training due to early completion: 1088.6478357315063/3600.0
+[2023-11-27 15:45:38] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:39] Restarting training due to early completion: 1089.5608208179474/3600.0
+[2023-11-27 15:45:39] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:40] Restarting training due to early completion: 1090.377849817276/3600.0
+[2023-11-27 15:45:40] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:41] Restarting training due to early completion: 1091.3398292064667/3600.0
+[2023-11-27 15:45:41] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:42] Restarting training due to early completion: 1092.140837430954/3600.0
+[2023-11-27 15:45:42] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:43] Restarting training due to early completion: 1093.2568364143372/3600.0
+[2023-11-27 15:45:43] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:44] Restarting training due to early completion: 1094.2028377056122/3600.0
+[2023-11-27 15:45:44] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:45] Restarting training due to early completion: 1095.047848701477/3600.0
+[2023-11-27 15:45:45] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:45] Restarting training due to early completion: 1095.8867027759552/3600.0
+[2023-11-27 15:45:45] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:46] Restarting training due to early completion: 1096.7948281764984/3600.0
+[2023-11-27 15:45:46] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:47] Restarting training due to early completion: 1097.6746215820312/3600.0
+[2023-11-27 15:45:47] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:48] Restarting training due to early completion: 1098.4514427185059/3600.0
+[2023-11-27 15:45:48] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:49] Restarting training due to early completion: 1099.4468171596527/3600.0
+[2023-11-27 15:45:49] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:50] Restarting training due to early completion: 1100.3928198814392/3600.0
+[2023-11-27 15:45:50] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:51] Restarting training due to early completion: 1101.2298254966736/3600.0
+[2023-11-27 15:45:51] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:52] Restarting training due to early completion: 1102.049721479416/3600.0
+[2023-11-27 15:45:52] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:53] Restarting training due to early completion: 1103.0805313587189/3600.0
+[2023-11-27 15:45:53] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:54] Restarting training due to early completion: 1104.2370283603668/3600.0
+[2023-11-27 15:45:54] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:55] Restarting training due to early completion: 1105.0458352565765/3600.0
+[2023-11-27 15:45:55] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:55] Restarting training due to early completion: 1105.882542848587/3600.0
+[2023-11-27 15:45:55] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:56] Restarting training due to early completion: 1106.7058396339417/3600.0
+[2023-11-27 15:45:56] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:57] Restarting training due to early completion: 1107.5336227416992/3600.0
+[2023-11-27 15:45:57] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:58] Restarting training due to early completion: 1108.5272579193115/3600.0
+[2023-11-27 15:45:58] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:45:59] Restarting training due to early completion: 1109.4228148460388/3600.0
+[2023-11-27 15:45:59] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:00] Restarting training due to early completion: 1110.2286920547485/3600.0
+[2023-11-27 15:46:00] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:01] Restarting training due to early completion: 1110.989521741867/3600.0
+[2023-11-27 15:46:01] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:02] Restarting training due to early completion: 1112.0438106060028/3600.0
+[2023-11-27 15:46:02] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:03] Restarting training due to early completion: 1113.5882349014282/3600.0
+[2023-11-27 15:46:03] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:04] Restarting training due to early completion: 1114.820620059967/3600.0
+[2023-11-27 15:46:04] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:05] Restarting training due to early completion: 1115.7046902179718/3600.0
+[2023-11-27 15:46:05] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:06] Restarting training due to early completion: 1116.5432403087616/3600.0
+[2023-11-27 15:46:06] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:07] Restarting training due to early completion: 1117.757821559906/3600.0
+[2023-11-27 15:46:07] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:08] Restarting training due to early completion: 1118.6679751873016/3600.0
+[2023-11-27 15:46:08] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:09] Restarting training due to early completion: 1119.7332818508148/3600.0
+[2023-11-27 15:46:09] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:10] Restarting training due to early completion: 1120.5312979221344/3600.0
+[2023-11-27 15:46:10] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:11] Restarting training due to early completion: 1121.3708226680756/3600.0
+[2023-11-27 15:46:11] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:12] Restarting training due to early completion: 1122.8056666851044/3600.0
+[2023-11-27 15:46:12] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:13] Restarting training due to early completion: 1123.604453086853/3600.0
+[2023-11-27 15:46:13] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:15] Restarting training due to early completion: 1124.977115869522/3600.0
+[2023-11-27 15:46:15] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:15] Restarting training due to early completion: 1125.852434873581/3600.0
+[2023-11-27 15:46:15] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:16] Restarting training due to early completion: 1126.808631658554/3600.0
+[2023-11-27 15:46:16] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:17] Restarting training due to early completion: 1127.8640644550323/3600.0
+[2023-11-27 15:46:17] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:18] Restarting training due to early completion: 1128.7145040035248/3600.0
+[2023-11-27 15:46:18] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:19] Restarting training due to early completion: 1129.5048184394836/3600.0
+[2023-11-27 15:46:19] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:20] Restarting training due to early completion: 1130.793654680252/3600.0
+[2023-11-27 15:46:20] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:21] Restarting training due to early completion: 1131.7168459892273/3600.0
+[2023-11-27 15:46:21] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:22] Restarting training due to early completion: 1132.7488396167755/3600.0
+[2023-11-27 15:46:22] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:23] Restarting training due to early completion: 1133.7238156795502/3600.0
+[2023-11-27 15:46:23] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:24] Restarting training due to early completion: 1134.6047613620758/3600.0
+[2023-11-27 15:46:24] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:25] Restarting training due to early completion: 1135.4925084114075/3600.0
+[2023-11-27 15:46:25] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:26] Restarting training due to early completion: 1136.4878311157227/3600.0
+[2023-11-27 15:46:26] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:27] Restarting training due to early completion: 1137.2948141098022/3600.0
+[2023-11-27 15:46:27] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:28] Restarting training due to early completion: 1138.1710243225098/3600.0
+[2023-11-27 15:46:28] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:29] Restarting training due to early completion: 1139.1188206672668/3600.0
+[2023-11-27 15:46:29] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:29] Restarting training due to early completion: 1139.8646416664124/3600.0
+[2023-11-27 15:46:29] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:30] Restarting training due to early completion: 1140.7168400287628/3600.0
+[2023-11-27 15:46:30] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:31] Restarting training due to early completion: 1141.5658359527588/3600.0
+[2023-11-27 15:46:31] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:32] Restarting training due to early completion: 1142.3729619979858/3600.0
+[2023-11-27 15:46:32] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:33] Restarting training due to early completion: 1143.1285462379456/3600.0
+[2023-11-27 15:46:33] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:34] Restarting training due to early completion: 1144.0543990135193/3600.0
+[2023-11-27 15:46:34] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:35] Restarting training due to early completion: 1144.9815526008606/3600.0
+[2023-11-27 15:46:35] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:35] Restarting training due to early completion: 1145.8039736747742/3600.0
+[2023-11-27 15:46:35] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:36] Restarting training due to early completion: 1146.654589176178/3600.0
+[2023-11-27 15:46:36] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:37] Restarting training due to early completion: 1147.5805575847626/3600.0
+[2023-11-27 15:46:37] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:38] Restarting training due to early completion: 1148.5965819358826/3600.0
+[2023-11-27 15:46:38] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:39] Restarting training due to early completion: 1149.5656311511993/3600.0
+[2023-11-27 15:46:39] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:40] Restarting training due to early completion: 1150.5758321285248/3600.0
+[2023-11-27 15:46:40] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:41] Restarting training due to early completion: 1151.5778419971466/3600.0
+[2023-11-27 15:46:41] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:42] Restarting training due to early completion: 1152.4188213348389/3600.0
+[2023-11-27 15:46:42] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:43] Restarting training due to early completion: 1153.4438216686249/3600.0
+[2023-11-27 15:46:43] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:44] Restarting training due to early completion: 1154.2796363830566/3600.0
+[2023-11-27 15:46:44] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:45] Restarting training due to early completion: 1155.259821653366/3600.0
+[2023-11-27 15:46:45] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:46] Restarting training due to early completion: 1156.0781741142273/3600.0
+[2023-11-27 15:46:46] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:47] Restarting training due to early completion: 1157.3148555755615/3600.0
+[2023-11-27 15:46:47] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:48] Restarting training due to early completion: 1158.3365015983582/3600.0
+[2023-11-27 15:46:48] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:49] Restarting training due to early completion: 1159.326608657837/3600.0
+[2023-11-27 15:46:49] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:50] Restarting training due to early completion: 1160.3288190364838/3600.0
+[2023-11-27 15:46:50] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:51] Restarting training due to early completion: 1161.3667659759521/3600.0
+[2023-11-27 15:46:51] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:52] Restarting training due to early completion: 1162.3984460830688/3600.0
+[2023-11-27 15:46:52] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:53] Restarting training due to early completion: 1163.264666557312/3600.0
+[2023-11-27 15:46:53] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:54] Restarting training due to early completion: 1164.1038312911987/3600.0
+[2023-11-27 15:46:54] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:55] Restarting training due to early completion: 1165.080471754074/3600.0
+[2023-11-27 15:46:55] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:56] Restarting training due to early completion: 1165.9634370803833/3600.0
+[2023-11-27 15:46:56] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:56] Restarting training due to early completion: 1166.7971441745758/3600.0
+[2023-11-27 15:46:56] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:57] Restarting training due to early completion: 1167.60142660141/3600.0
+[2023-11-27 15:46:57] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:58] Restarting training due to early completion: 1168.459950685501/3600.0
+[2023-11-27 15:46:58] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:46:59] Restarting training due to early completion: 1169.39581656456/3600.0
+[2023-11-27 15:46:59] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:00] Restarting training due to early completion: 1170.344237089157/3600.0
+[2023-11-27 15:47:00] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:01] Restarting training due to early completion: 1171.3468534946442/3600.0
+[2023-11-27 15:47:01] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:02] Restarting training due to early completion: 1172.0854411125183/3600.0
+[2023-11-27 15:47:02] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:03] Restarting training due to early completion: 1173.0932981967926/3600.0
+[2023-11-27 15:47:03] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:04] Restarting training due to early completion: 1174.0548350811005/3600.0
+[2023-11-27 15:47:04] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:04] Restarting training due to early completion: 1174.8377542495728/3600.0
+[2023-11-27 15:47:04] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:05] Restarting training due to early completion: 1175.6809713840485/3600.0
+[2023-11-27 15:47:05] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:06] Restarting training due to early completion: 1176.844821214676/3600.0
+[2023-11-27 15:47:06] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:07] Restarting training due to early completion: 1177.8314170837402/3600.0
+[2023-11-27 15:47:07] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:08] Restarting training due to early completion: 1178.8280925750732/3600.0
+[2023-11-27 15:47:08] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:09] Restarting training due to early completion: 1179.674728155136/3600.0
+[2023-11-27 15:47:09] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:10] Restarting training due to early completion: 1180.5386445522308/3600.0
+[2023-11-27 15:47:10] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:11] Restarting training due to early completion: 1181.4848327636719/3600.0
+[2023-11-27 15:47:11] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:12] Restarting training due to early completion: 1182.4566233158112/3600.0
+[2023-11-27 15:47:12] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:13] Restarting training due to early completion: 1183.2848091125488/3600.0
+[2023-11-27 15:47:13] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:14] Restarting training due to early completion: 1184.1777074337006/3600.0
+[2023-11-27 15:47:14] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:15] Restarting training due to early completion: 1185.0411241054535/3600.0
+[2023-11-27 15:47:15] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:16] Restarting training due to early completion: 1185.9768233299255/3600.0
+[2023-11-27 15:47:16] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:17] Restarting training due to early completion: 1187.02712225914/3600.0
+[2023-11-27 15:47:17] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:17] Restarting training due to early completion: 1187.8978068828583/3600.0
+[2023-11-27 15:47:17] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:18] Restarting training due to early completion: 1188.8778328895569/3600.0
+[2023-11-27 15:47:18] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:19] Restarting training due to early completion: 1189.881679058075/3600.0
+[2023-11-27 15:47:19] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:20] Restarting training due to early completion: 1190.7978208065033/3600.0
+[2023-11-27 15:47:20] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:21] Restarting training due to early completion: 1191.7858436107635/3600.0
+[2023-11-27 15:47:21] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:22] Restarting training due to early completion: 1192.8158504962921/3600.0
+[2023-11-27 15:47:22] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:23] Restarting training due to early completion: 1193.7778239250183/3600.0
+[2023-11-27 15:47:23] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:24] Restarting training due to early completion: 1194.7808146476746/3600.0
+[2023-11-27 15:47:24] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:25] Restarting training due to early completion: 1195.626813173294/3600.0
+[2023-11-27 15:47:25] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:26] Restarting training due to early completion: 1196.56480884552/3600.0
+[2023-11-27 15:47:26] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:27] Restarting training due to early completion: 1197.4107522964478/3600.0
+[2023-11-27 15:47:27] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:28] Restarting training due to early completion: 1198.2245163917542/3600.0
+[2023-11-27 15:47:28] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:29] Restarting training due to early completion: 1199.1668446063995/3600.0
+[2023-11-27 15:47:29] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:30] Restarting training due to early completion: 1200.0328407287598/3600.0
+[2023-11-27 15:47:30] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:30] Restarting training due to early completion: 1200.900841474533/3600.0
+[2023-11-27 15:47:30] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:31] Restarting training due to early completion: 1201.7927935123444/3600.0
+[2023-11-27 15:47:31] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:32] Restarting training due to early completion: 1202.6678154468536/3600.0
+[2023-11-27 15:47:32] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:33] Restarting training due to early completion: 1203.484824180603/3600.0
+[2023-11-27 15:47:33] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:34] Restarting training due to early completion: 1204.3068134784698/3600.0
+[2023-11-27 15:47:34] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:35] Restarting training due to early completion: 1205.1008160114288/3600.0
+[2023-11-27 15:47:35] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:36] Restarting training due to early completion: 1205.926836490631/3600.0
+[2023-11-27 15:47:36] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:36] Restarting training due to early completion: 1206.7195641994476/3600.0
+[2023-11-27 15:47:36] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:37] Restarting training due to early completion: 1207.8509047031403/3600.0
+[2023-11-27 15:47:37] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:38] Restarting training due to early completion: 1208.5978426933289/3600.0
+[2023-11-27 15:47:38] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:39] Restarting training due to early completion: 1209.5172703266144/3600.0
+[2023-11-27 15:47:39] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:40] Restarting training due to early completion: 1210.6148309707642/3600.0
+[2023-11-27 15:47:40] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:41] Restarting training due to early completion: 1211.6774997711182/3600.0
+[2023-11-27 15:47:41] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:42] Restarting training due to early completion: 1212.6978199481964/3600.0
+[2023-11-27 15:47:42] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:43] Restarting training due to early completion: 1213.8658452033997/3600.0
+[2023-11-27 15:47:43] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:44] Restarting training due to early completion: 1214.7998180389404/3600.0
+[2023-11-27 15:47:44] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:45] Restarting training due to early completion: 1215.637573480606/3600.0
+[2023-11-27 15:47:45] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:46] Restarting training due to early completion: 1216.5148346424103/3600.0
+[2023-11-27 15:47:46] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:47] Restarting training due to early completion: 1217.331775188446/3600.0
+[2023-11-27 15:47:47] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:48] Restarting training due to early completion: 1218.168533563614/3600.0
+[2023-11-27 15:47:48] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:48] Restarting training due to early completion: 1218.8932764530182/3600.0
+[2023-11-27 15:47:48] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:49] Restarting training due to early completion: 1219.6693000793457/3600.0
+[2023-11-27 15:47:49] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:50] Restarting training due to early completion: 1220.4328286647797/3600.0
+[2023-11-27 15:47:50] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:51] Restarting training due to early completion: 1221.226455450058/3600.0
+[2023-11-27 15:47:51] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:52] Restarting training due to early completion: 1221.9752640724182/3600.0
+[2023-11-27 15:47:52] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:52] Restarting training due to early completion: 1222.7955882549286/3600.0
+[2023-11-27 15:47:52] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:53] Restarting training due to early completion: 1223.53524684906/3600.0
+[2023-11-27 15:47:53] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:54] Restarting training due to early completion: 1224.266817331314/3600.0
+[2023-11-27 15:47:54] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:55] Restarting training due to early completion: 1225.0464565753937/3600.0
+[2023-11-27 15:47:55] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:55] Restarting training due to early completion: 1225.833722114563/3600.0
+[2023-11-27 15:47:55] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:56] Restarting training due to early completion: 1226.5651252269745/3600.0
+[2023-11-27 15:47:56] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:57] Restarting training due to early completion: 1227.3468325138092/3600.0
+[2023-11-27 15:47:57] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:58] Restarting training due to early completion: 1228.124135017395/3600.0
+[2023-11-27 15:47:58] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:58] Restarting training due to early completion: 1228.853806257248/3600.0
+[2023-11-27 15:47:58] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:47:59] Restarting training due to early completion: 1229.6304666996002/3600.0
+[2023-11-27 15:47:59] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:00] Restarting training due to early completion: 1230.3956191539764/3600.0
+[2023-11-27 15:48:00] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:01] Restarting training due to early completion: 1231.1524691581726/3600.0
+[2023-11-27 15:48:01] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:02] Restarting training due to early completion: 1231.944852590561/3600.0
+[2023-11-27 15:48:02] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:02] Restarting training due to early completion: 1232.8244454860687/3600.0
+[2023-11-27 15:48:02] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:03] Restarting training due to early completion: 1233.7070689201355/3600.0
+[2023-11-27 15:48:03] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:04] Restarting training due to early completion: 1234.8635394573212/3600.0
+[2023-11-27 15:48:04] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:05] Restarting training due to early completion: 1235.718552827835/3600.0
+[2023-11-27 15:48:05] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:06] Restarting training due to early completion: 1236.4920353889465/3600.0
+[2023-11-27 15:48:06] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:07] Restarting training due to early completion: 1237.4268155097961/3600.0
+[2023-11-27 15:48:07] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:08] Restarting training due to early completion: 1238.255402803421/3600.0
+[2023-11-27 15:48:08] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:09] Restarting training due to early completion: 1239.3132383823395/3600.0
+[2023-11-27 15:48:09] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:10] Restarting training due to early completion: 1240.079437971115/3600.0
+[2023-11-27 15:48:10] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:11] Restarting training due to early completion: 1240.9325833320618/3600.0
+[2023-11-27 15:48:11] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:12] Restarting training due to early completion: 1242.0148148536682/3600.0
+[2023-11-27 15:48:12] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:12] Restarting training due to early completion: 1242.7754302024841/3600.0
+[2023-11-27 15:48:12] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:13] Restarting training due to early completion: 1243.5668241977692/3600.0
+[2023-11-27 15:48:13] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:14] Restarting training due to early completion: 1244.3766169548035/3600.0
+[2023-11-27 15:48:14] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:15] Restarting training due to early completion: 1245.1318411827087/3600.0
+[2023-11-27 15:48:15] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:15] Restarting training due to early completion: 1245.8748168945312/3600.0
+[2023-11-27 15:48:15] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:16] Restarting training due to early completion: 1246.6436569690704/3600.0
+[2023-11-27 15:48:16] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:17] Restarting training due to early completion: 1247.4243140220642/3600.0
+[2023-11-27 15:48:17] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:18] Restarting training due to early completion: 1248.1668212413788/3600.0
+[2023-11-27 15:48:18] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:19] Restarting training due to early completion: 1248.9268238544464/3600.0
+[2023-11-27 15:48:19] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:19] Restarting training due to early completion: 1249.716814994812/3600.0
+[2023-11-27 15:48:19] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:20] Restarting training due to early completion: 1250.457185268402/3600.0
+[2023-11-27 15:48:20] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:21] Restarting training due to early completion: 1251.2425956726074/3600.0
+[2023-11-27 15:48:21] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:22] Restarting training due to early completion: 1252.0078282356262/3600.0
+[2023-11-27 15:48:22] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:22] Restarting training due to early completion: 1252.7905938625336/3600.0
+[2023-11-27 15:48:22] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:23] Restarting training due to early completion: 1253.5226595401764/3600.0
+[2023-11-27 15:48:23] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:24] Restarting training due to early completion: 1254.3095319271088/3600.0
+[2023-11-27 15:48:24] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:25] Restarting training due to early completion: 1255.083654165268/3600.0
+[2023-11-27 15:48:25] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:25] Restarting training due to early completion: 1255.826827764511/3600.0
+[2023-11-27 15:48:25] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:26] Restarting training due to early completion: 1256.625834941864/3600.0
+[2023-11-27 15:48:26] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:27] Restarting training due to early completion: 1257.3825142383575/3600.0
+[2023-11-27 15:48:27] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:28] Restarting training due to early completion: 1258.1535289287567/3600.0
+[2023-11-27 15:48:28] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:28] Restarting training due to early completion: 1258.9131572246552/3600.0
+[2023-11-27 15:48:28] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:30] Restarting training due to early completion: 1260.1153333187103/3600.0
+[2023-11-27 15:48:30] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:31] Restarting training due to early completion: 1261.043011188507/3600.0
+[2023-11-27 15:48:31] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:31] Restarting training due to early completion: 1261.8848140239716/3600.0
+[2023-11-27 15:48:31] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:32] Restarting training due to early completion: 1262.8008048534393/3600.0
+[2023-11-27 15:48:32] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:33] Restarting training due to early completion: 1263.719943523407/3600.0
+[2023-11-27 15:48:33] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:34] Restarting training due to early completion: 1264.6457092761993/3600.0
+[2023-11-27 15:48:34] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:35] Restarting training due to early completion: 1265.739270210266/3600.0
+[2023-11-27 15:48:35] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:36] Restarting training due to early completion: 1266.8377566337585/3600.0
+[2023-11-27 15:48:36] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:37] Restarting training due to early completion: 1267.6488101482391/3600.0
+[2023-11-27 15:48:37] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:38] Restarting training due to early completion: 1268.5255763530731/3600.0
+[2023-11-27 15:48:38] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:39] Restarting training due to early completion: 1269.3703174591064/3600.0
+[2023-11-27 15:48:39] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:40] Restarting training due to early completion: 1270.195645570755/3600.0
+[2023-11-27 15:48:40] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:41] Restarting training due to early completion: 1271.0178217887878/3600.0
+[2023-11-27 15:48:41] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:41] Restarting training due to early completion: 1271.8138196468353/3600.0
+[2023-11-27 15:48:41] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:42] Restarting training due to early completion: 1272.571809053421/3600.0
+[2023-11-27 15:48:42] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:43] Restarting training due to early completion: 1273.3296041488647/3600.0
+[2023-11-27 15:48:43] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:44] Restarting training due to early completion: 1274.0635678768158/3600.0
+[2023-11-27 15:48:44] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:44] Restarting training due to early completion: 1274.8736114501953/3600.0
+[2023-11-27 15:48:44] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:45] Restarting training due to early completion: 1275.624808549881/3600.0
+[2023-11-27 15:48:45] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:46] Restarting training due to early completion: 1276.4118297100067/3600.0
+[2023-11-27 15:48:46] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:47] Restarting training due to early completion: 1277.1265211105347/3600.0
+[2023-11-27 15:48:47] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:47] Restarting training due to early completion: 1277.9115171432495/3600.0
+[2023-11-27 15:48:47] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:48] Restarting training due to early completion: 1278.7098982334137/3600.0
+[2023-11-27 15:48:48] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:49] Restarting training due to early completion: 1279.473825931549/3600.0
+[2023-11-27 15:48:49] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:50] Restarting training due to early completion: 1280.2058067321777/3600.0
+[2023-11-27 15:48:50] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:51] Restarting training due to early completion: 1280.9918191432953/3600.0
+[2023-11-27 15:48:51] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:51] Restarting training due to early completion: 1281.7333734035492/3600.0
+[2023-11-27 15:48:51] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:52] Restarting training due to early completion: 1282.512764453888/3600.0
+[2023-11-27 15:48:52] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:53] Restarting training due to early completion: 1283.2415738105774/3600.0
+[2023-11-27 15:48:53] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:54] Restarting training due to early completion: 1284.011826992035/3600.0
+[2023-11-27 15:48:54] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:54] Restarting training due to early completion: 1284.7976205348969/3600.0
+[2023-11-27 15:48:54] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:56] Restarting training due to early completion: 1286.0327224731445/3600.0
+[2023-11-27 15:48:56] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:56] Restarting training due to early completion: 1286.7638385295868/3600.0
+[2023-11-27 15:48:56] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:57] Restarting training due to early completion: 1287.5512866973877/3600.0
+[2023-11-27 15:48:57] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:58] Restarting training due to early completion: 1288.3404636383057/3600.0
+[2023-11-27 15:48:58] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:59] Restarting training due to early completion: 1289.0938210487366/3600.0
+[2023-11-27 15:48:59] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:48:59] Restarting training due to early completion: 1289.8626005649567/3600.0
+[2023-11-27 15:48:59] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:00] Restarting training due to early completion: 1290.6085243225098/3600.0
+[2023-11-27 15:49:00] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:01] Restarting training due to early completion: 1291.3987257480621/3600.0
+[2023-11-27 15:49:01] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:02] Restarting training due to early completion: 1292.159833431244/3600.0
+[2023-11-27 15:49:02] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:02] Restarting training due to early completion: 1292.8762488365173/3600.0
+[2023-11-27 15:49:02] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:03] Restarting training due to early completion: 1293.6398856639862/3600.0
+[2023-11-27 15:49:03] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:04] Restarting training due to early completion: 1294.3887622356415/3600.0
+[2023-11-27 15:49:04] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:05] Restarting training due to early completion: 1295.1732697486877/3600.0
+[2023-11-27 15:49:05] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:05] Restarting training due to early completion: 1295.9158172607422/3600.0
+[2023-11-27 15:49:05] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:06] Restarting training due to early completion: 1296.6897056102753/3600.0
+[2023-11-27 15:49:06] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:07] Restarting training due to early completion: 1297.4408221244812/3600.0
+[2023-11-27 15:49:07] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:08] Restarting training due to early completion: 1298.2106907367706/3600.0
+[2023-11-27 15:49:08] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:08] Restarting training due to early completion: 1298.9184520244598/3600.0
+[2023-11-27 15:49:08] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:09] Restarting training due to early completion: 1299.7558195590973/3600.0
+[2023-11-27 15:49:09] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:10] Restarting training due to early completion: 1300.476506471634/3600.0
+[2023-11-27 15:49:10] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:11] Restarting training due to early completion: 1301.266354560852/3600.0
+[2023-11-27 15:49:11] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:12] Restarting training due to early completion: 1301.9728245735168/3600.0
+[2023-11-27 15:49:12] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:12] Restarting training due to early completion: 1302.7552947998047/3600.0
+[2023-11-27 15:49:12] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:13] Restarting training due to early completion: 1303.8068354129791/3600.0
+[2023-11-27 15:49:13] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:14] Restarting training due to early completion: 1304.588299036026/3600.0
+[2023-11-27 15:49:14] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:15] Restarting training due to early completion: 1305.3544118404388/3600.0
+[2023-11-27 15:49:15] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:16] Restarting training due to early completion: 1306.1258132457733/3600.0
+[2023-11-27 15:49:16] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:16] Restarting training due to early completion: 1306.832810163498/3600.0
+[2023-11-27 15:49:16] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:17] Restarting training due to early completion: 1307.6388161182404/3600.0
+[2023-11-27 15:49:17] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:18] Restarting training due to early completion: 1308.4020462036133/3600.0
+[2023-11-27 15:49:18] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:19] Restarting training due to early completion: 1309.1528239250183/3600.0
+[2023-11-27 15:49:19] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:20] Restarting training due to early completion: 1309.9288132190704/3600.0
+[2023-11-27 15:49:20] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:20] Restarting training due to early completion: 1310.701817035675/3600.0
+[2023-11-27 15:49:20] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:21] Restarting training due to early completion: 1311.4858150482178/3600.0
+[2023-11-27 15:49:21] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:22] Restarting training due to early completion: 1312.2422931194305/3600.0
+[2023-11-27 15:49:22] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:23] Restarting training due to early completion: 1312.997751712799/3600.0
+[2023-11-27 15:49:23] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:23] Restarting training due to early completion: 1313.7612748146057/3600.0
+[2023-11-27 15:49:23] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:24] Restarting training due to early completion: 1314.541827917099/3600.0
+[2023-11-27 15:49:24] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:25] Restarting training due to early completion: 1315.2536051273346/3600.0
+[2023-11-27 15:49:25] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:26] Restarting training due to early completion: 1316.0176503658295/3600.0
+[2023-11-27 15:49:26] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:26] Restarting training due to early completion: 1316.7918181419373/3600.0
+[2023-11-27 15:49:26] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:27] Restarting training due to early completion: 1317.5373303890228/3600.0
+[2023-11-27 15:49:27] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:28] Restarting training due to early completion: 1318.2915036678314/3600.0
+[2023-11-27 15:49:28] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:29] Restarting training due to early completion: 1319.063794851303/3600.0
+[2023-11-27 15:49:29] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:29] Restarting training due to early completion: 1319.8038198947906/3600.0
+[2023-11-27 15:49:29] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:30] Restarting training due to early completion: 1320.5671298503876/3600.0
+[2023-11-27 15:49:30] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:31] Restarting training due to early completion: 1321.3354358673096/3600.0
+[2023-11-27 15:49:31] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:32] Restarting training due to early completion: 1322.532823562622/3600.0
+[2023-11-27 15:49:32] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:33] Restarting training due to early completion: 1323.85582113266/3600.0
+[2023-11-27 15:49:33] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:35] Restarting training due to early completion: 1325.160826921463/3600.0
+[2023-11-27 15:49:35] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:36] Restarting training due to early completion: 1326.4338212013245/3600.0
+[2023-11-27 15:49:36] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:37] Restarting training due to early completion: 1327.7118201255798/3600.0
+[2023-11-27 15:49:37] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:39] Restarting training due to early completion: 1329.9198153018951/3600.0
+[2023-11-27 15:49:39] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:41] Restarting training due to early completion: 1331.5967259407043/3600.0
+[2023-11-27 15:49:41] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:44] Restarting training due to early completion: 1333.9847860336304/3600.0
+[2023-11-27 15:49:44] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:45] Restarting training due to early completion: 1335.7938203811646/3600.0
+[2023-11-27 15:49:45] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:47] Restarting training due to early completion: 1337.3639616966248/3600.0
+[2023-11-27 15:49:47] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:50] Restarting training due to early completion: 1340.1618435382843/3600.0
+[2023-11-27 15:49:50] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:52] Restarting training due to early completion: 1342.0258178710938/3600.0
+[2023-11-27 15:49:52] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:53] Restarting training due to early completion: 1343.8109531402588/3600.0
+[2023-11-27 15:49:53] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:55] Restarting training due to early completion: 1345.5558686256409/3600.0
+[2023-11-27 15:49:55] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:57] Restarting training due to early completion: 1347.1125631332397/3600.0
+[2023-11-27 15:49:57] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:49:58] Restarting training due to early completion: 1348.727821111679/3600.0
+[2023-11-27 15:49:58] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:00] Restarting training due to early completion: 1350.1251423358917/3600.0
+[2023-11-27 15:50:00] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:01] Restarting training due to early completion: 1351.341436624527/3600.0
+[2023-11-27 15:50:01] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:02] Restarting training due to early completion: 1352.6108391284943/3600.0
+[2023-11-27 15:50:02] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:03] Restarting training due to early completion: 1353.6215419769287/3600.0
+[2023-11-27 15:50:03] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:04] Restarting training due to early completion: 1354.6318397521973/3600.0
+[2023-11-27 15:50:04] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:05] Restarting training due to early completion: 1355.722823858261/3600.0
+[2023-11-27 15:50:05] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:06] Restarting training due to early completion: 1356.9128303527832/3600.0
+[2023-11-27 15:50:06] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:08] Restarting training due to early completion: 1358.1358361244202/3600.0
+[2023-11-27 15:50:08] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:09] Restarting training due to early completion: 1359.6648280620575/3600.0
+[2023-11-27 15:50:09] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:11] Restarting training due to early completion: 1361.195833683014/3600.0
+[2023-11-27 15:50:11] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:12] Restarting training due to early completion: 1362.1058096885681/3600.0
+[2023-11-27 15:50:12] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:13] Restarting training due to early completion: 1363.5088384151459/3600.0
+[2023-11-27 15:50:13] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:15] Restarting training due to early completion: 1365.0388202667236/3600.0
+[2023-11-27 15:50:15] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:15] Restarting training due to early completion: 1365.881819486618/3600.0
+[2023-11-27 15:50:15] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:17] Restarting training due to early completion: 1367.4688193798065/3600.0
+[2023-11-27 15:50:17] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:18] Restarting training due to early completion: 1368.2998428344727/3600.0
+[2023-11-27 15:50:18] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:19] Restarting training due to early completion: 1369.2835855484009/3600.0
+[2023-11-27 15:50:19] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:20] Restarting training due to early completion: 1370.1456837654114/3600.0
+[2023-11-27 15:50:20] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:21] Restarting training due to early completion: 1371.0003571510315/3600.0
+[2023-11-27 15:50:21] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:21] Restarting training due to early completion: 1371.7857339382172/3600.0
+[2023-11-27 15:50:21] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:22] Restarting training due to early completion: 1372.685822725296/3600.0
+[2023-11-27 15:50:22] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:23] Restarting training due to early completion: 1373.4748239517212/3600.0
+[2023-11-27 15:50:23] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:24] Restarting training due to early completion: 1374.3578207492828/3600.0
+[2023-11-27 15:50:24] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:25] Restarting training due to early completion: 1375.221843957901/3600.0
+[2023-11-27 15:50:25] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:26] Restarting training due to early completion: 1376.0150780677795/3600.0
+[2023-11-27 15:50:26] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:26] Restarting training due to early completion: 1376.8636388778687/3600.0
+[2023-11-27 15:50:26] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:27] Restarting training due to early completion: 1377.723825931549/3600.0
+[2023-11-27 15:50:27] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:28] Restarting training due to early completion: 1378.520839691162/3600.0
+[2023-11-27 15:50:28] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:29] Restarting training due to early completion: 1379.3468306064606/3600.0
+[2023-11-27 15:50:29] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:30] Restarting training due to early completion: 1380.2158455848694/3600.0
+[2023-11-27 15:50:30] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:31] Restarting training due to early completion: 1381.0358510017395/3600.0
+[2023-11-27 15:50:31] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:31] Restarting training due to early completion: 1381.8784108161926/3600.0
+[2023-11-27 15:50:31] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:32] Restarting training due to early completion: 1382.6718473434448/3600.0
+[2023-11-27 15:50:32] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:33] Restarting training due to early completion: 1383.5418231487274/3600.0
+[2023-11-27 15:50:33] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:34] Restarting training due to early completion: 1384.3268294334412/3600.0
+[2023-11-27 15:50:34] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:35] Restarting training due to early completion: 1385.2208256721497/3600.0
+[2023-11-27 15:50:35] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:36] Restarting training due to early completion: 1385.9838345050812/3600.0
+[2023-11-27 15:50:36] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:36] Restarting training due to early completion: 1386.7948253154755/3600.0
+[2023-11-27 15:50:36] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:37] Restarting training due to early completion: 1387.6518268585205/3600.0
+[2023-11-27 15:50:37] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:38] Restarting training due to early completion: 1388.5009970664978/3600.0
+[2023-11-27 15:50:38] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:39] Restarting training due to early completion: 1389.3204147815704/3600.0
+[2023-11-27 15:50:39] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:40] Restarting training due to early completion: 1390.1198246479034/3600.0
+[2023-11-27 15:50:40] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:41] Restarting training due to early completion: 1390.9948246479034/3600.0
+[2023-11-27 15:50:41] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:41] Restarting training due to early completion: 1391.8308289051056/3600.0
+[2023-11-27 15:50:41] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:42] Restarting training due to early completion: 1392.6228222846985/3600.0
+[2023-11-27 15:50:42] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:43] Restarting training due to early completion: 1393.512844800949/3600.0
+[2023-11-27 15:50:43] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:44] Restarting training due to early completion: 1394.2900111675262/3600.0
+[2023-11-27 15:50:44] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:45] Restarting training due to early completion: 1395.1718261241913/3600.0
+[2023-11-27 15:50:45] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:46] Restarting training due to early completion: 1396.0941660404205/3600.0
+[2023-11-27 15:50:46] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:46] Restarting training due to early completion: 1396.8747744560242/3600.0
+[2023-11-27 15:50:46] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:47] Restarting training due to early completion: 1397.7394189834595/3600.0
+[2023-11-27 15:50:47] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:48] Restarting training due to early completion: 1398.6172161102295/3600.0
+[2023-11-27 15:50:48] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:49] Restarting training due to early completion: 1399.390823841095/3600.0
+[2023-11-27 15:50:49] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:50] Restarting training due to early completion: 1400.3228368759155/3600.0
+[2023-11-27 15:50:50] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:51] Restarting training due to early completion: 1401.1541883945465/3600.0
+[2023-11-27 15:50:51] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:52] Restarting training due to early completion: 1401.9599611759186/3600.0
+[2023-11-27 15:50:52] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:53] Restarting training due to early completion: 1403.0538260936737/3600.0
+[2023-11-27 15:50:53] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:50:57] Restarting training due to early completion: 1407.117300271988/3600.0
+[2023-11-27 15:50:57] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:51:03] Restarting training due to early completion: 1413.3859012126923/3600.0
+[2023-11-27 15:51:03] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:51:07] Restarting training due to early completion: 1417.4359230995178/3600.0
+[2023-11-27 15:51:07] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:51:11] Restarting training due to early completion: 1421.0118381977081/3600.0
+[2023-11-27 15:51:11] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:51:14] Restarting training due to early completion: 1424.2178316116333/3600.0
+[2023-11-27 15:51:14] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:51:17] Restarting training due to early completion: 1427.6268491744995/3600.0
+[2023-11-27 15:51:17] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:51:20] Restarting training due to early completion: 1430.5688281059265/3600.0
+[2023-11-27 15:51:20] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:51:23] Restarting training due to early completion: 1433.6888282299042/3600.0
+[2023-11-27 15:51:23] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:51:27] Restarting training due to early completion: 1437.0278227329254/3600.0
+[2023-11-27 15:51:27] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:51:30] Restarting training due to early completion: 1440.2078490257263/3600.0
+[2023-11-27 15:51:30] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:51:33] Restarting training due to early completion: 1443.4918224811554/3600.0
+[2023-11-27 15:51:33] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:51:36] Restarting training due to early completion: 1446.772803068161/3600.0
+[2023-11-27 15:51:36] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:51:40] Restarting training due to early completion: 1449.9414422512054/3600.0
+[2023-11-27 15:51:40] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:51:43] Restarting training due to early completion: 1453.1698305606842/3600.0
+[2023-11-27 15:51:43] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:51:46] Restarting training due to early completion: 1456.49583029747/3600.0
+[2023-11-27 15:51:46] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:51:49] Restarting training due to early completion: 1459.249989748001/3600.0
+[2023-11-27 15:51:49] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:51:50] Restarting training due to early completion: 1460.6827688217163/3600.0
+[2023-11-27 15:51:50] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:51:51] Restarting training due to early completion: 1461.8129494190216/3600.0
+[2023-11-27 15:51:51] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:51:52] Restarting training due to early completion: 1462.736828804016/3600.0
+[2023-11-27 15:51:52] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:51:53] Restarting training due to early completion: 1463.690826177597/3600.0
+[2023-11-27 15:51:53] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:51:54] Restarting training due to early completion: 1464.7840049266815/3600.0
+[2023-11-27 15:51:54] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:51:55] Restarting training due to early completion: 1465.713820695877/3600.0
+[2023-11-27 15:51:55] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-27 15:51:56] Restarting training due to early completion: 1466.7519812583923/3600.0
+[2023-11-27 15:51:56] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8

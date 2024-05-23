@@ -1,0 +1,13 @@
+Universe   = vanilla
+Executable = run_job.sh
+Arguments  = dataset_blocks_build.py --minecraft_dataset_path ../dataset/schematics.hdf5
+
+Output     = embeddings/logs/out.log
+Error      = embeddings/logs/error.log
+Log        = embeddings/logs/log.log
+
+Request_Cpus   = 1
+Request_Gpus   = 1
+Request_Memory = 20GB
+
+Queue

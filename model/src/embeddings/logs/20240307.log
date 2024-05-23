@@ -1,0 +1,10 @@
+[2024-03-07 14:55:39] CUDA Available: True
+[2024-03-07 14:55:39] CUDA Version: 11.3
+[2024-03-07 14:55:39] PyTorch Version: 1.10.2+cu113
+[2024-03-07 14:55:39] CUDA Device Name: NVIDIA GeForce RTX 4080
+[2024-03-07 14:55:39] Using device: cuda
+[2024-03-07 14:55:39] Initializing dataset...
+[2024-03-07 14:55:42] Dataset initialized.
+[2024-03-07 14:55:42] No checkpoint found at 'embeddings/checkpoints/ll_mb_target.pth.tar', starting from scratch.
+[2024-03-07 15:00:20] Epoch 0, total_train_loss: 15703.165895581245, total_val_loss: 3901.930084466934
+[2024-03-07 15:04:37] Epoch 1, total_train_loss: 15591.62817454338, total_val_loss: 3903.531524181366

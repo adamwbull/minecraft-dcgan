@@ -1,0 +1,29 @@
+[2023-12-01 19:48:37] Loaded checkpoint ll_hb.pth.tar in local epoch 0 | best_loss_g: inf | best_loss_d_closest_to_half: inf | best_loss_d: inf 
+[2023-12-01 19:48:47] Saved new best_loss_g checkpoint ll_hb_best_loss_g.pth.tar
+[2023-12-01 19:48:47] Saved Epoch 0/100 | Discriminator Loss: 1.667638 | Generator Loss: 10.417442
+[2023-12-01 19:48:50] Saved new best_loss_d checkpoint ll_hb_best_loss_d.pth.tar
+[2023-12-01 19:48:50] Saved Epoch 0/100 | Discriminator Loss: 1.667638 | Generator Loss: 10.417442
+[2023-12-01 19:48:53] Saved new best_loss_d checkpoint ll_hb_best_loss_closest_to_half.pth.tar
+[2023-12-01 19:48:53] Saved Epoch 0/100 | Discriminator Loss: 1.667638 | Generator Loss: 10.417442
+[2023-12-01 19:49:04] Saved new best_loss_g checkpoint ll_hb_best_loss_g.pth.tar
+[2023-12-01 19:49:04] Saved Epoch 0/100 | Discriminator Loss: 0.350628 | Generator Loss: 8.892570
+[2023-12-01 19:49:07] Saved new best_loss_d checkpoint ll_hb_best_loss_d.pth.tar
+[2023-12-01 19:49:07] Saved Epoch 0/100 | Discriminator Loss: 0.350628 | Generator Loss: 8.892570
+[2023-12-01 19:49:10] Saved new best_loss_d checkpoint ll_hb_best_loss_closest_to_half.pth.tar
+[2023-12-01 19:49:10] Saved Epoch 0/100 | Discriminator Loss: 0.350628 | Generator Loss: 8.892570
+[2023-12-01 19:49:20] Saved new best_loss_g checkpoint ll_hb_best_loss_g.pth.tar
+[2023-12-01 19:49:20] Saved Epoch 0/100 | Discriminator Loss: 0.003882 | Generator Loss: 6.461297
+[2023-12-01 19:49:23] Saved new best_loss_d checkpoint ll_hb_best_loss_d.pth.tar
+[2023-12-01 19:49:23] Saved Epoch 0/100 | Discriminator Loss: 0.003882 | Generator Loss: 6.461297
+[2023-12-01 19:49:49] Saved new best_loss_d checkpoint ll_hb_best_loss_d.pth.tar
+[2023-12-01 19:49:49] Saved Epoch 0/100 | Discriminator Loss: 0.000389 | Generator Loss: 10.394028
+[2023-12-01 19:50:24] Saved new best_loss_d checkpoint ll_hb_best_loss_d.pth.tar
+[2023-12-01 19:50:24] Saved Epoch 0/100 | Discriminator Loss: 0.000096 | Generator Loss: 16.568485
+[2023-12-01 19:51:46] Saved new best_loss_d checkpoint ll_hb_best_loss_d.pth.tar
+[2023-12-01 19:51:46] Saved Epoch 0/100 | Discriminator Loss: 0.000060 | Generator Loss: 17.521248
+[2023-12-01 19:52:54] Saved new best_loss_d checkpoint ll_hb_best_loss_d.pth.tar
+[2023-12-01 19:52:54] Saved Epoch 0/100 | Discriminator Loss: 0.000032 | Generator Loss: 20.130930
+[2023-12-01 19:53:04] Saved new best_loss_d checkpoint ll_hb_best_loss_d.pth.tar
+[2023-12-01 19:53:04] Saved Epoch 0/100 | Discriminator Loss: 0.000015 | Generator Loss: 18.168964
+[2023-12-01 19:53:45] Termination signal received. Saved checkpoint ll_hb_terminated.pth.tar.
+[2023-12-01 19:53:45] CUDA cache cleared. Exiting train.py...

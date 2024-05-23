@@ -1,0 +1,20 @@
+[2023-12-16 00:45:21] Epoch 58/100 | Discriminator Loss: 0.018284 | Generator Loss: 6.304674
+[2023-12-16 00:45:21] Epoch 58/100 | Discriminator Loss: 0.072475 | Generator Loss: 5.452954
+[2023-12-16 03:36:46] Epoch 59/100 | Discriminator Loss: 0.003385 | Generator Loss: 6.324312
+[2023-12-16 03:36:46] Epoch 59/100 | Discriminator Loss: 0.001858 | Generator Loss: 6.520952
+[2023-12-16 06:28:21] Epoch 60/100 | Discriminator Loss: 0.000209 | Generator Loss: 10.639625
+[2023-12-16 06:28:21] Epoch 60/100 | Discriminator Loss: 0.000271 | Generator Loss: 9.750388
+[2023-12-16 09:19:45] Epoch 61/100 | Discriminator Loss: 0.003765 | Generator Loss: 8.429281
+[2023-12-16 09:19:45] Epoch 61/100 | Discriminator Loss: 0.006050 | Generator Loss: 10.407091
+[2023-12-16 12:11:14] Epoch 62/100 | Discriminator Loss: 0.015690 | Generator Loss: 7.022362
+[2023-12-16 12:11:14] Epoch 62/100 | Discriminator Loss: 0.033497 | Generator Loss: 4.243661
+[2023-12-16 14:06:42] Saved new best_loss_d_closest_to_half checkpoint ll_lb_best_loss_d_closest_to_half.pth.tar
+[2023-12-16 14:06:42] Saved Epoch 63/100 | Discriminator Loss: 0.499916 | Generator Loss: 1.468555
+[2023-12-16 15:02:48] Epoch 63/100 | Discriminator Loss: 0.000761 | Generator Loss: 7.881933
+[2023-12-16 15:02:48] Epoch 63/100 | Discriminator Loss: 0.000507 | Generator Loss: 9.248902
+[2023-12-16 17:54:45] Epoch 64/100 | Discriminator Loss: 0.020208 | Generator Loss: 5.187335
+[2023-12-16 17:54:45] Epoch 64/100 | Discriminator Loss: 0.001286 | Generator Loss: 7.633556
+[2023-12-16 20:46:29] Epoch 65/100 | Discriminator Loss: 0.008501 | Generator Loss: 4.724177
+[2023-12-16 20:46:30] Epoch 65/100 | Discriminator Loss: 0.007003 | Generator Loss: 4.892130
+[2023-12-16 23:38:09] Epoch 66/100 | Discriminator Loss: 0.002477 | Generator Loss: 8.367485
+[2023-12-16 23:38:09] Epoch 66/100 | Discriminator Loss: 0.004232 | Generator Loss: 7.748211

@@ -1,0 +1,49 @@
+000 (55417.000.000) 2023-11-27 19:22:02 Job submitted from host: <140.160.143.130:9618?addrs=140.160.143.130-9618&alias=csci-head.cluster.cs.wwu.edu&noUDP&sock=schedd_1686_08c4>
+...
+001 (55417.000.000) 2023-11-27 19:22:15 Job executing on host: <140.160.143.172:9618?addrs=140.160.143.172-9618&alias=g-1-0.cluster.cs.wwu.edu&noUDP&sock=startd_2355_e99f>
+	SlotName: slot1_1@g-1-0.cluster.cs.wwu.edu
+	AvailableGPUs = { GPUs_GPU_f387d8f1,GPUs_GPU_4ad3d3a5,GPUs_GPU_4baabe5e }
+	CondorScratchDir = "/scratch_ssd/condor/execute/dir_2298753"
+	Cpus = 1
+	Disk = 3503172
+	GPUs = 3
+	GPUs_GPU_4ad3d3a5 = [ DeviceName = "NVIDIA GeForce RTX 2080 Ti"; DriverVersion = 12.2; ECCEnabled = false; DevicePciBusId = "0000:5E:00.0"; DeviceUuid = "4ad3d3a5-55f7-bb09-217b-a8bb0b0e794b"; GlobalMemoryMb = 11012; MaxSupportedVersion = 12020; Capability = 7.5; Id = "GPU-4ad3d3a5" ]
+	GPUs_GPU_4baabe5e = [ DeviceName = "NVIDIA GeForce RTX 2080 Ti"; DriverVersion = 12.2; ECCEnabled = false; DevicePciBusId = "0000:AF:00.0"; DeviceUuid = "4baabe5e-6d32-d686-d67b-51558270e42e"; GlobalMemoryMb = 11012; MaxSupportedVersion = 12020; Capability = 7.5; Id = "GPU-4baabe5e" ]
+	GPUs_GPU_f387d8f1 = [ DeviceName = "NVIDIA GeForce RTX 2080 Ti"; DriverVersion = 12.2; ECCEnabled = false; DevicePciBusId = "0000:3B:00.0"; DeviceUuid = "f387d8f1-bf2f-fb94-86b9-a0b7a00b4858"; GlobalMemoryMb = 11012; MaxSupportedVersion = 12020; Capability = 7.5; Id = "GPU-f387d8f1" ]
+	Memory = 40960
+...
+006 (55417.000.000) 2023-11-27 19:22:23 Image size of job updated: 1421372
+	1389  -  MemoryUsage of job (MB)
+	1421372  -  ResidentSetSize of job (KB)
+...
+006 (55417.000.000) 2023-11-27 19:27:23 Image size of job updated: 33482936
+	32418  -  MemoryUsage of job (MB)
+	33195692  -  ResidentSetSize of job (KB)
+...
+006 (55417.000.000) 2023-11-27 19:32:24 Image size of job updated: 37112264
+	33617  -  MemoryUsage of job (MB)
+	34423224  -  ResidentSetSize of job (KB)
+...
+006 (55417.000.000) 2023-11-27 19:42:25 Image size of job updated: 38514964
+	33617  -  MemoryUsage of job (MB)
+	34423224  -  ResidentSetSize of job (KB)
+...
+005 (55417.000.000) 2023-11-27 19:49:43 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:15:46, Sys 0 00:07:25  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:15:46, Sys 0 00:07:25  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :     1.00        1         1 
+	   Disk (KB)            :     1           1   3503172 
+	   Gpus (Average)       :     0.34        3         3 "GPU-f387d8f1,GPU-4ad3d3a5,GPU-4baabe5e"
+	   GpusMemory (MB)      :   256                       
+	   Memory (MB)          : 33617       40960     40960 
+
+	Job terminated of its own accord at 2023-11-28T03:49:43Z with exit-code 0.
+...

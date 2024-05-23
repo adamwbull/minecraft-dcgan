@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "trainfidcnn.py", line 104, in <module>
+    main()
+  File "trainfidcnn.py", line 101, in main
+    train(model, dataloader, args.epochs, args.lr, args.name)
+  File "trainfidcnn.py", line 83, in train
+    loss = criterion(outputs, data)
+  File "/cluster/research-groups/deneke/minecraft-gan-attention-2/pyenv/lib64/python3.6/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/cluster/research-groups/deneke/minecraft-gan-attention-2/pyenv/lib64/python3.6/site-packages/torch/nn/modules/loss.py", line 603, in forward
+    return F.binary_cross_entropy(input, target, weight=self.weight, reduction=self.reduction)
+  File "/cluster/research-groups/deneke/minecraft-gan-attention-2/pyenv/lib64/python3.6/site-packages/torch/nn/functional.py", line 2908, in binary_cross_entropy
+    "Please ensure they have the same size.".format(target.size(), input.size())
+ValueError: Using a target size (torch.Size([12, 16, 32, 32, 32])) that is different to the input size (torch.Size([12, 128])) is deprecated. Please ensure they have the same size.

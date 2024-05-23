@@ -1,0 +1,218 @@
+[2023-11-26 16:46:00] Loaded checkpoint with best_loss_d value of inf
+[2023-11-26 16:46:06] Saved new best checkpoint to low_learn_small_batch_best.pth.tar
+[2023-11-26 16:46:06] Saved Epoch 0/100 | Discriminator Loss: 1.4413 | Generator Loss: 13.6525
+[2023-11-26 16:46:11] Saved new best checkpoint to low_learn_small_batch_best.pth.tar
+[2023-11-26 16:46:11] Saved Epoch 0/100 | Discriminator Loss: 1.0174 | Generator Loss: 10.9591
+[2023-11-26 16:46:17] Saved new best checkpoint to low_learn_small_batch_best.pth.tar
+[2023-11-26 16:46:17] Saved Epoch 0/100 | Discriminator Loss: 0.0078 | Generator Loss: 10.1439
+[2023-11-26 16:46:31] Saved new best checkpoint to low_learn_small_batch_best.pth.tar
+[2023-11-26 16:46:31] Saved Epoch 0/100 | Discriminator Loss: 0.0004 | Generator Loss: 15.0604
+[2023-11-26 16:47:09] Saved new best checkpoint to low_learn_small_batch_best.pth.tar
+[2023-11-26 16:47:09] Saved Epoch 0/100 | Discriminator Loss: 0.0002 | Generator Loss: 11.1574
+[2023-11-26 16:47:20] Saved new best checkpoint to low_learn_small_batch_best.pth.tar
+[2023-11-26 16:47:20] Saved Epoch 0/100 | Discriminator Loss: 0.0001 | Generator Loss: 14.2883
+[2023-11-26 16:47:25] Saved new best checkpoint to low_learn_small_batch_best.pth.tar
+[2023-11-26 16:47:25] Saved Epoch 0/100 | Discriminator Loss: 0.0000 | Generator Loss: 15.0982
+[2023-11-26 16:47:33] Saved new best checkpoint to low_learn_small_batch_best.pth.tar
+[2023-11-26 16:47:33] Saved Epoch 0/100 | Discriminator Loss: 0.0000 | Generator Loss: 12.7742
+[2023-11-26 16:48:29] Saved new best checkpoint to low_learn_small_batch_best.pth.tar
+[2023-11-26 16:48:29] Saved Epoch 0/100 | Discriminator Loss: 0.0000 | Generator Loss: 14.5619
+[2023-11-26 16:51:13] Epoch 0/100 | Discriminator Loss: 0.0143 | Generator Loss: 10.0210
+[2023-11-26 16:51:58] Epoch 1/100 | Discriminator Loss: 0.1116 | Generator Loss: 4.0917
+[2023-11-26 16:52:42] Epoch 2/100 | Discriminator Loss: 0.0549 | Generator Loss: 6.7717
+[2023-11-26 16:53:26] Epoch 3/100 | Discriminator Loss: 0.0433 | Generator Loss: 5.3886
+[2023-11-26 16:54:10] Epoch 4/100 | Discriminator Loss: 2.1881 | Generator Loss: 1.0221
+[2023-11-26 16:54:54] Epoch 5/100 | Discriminator Loss: 0.2406 | Generator Loss: 3.2590
+[2023-11-26 16:55:38] Epoch 6/100 | Discriminator Loss: 0.4417 | Generator Loss: 3.6307
+[2023-11-26 16:56:22] Epoch 7/100 | Discriminator Loss: 4.4630 | Generator Loss: 0.8198
+[2023-11-26 16:57:06] Epoch 8/100 | Discriminator Loss: 0.0493 | Generator Loss: 5.6542
+[2023-11-26 16:57:50] Epoch 9/100 | Discriminator Loss: 4.3794 | Generator Loss: 2.7762
+[2023-11-26 16:58:34] Epoch 10/100 | Discriminator Loss: 0.0111 | Generator Loss: 4.8518
+[2023-11-26 16:59:18] Epoch 11/100 | Discriminator Loss: 0.3924 | Generator Loss: 1.9714
+[2023-11-26 17:00:02] Epoch 12/100 | Discriminator Loss: 0.1945 | Generator Loss: 4.1239
+[2023-11-26 17:00:46] Epoch 13/100 | Discriminator Loss: 0.0153 | Generator Loss: 5.4299
+[2023-11-26 17:01:30] Epoch 14/100 | Discriminator Loss: 0.0519 | Generator Loss: 3.9382
+[2023-11-26 17:02:14] Epoch 15/100 | Discriminator Loss: 0.5251 | Generator Loss: 3.6099
+[2023-11-26 17:02:58] Epoch 16/100 | Discriminator Loss: 0.0517 | Generator Loss: 4.7777
+[2023-11-26 17:03:42] Epoch 17/100 | Discriminator Loss: 0.0059 | Generator Loss: 5.9071
+[2023-11-26 17:04:26] Epoch 18/100 | Discriminator Loss: 0.0139 | Generator Loss: 4.7343
+[2023-11-26 17:05:10] Epoch 19/100 | Discriminator Loss: 1.3983 | Generator Loss: 2.5787
+[2023-11-26 17:05:54] Epoch 20/100 | Discriminator Loss: 0.0370 | Generator Loss: 4.4136
+[2023-11-26 17:06:38] Epoch 21/100 | Discriminator Loss: 1.1982 | Generator Loss: 2.6258
+[2023-11-26 17:07:22] Epoch 22/100 | Discriminator Loss: 0.0213 | Generator Loss: 4.5962
+[2023-11-26 17:08:06] Epoch 23/100 | Discriminator Loss: 0.0172 | Generator Loss: 5.6593
+[2023-11-26 17:08:50] Epoch 24/100 | Discriminator Loss: 0.3401 | Generator Loss: 3.9088
+[2023-11-26 17:09:37] Saved latest checkpoint to low_learn_small_batch_latest.pth.tar
+[2023-11-26 17:09:37] Saved Epoch 25/100 | Discriminator Loss: 0.0353 | Generator Loss: 4.8120
+[2023-11-26 17:10:21] Epoch 26/100 | Discriminator Loss: 0.0015 | Generator Loss: 6.9424
+[2023-11-26 17:11:05] Epoch 27/100 | Discriminator Loss: 0.0055 | Generator Loss: 5.9499
+[2023-11-26 17:11:49] Epoch 28/100 | Discriminator Loss: 0.0089 | Generator Loss: 6.7493
+[2023-11-26 17:12:33] Epoch 29/100 | Discriminator Loss: 0.0075 | Generator Loss: 5.5102
+[2023-11-26 17:13:17] Epoch 30/100 | Discriminator Loss: 1.4790 | Generator Loss: 3.0384
+[2023-11-26 17:14:01] Epoch 31/100 | Discriminator Loss: 0.8227 | Generator Loss: 9.1547
+[2023-11-26 17:14:45] Epoch 32/100 | Discriminator Loss: 0.0075 | Generator Loss: 5.4252
+[2023-11-26 17:15:29] Epoch 33/100 | Discriminator Loss: 0.0667 | Generator Loss: 3.5014
+[2023-11-26 17:16:13] Epoch 34/100 | Discriminator Loss: 0.0226 | Generator Loss: 5.4916
+[2023-11-26 17:16:57] Epoch 35/100 | Discriminator Loss: 0.0092 | Generator Loss: 6.2431
+[2023-11-26 17:17:41] Epoch 36/100 | Discriminator Loss: 0.0064 | Generator Loss: 5.9179
+[2023-11-26 17:18:12] Saved new best checkpoint to low_learn_small_batch_best.pth.tar
+[2023-11-26 17:18:12] Saved Epoch 37/100 | Discriminator Loss: 0.0000 | Generator Loss: 16.1933
+[2023-11-26 17:18:28] Epoch 37/100 | Discriminator Loss: 0.0110 | Generator Loss: 4.9801
+[2023-11-26 17:19:11] Epoch 38/100 | Discriminator Loss: 0.0087 | Generator Loss: 5.4506
+[2023-11-26 17:19:55] Epoch 39/100 | Discriminator Loss: 0.0348 | Generator Loss: 5.6678
+[2023-11-26 17:20:39] Epoch 40/100 | Discriminator Loss: 0.0625 | Generator Loss: 4.7026
+[2023-11-26 17:21:23] Epoch 41/100 | Discriminator Loss: 0.0094 | Generator Loss: 5.1665
+[2023-11-26 17:22:06] Epoch 42/100 | Discriminator Loss: 0.0211 | Generator Loss: 5.2294
+[2023-11-26 17:22:50] Epoch 43/100 | Discriminator Loss: 0.1545 | Generator Loss: 6.4204
+[2023-11-26 17:23:34] Epoch 44/100 | Discriminator Loss: 0.3577 | Generator Loss: 3.5169
+[2023-11-26 17:24:17] Epoch 45/100 | Discriminator Loss: 0.2093 | Generator Loss: 8.9809
+[2023-11-26 17:25:01] Epoch 46/100 | Discriminator Loss: 0.0898 | Generator Loss: 3.4326
+[2023-11-26 17:25:45] Epoch 47/100 | Discriminator Loss: 0.1466 | Generator Loss: 4.5648
+[2023-11-26 17:26:29] Epoch 48/100 | Discriminator Loss: 0.0844 | Generator Loss: 4.6871
+[2023-11-26 17:27:13] Epoch 49/100 | Discriminator Loss: 0.1218 | Generator Loss: 3.4989
+[2023-11-26 17:28:00] Saved latest checkpoint to low_learn_small_batch_latest.pth.tar
+[2023-11-26 17:28:00] Saved Epoch 50/100 | Discriminator Loss: 0.0018 | Generator Loss: 7.7793
+[2023-11-26 17:28:44] Epoch 51/100 | Discriminator Loss: 0.0601 | Generator Loss: 4.2505
+[2023-11-26 17:29:28] Epoch 52/100 | Discriminator Loss: 0.0007 | Generator Loss: 10.6333
+[2023-11-26 17:30:11] Epoch 53/100 | Discriminator Loss: 0.0098 | Generator Loss: 8.5784
+[2023-11-26 17:30:55] Epoch 54/100 | Discriminator Loss: 0.1460 | Generator Loss: 5.5484
+[2023-11-26 17:31:39] Epoch 55/100 | Discriminator Loss: 0.0502 | Generator Loss: 3.4840
+[2023-11-26 17:32:23] Epoch 56/100 | Discriminator Loss: 0.0058 | Generator Loss: 6.5401
+[2023-11-26 17:33:07] Epoch 57/100 | Discriminator Loss: 0.7425 | Generator Loss: 2.1322
+[2023-11-26 17:33:51] Epoch 58/100 | Discriminator Loss: 0.1488 | Generator Loss: 3.4203
+[2023-11-26 17:34:35] Epoch 59/100 | Discriminator Loss: 0.2556 | Generator Loss: 2.9981
+[2023-11-26 17:35:19] Epoch 60/100 | Discriminator Loss: 0.0168 | Generator Loss: 4.9926
+[2023-11-26 17:36:03] Epoch 61/100 | Discriminator Loss: 0.0150 | Generator Loss: 5.4519
+[2023-11-26 17:36:47] Epoch 62/100 | Discriminator Loss: 0.0116 | Generator Loss: 6.4686
+[2023-11-26 17:37:31] Epoch 63/100 | Discriminator Loss: 0.3199 | Generator Loss: 7.8500
+[2023-11-26 17:38:15] Epoch 64/100 | Discriminator Loss: 0.0028 | Generator Loss: 7.0849
+[2023-11-26 17:38:58] Epoch 65/100 | Discriminator Loss: 0.0156 | Generator Loss: 4.9722
+[2023-11-26 17:39:42] Epoch 66/100 | Discriminator Loss: 0.1785 | Generator Loss: 8.4767
+[2023-11-26 17:40:26] Epoch 67/100 | Discriminator Loss: 0.0001 | Generator Loss: 17.2356
+[2023-11-26 17:41:10] Epoch 68/100 | Discriminator Loss: 0.0072 | Generator Loss: 18.8949
+[2023-11-26 17:41:54] Epoch 69/100 | Discriminator Loss: 0.0005 | Generator Loss: 14.3021
+[2023-11-26 17:42:38] Epoch 70/100 | Discriminator Loss: 0.0001 | Generator Loss: 25.1347
+[2023-11-26 17:43:22] Epoch 71/100 | Discriminator Loss: 0.0016 | Generator Loss: 9.2259
+[2023-11-26 17:44:06] Epoch 72/100 | Discriminator Loss: 0.0002 | Generator Loss: 13.8654
+[2023-11-26 17:44:50] Epoch 73/100 | Discriminator Loss: 0.0009 | Generator Loss: 7.7132
+[2023-11-26 17:45:34] Epoch 74/100 | Discriminator Loss: 0.0004 | Generator Loss: 11.5679
+[2023-11-26 17:45:50] Termination signal received. Saved checkpoint to low_learn_small_batch_terminated.pth.tar. Exiting.
+[2023-11-26 17:45:58] Generating sample from low_learn_small_batch.
+[2023-11-26 17:45:58] Sample generated in 6.15 seconds.
+[2023-11-26 17:46:05] Entire process completed in 13.24 seconds.
+[2023-11-26 17:46:11] Loaded checkpoint with best_loss_d value of inf
+[2023-11-26 17:46:19] Saved new best checkpoint to medium_learn_large_batch_best.pth.tar
+[2023-11-26 17:46:19] Saved Epoch 0/100 | Discriminator Loss: 1.4761 | Generator Loss: 13.6231
+[2023-11-26 17:46:26] Saved new best checkpoint to medium_learn_large_batch_best.pth.tar
+[2023-11-26 17:46:26] Saved Epoch 0/100 | Discriminator Loss: 0.4154 | Generator Loss: 4.5397
+[2023-11-26 17:46:39] Saved new best checkpoint to medium_learn_large_batch_best.pth.tar
+[2023-11-26 17:46:39] Saved Epoch 0/100 | Discriminator Loss: 0.0116 | Generator Loss: 19.7035
+[2023-11-26 17:46:48] Generating sample from medium_learn_large_batch.
+[2023-11-26 17:46:48] Sample generated in 3.56 seconds.
+[2023-11-26 17:46:56] Entire process completed in 10.81 seconds.
+[2023-11-26 17:47:01] Loaded checkpoint with best_loss_d value of inf
+[2023-11-26 17:47:05] Saved new best checkpoint to high_learn_medium_batch_best.pth.tar
+[2023-11-26 17:47:05] Saved Epoch 0/100 | Discriminator Loss: 1.5146 | Generator Loss: 19.5728
+[2023-11-26 17:47:09] Saved new best checkpoint to high_learn_medium_batch_best.pth.tar
+[2023-11-26 17:47:09] Saved Epoch 0/100 | Discriminator Loss: 1.0591 | Generator Loss: 12.1796
+[2023-11-26 17:47:13] Saved new best checkpoint to high_learn_medium_batch_best.pth.tar
+[2023-11-26 17:47:13] Saved Epoch 0/100 | Discriminator Loss: 0.0000 | Generator Loss: 22.6446
+[2023-11-26 17:47:17] Saved new best checkpoint to high_learn_medium_batch_best.pth.tar
+[2023-11-26 17:47:17] Saved Epoch 0/100 | Discriminator Loss: 0.0000 | Generator Loss: 21.7124
+[2023-11-26 17:47:58] Epoch 0/100 | Discriminator Loss: 0.3170 | Generator Loss: 4.8947
+[2023-11-26 17:48:43] Epoch 1/100 | Discriminator Loss: 0.0694 | Generator Loss: 5.6427
+[2023-11-26 17:49:28] Epoch 2/100 | Discriminator Loss: 0.0019 | Generator Loss: 9.8283
+[2023-11-26 17:50:13] Epoch 3/100 | Discriminator Loss: 0.7186 | Generator Loss: 3.1023
+[2023-11-26 17:50:58] Epoch 4/100 | Discriminator Loss: 0.2313 | Generator Loss: 5.2705
+[2023-11-26 17:51:43] Epoch 5/100 | Discriminator Loss: 2.3154 | Generator Loss: 13.3466
+[2023-11-26 17:52:28] Epoch 6/100 | Discriminator Loss: 0.6173 | Generator Loss: 6.5160
+[2023-11-26 17:53:13] Epoch 7/100 | Discriminator Loss: 0.8080 | Generator Loss: 2.9352
+[2023-11-26 17:53:57] Epoch 8/100 | Discriminator Loss: 0.0339 | Generator Loss: 5.8096
+[2023-11-26 17:54:41] Epoch 9/100 | Discriminator Loss: 0.3678 | Generator Loss: 4.3241
+[2023-11-26 17:55:27] Epoch 10/100 | Discriminator Loss: 0.0502 | Generator Loss: 4.8342
+[2023-11-26 17:56:11] Epoch 11/100 | Discriminator Loss: 1.1747 | Generator Loss: 1.2717
+[2023-11-26 17:56:56] Epoch 12/100 | Discriminator Loss: 3.6111 | Generator Loss: 1.2262
+[2023-11-26 17:57:42] Epoch 13/100 | Discriminator Loss: 0.0045 | Generator Loss: 10.6690
+[2023-11-26 17:58:26] Epoch 14/100 | Discriminator Loss: 0.3071 | Generator Loss: 4.6914
+[2023-11-26 17:59:11] Epoch 15/100 | Discriminator Loss: 0.3639 | Generator Loss: 5.5580
+[2023-11-26 17:59:55] Epoch 16/100 | Discriminator Loss: 0.0226 | Generator Loss: 5.0840
+[2023-11-26 18:00:40] Epoch 17/100 | Discriminator Loss: 0.0029 | Generator Loss: 6.4867
+[2023-11-26 18:01:25] Epoch 18/100 | Discriminator Loss: 0.0092 | Generator Loss: 5.8888
+[2023-11-26 18:02:09] Epoch 19/100 | Discriminator Loss: 0.4230 | Generator Loss: 16.9525
+[2023-11-26 18:02:54] Epoch 20/100 | Discriminator Loss: 0.0105 | Generator Loss: 5.2522
+[2023-11-26 18:03:39] Epoch 21/100 | Discriminator Loss: 0.0011 | Generator Loss: 7.3251
+[2023-11-26 18:04:24] Epoch 22/100 | Discriminator Loss: 0.0006 | Generator Loss: 7.7097
+[2023-11-26 18:05:09] Epoch 23/100 | Discriminator Loss: 0.0000 | Generator Loss: 11.1312
+[2023-11-26 18:05:54] Epoch 24/100 | Discriminator Loss: 0.0015 | Generator Loss: 7.7249
+[2023-11-26 18:06:42] Saved latest checkpoint to high_learn_medium_batch_latest.pth.tar
+[2023-11-26 18:06:42] Saved Epoch 25/100 | Discriminator Loss: 0.0080 | Generator Loss: 15.7687
+[2023-11-26 18:07:26] Epoch 26/100 | Discriminator Loss: 0.0003 | Generator Loss: 8.8038
+[2023-11-26 18:08:11] Epoch 27/100 | Discriminator Loss: 0.1949 | Generator Loss: 11.3505
+[2023-11-26 18:08:56] Epoch 28/100 | Discriminator Loss: 0.0005 | Generator Loss: 10.4322
+[2023-11-26 18:09:41] Epoch 29/100 | Discriminator Loss: 0.0035 | Generator Loss: 6.3703
+[2023-11-26 18:10:26] Epoch 30/100 | Discriminator Loss: 0.0018 | Generator Loss: 6.8209
+[2023-11-26 18:11:11] Epoch 31/100 | Discriminator Loss: 0.0001 | Generator Loss: 9.6482
+[2023-11-26 18:11:55] Epoch 32/100 | Discriminator Loss: 0.0000 | Generator Loss: 11.3322
+[2023-11-26 18:12:40] Epoch 33/100 | Discriminator Loss: 0.0001 | Generator Loss: 10.8015
+[2023-11-26 18:13:05] Saved new best checkpoint to high_learn_medium_batch_best.pth.tar
+[2023-11-26 18:13:05] Saved Epoch 34/100 | Discriminator Loss: 0.0000 | Generator Loss: 51.3514
+[2023-11-26 18:13:28] Epoch 34/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.9953
+[2023-11-26 18:14:13] Epoch 35/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.9788
+[2023-11-26 18:14:57] Epoch 36/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.8776
+[2023-11-26 18:15:42] Epoch 37/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.7264
+[2023-11-26 18:16:27] Epoch 38/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.6831
+[2023-11-26 18:17:12] Epoch 39/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.9269
+[2023-11-26 18:17:57] Epoch 40/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.5067
+[2023-11-26 18:18:42] Epoch 41/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.6356
+[2023-11-26 18:19:26] Epoch 42/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.5313
+[2023-11-26 18:20:10] Epoch 43/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.2893
+[2023-11-26 18:20:55] Epoch 44/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.2948
+[2023-11-26 18:21:40] Epoch 45/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.6126
+[2023-11-26 18:22:24] Epoch 46/100 | Discriminator Loss: 0.0001 | Generator Loss: 55.4993
+[2023-11-26 18:23:09] Epoch 47/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.5249
+[2023-11-26 18:23:53] Epoch 48/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.2904
+[2023-11-26 18:24:38] Epoch 49/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.5752
+[2023-11-26 18:25:24] Saved latest checkpoint to high_learn_medium_batch_latest.pth.tar
+[2023-11-26 18:25:24] Saved Epoch 50/100 | Discriminator Loss: 0.0002 | Generator Loss: 55.4148
+[2023-11-26 18:26:09] Epoch 51/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.4610
+[2023-11-26 18:26:53] Epoch 52/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.6138
+[2023-11-26 18:27:38] Epoch 53/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.6875
+[2023-11-26 18:28:23] Epoch 54/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.5773
+[2023-11-26 18:29:08] Epoch 55/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.5054
+[2023-11-26 18:29:53] Epoch 56/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.7964
+[2023-11-26 18:30:38] Epoch 57/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.4812
+[2023-11-26 18:31:23] Epoch 58/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.7983
+[2023-11-26 18:32:07] Epoch 59/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.5836
+[2023-11-26 18:32:52] Epoch 60/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.5714
+[2023-11-26 18:33:37] Epoch 61/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.5847
+[2023-11-26 18:34:22] Epoch 62/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.5166
+[2023-11-26 18:35:06] Epoch 63/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.5773
+[2023-11-26 18:35:51] Epoch 64/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.6195
+[2023-11-26 18:36:36] Epoch 65/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.4152
+[2023-11-26 18:37:20] Epoch 66/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.1877
+[2023-11-26 18:38:06] Epoch 67/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.3703
+[2023-11-26 18:38:50] Epoch 68/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.3724
+[2023-11-26 18:39:35] Epoch 69/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.6060
+[2023-11-26 18:40:20] Epoch 70/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.6014
+[2023-11-26 18:41:04] Epoch 71/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.4707
+[2023-11-26 18:41:49] Epoch 72/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.6912
+[2023-11-26 18:42:33] Epoch 73/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.3310
+[2023-11-26 18:43:18] Epoch 74/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.5643
+[2023-11-26 18:44:05] Saved latest checkpoint to high_learn_medium_batch_latest.pth.tar
+[2023-11-26 18:44:05] Saved Epoch 75/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.6471
+[2023-11-26 18:44:50] Epoch 76/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.5961
+[2023-11-26 18:45:35] Epoch 77/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.5161
+[2023-11-26 18:46:20] Epoch 78/100 | Discriminator Loss: 0.0000 | Generator Loss: 55.4755
+[2023-11-26 18:47:00] Termination signal received. Saved checkpoint to high_learn_medium_batch_terminated.pth.tar. Exiting.
+[2023-11-26 18:47:05] Generating sample from high_learn_medium_batch.
+[2023-11-26 18:47:05] Sample generated in 3.60 seconds.
+[2023-11-26 18:47:12] Entire process completed in 10.64 seconds.
+[2023-11-26 16:45:47] Spawning train.py low_learn_small_batch --epochs 100 --lr 0.0001 --batch_size 8
+[2023-11-26 17:45:49] Spawning generate.py low_learn_small_batch
+[2023-11-26 17:46:07] Spawning train.py medium_learn_large_batch --epochs 100 --lr 0.0002 --batch_size 32
+[2023-11-26 17:46:44] Spawning generate.py medium_learn_large_batch
+[2023-11-26 17:46:57] Spawning train.py high_learn_medium_batch --epochs 100 --lr 0.0003 --batch_size 16
+[2023-11-26 18:46:59] Spawning generate.py high_learn_medium_batch
+[2023-11-26 23:00:57] Epoch 99/100 | Discriminator Loss: 0.0001 | Generator Loss: 10.7978
+[2023-11-26 23:01:00] Epoch 100/100 | Discriminator Loss: 0.0001 | Generator Loss: 10.7978
+[2023-11-26 23:01:00] Saved checkpoint to low_learn_small_batch_terminated.pth.tar. Exiting train.py as epochs are complete...

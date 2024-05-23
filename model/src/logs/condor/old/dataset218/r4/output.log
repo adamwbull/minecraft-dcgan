@@ -1,0 +1,1033 @@
+[2023-11-27 13:03:34] Loaded checkpoint with best_loss_d value of 0.0940568670630455
+[2023-11-27 13:03:41] Saved new best checkpoint to medium_learn_medium_batch_best.pth.tar
+[2023-11-27 13:03:41] Saved Epoch 77/100 | Discriminator Loss: 0.0067 | Generator Loss: 6.5814
+[2023-11-27 13:03:49] Saved new best checkpoint to medium_learn_medium_batch_best.pth.tar
+[2023-11-27 13:03:49] Saved Epoch 77/100 | Discriminator Loss: 0.0029 | Generator Loss: 6.9211
+[2023-11-27 13:06:51] Saved new best checkpoint to medium_learn_medium_batch_best.pth.tar
+[2023-11-27 13:06:51] Saved Epoch 77/100 | Discriminator Loss: 0.0003 | Generator Loss: 11.5385
+[2023-11-27 13:08:31] Epoch 77/100 | Discriminator Loss: 0.1036 | Generator Loss: 5.6719
+[2023-11-27 13:09:17] Epoch 78/100 | Discriminator Loss: 0.0119 | Generator Loss: 5.8764
+[2023-11-27 13:09:45] Saved new best checkpoint to medium_learn_medium_batch_best.pth.tar
+[2023-11-27 13:09:45] Saved Epoch 79/100 | Discriminator Loss: 0.0001 | Generator Loss: 9.1741
+[2023-11-27 13:10:05] Epoch 79/100 | Discriminator Loss: 0.0003 | Generator Loss: 9.7181
+[2023-11-27 13:10:50] Epoch 80/100 | Discriminator Loss: 0.0068 | Generator Loss: 6.8023
+[2023-11-27 13:11:27] Saved new best checkpoint to medium_learn_medium_batch_best.pth.tar
+[2023-11-27 13:11:27] Saved Epoch 81/100 | Discriminator Loss: 0.0000 | Generator Loss: 10.8920
+[2023-11-27 13:11:38] Epoch 81/100 | Discriminator Loss: 0.0001 | Generator Loss: 13.6197
+[2023-11-27 13:12:23] Epoch 82/100 | Discriminator Loss: 0.0495 | Generator Loss: 9.7626
+[2023-11-27 13:12:43] Saved new best checkpoint to medium_learn_medium_batch_best.pth.tar
+[2023-11-27 13:12:43] Saved Epoch 83/100 | Discriminator Loss: 0.0000 | Generator Loss: 16.5626
+[2023-11-27 13:13:10] Epoch 83/100 | Discriminator Loss: 0.0210 | Generator Loss: 5.2963
+[2023-11-27 13:13:55] Epoch 84/100 | Discriminator Loss: 0.3372 | Generator Loss: 3.3454
+[2023-11-27 13:14:39] Epoch 85/100 | Discriminator Loss: 0.1581 | Generator Loss: 7.4294
+[2023-11-27 13:15:24] Epoch 86/100 | Discriminator Loss: 1.3661 | Generator Loss: 3.1713
+[2023-11-27 13:16:09] Epoch 87/100 | Discriminator Loss: 0.1280 | Generator Loss: 5.4652
+[2023-11-27 13:16:54] Epoch 88/100 | Discriminator Loss: 0.0665 | Generator Loss: 3.5145
+[2023-11-27 13:17:39] Epoch 89/100 | Discriminator Loss: 0.4681 | Generator Loss: 3.1506
+[2023-11-27 13:18:23] Epoch 90/100 | Discriminator Loss: 0.2284 | Generator Loss: 6.2811
+[2023-11-27 13:19:08] Epoch 91/100 | Discriminator Loss: 0.0132 | Generator Loss: 9.2348
+[2023-11-27 13:19:53] Epoch 92/100 | Discriminator Loss: 0.0540 | Generator Loss: 7.5012
+[2023-11-27 13:20:37] Epoch 93/100 | Discriminator Loss: 0.0566 | Generator Loss: 7.1254
+[2023-11-27 13:21:22] Epoch 94/100 | Discriminator Loss: 0.0020 | Generator Loss: 11.2489
+[2023-11-27 13:22:07] Epoch 95/100 | Discriminator Loss: 0.0688 | Generator Loss: 8.6016
+[2023-11-27 13:22:53] Epoch 96/100 | Discriminator Loss: 0.0039 | Generator Loss: 9.2866
+[2023-11-27 13:23:38] Epoch 97/100 | Discriminator Loss: 0.2120 | Generator Loss: 12.0588
+[2023-11-27 13:23:42] Saved new best checkpoint to medium_learn_medium_batch_best.pth.tar
+[2023-11-27 13:23:42] Saved Epoch 98/100 | Discriminator Loss: 0.0000 | Generator Loss: 27.0924
+[2023-11-27 13:24:25] Epoch 98/100 | Discriminator Loss: 0.5665 | Generator Loss: 5.6951
+[2023-11-27 13:25:09] Epoch 99/100 | Discriminator Loss: 0.0116 | Generator Loss: 7.4762
+[2023-11-27 13:25:09] Epoch 100/100 | Discriminator Loss: 0.0116 | Generator Loss: 7.4762
+[2023-11-27 13:25:12] Saved checkpoint to medium_learn_medium_batch_terminated.pth.tar. Exiting train.py as epochs are complete...
+[2023-11-27 13:03:18] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:13] Restarting training due to early completion: 1314.9011652469635/3600.0
+[2023-11-27 13:25:13] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:13] Restarting training due to early completion: 1314.9125356674194/3600.0
+[2023-11-27 13:25:13] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:13] Restarting training due to early completion: 1314.9209606647491/3600.0
+[2023-11-27 13:25:13] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:13] Restarting training due to early completion: 1314.9290187358856/3600.0
+[2023-11-27 13:25:13] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:13] Restarting training due to early completion: 1314.9500615596771/3600.0
+[2023-11-27 13:25:13] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:13] Restarting training due to early completion: 1314.9617323875427/3600.0
+[2023-11-27 13:25:13] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:13] Restarting training due to early completion: 1314.9727239608765/3600.0
+[2023-11-27 13:25:13] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:13] Restarting training due to early completion: 1314.9924049377441/3600.0
+[2023-11-27 13:25:13] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:13] Restarting training due to early completion: 1315.1220319271088/3600.0
+[2023-11-27 13:25:13] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:13] Restarting training due to early completion: 1315.2178173065186/3600.0
+[2023-11-27 13:25:13] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:14] Restarting training due to early completion: 1315.3256981372833/3600.0
+[2023-11-27 13:25:14] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:14] Restarting training due to early completion: 1315.453011751175/3600.0
+[2023-11-27 13:25:14] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:14] Restarting training due to early completion: 1315.5459151268005/3600.0
+[2023-11-27 13:25:14] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:14] Restarting training due to early completion: 1315.6810569763184/3600.0
+[2023-11-27 13:25:14] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:14] Restarting training due to early completion: 1315.8370292186737/3600.0
+[2023-11-27 13:25:14] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:14] Restarting training due to early completion: 1315.9820277690887/3600.0
+[2023-11-27 13:25:14] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:14] Restarting training due to early completion: 1316.1289715766907/3600.0
+[2023-11-27 13:25:14] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:15] Restarting training due to early completion: 1316.2519824504852/3600.0
+[2023-11-27 13:25:15] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:15] Restarting training due to early completion: 1316.384449005127/3600.0
+[2023-11-27 13:25:15] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:15] Restarting training due to early completion: 1316.621579170227/3600.0
+[2023-11-27 13:25:15] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:15] Restarting training due to early completion: 1316.8158717155457/3600.0
+[2023-11-27 13:25:15] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:15] Restarting training due to early completion: 1317.0266344547272/3600.0
+[2023-11-27 13:25:15] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:15] Restarting training due to early completion: 1317.2286038398743/3600.0
+[2023-11-27 13:25:15] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:16] Restarting training due to early completion: 1317.447538137436/3600.0
+[2023-11-27 13:25:16] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:16] Restarting training due to early completion: 1317.6924796104431/3600.0
+[2023-11-27 13:25:16] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:16] Restarting training due to early completion: 1317.947608947754/3600.0
+[2023-11-27 13:25:16] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:16] Restarting training due to early completion: 1318.1996221542358/3600.0
+[2023-11-27 13:25:16] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:17] Restarting training due to early completion: 1318.4665894508362/3600.0
+[2023-11-27 13:25:17] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:17] Restarting training due to early completion: 1318.7467093467712/3600.0
+[2023-11-27 13:25:17] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:17] Restarting training due to early completion: 1319.0468213558197/3600.0
+[2023-11-27 13:25:17] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:18] Restarting training due to early completion: 1319.3036699295044/3600.0
+[2023-11-27 13:25:18] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:18] Restarting training due to early completion: 1319.603003501892/3600.0
+[2023-11-27 13:25:18] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:18] Restarting training due to early completion: 1319.9337487220764/3600.0
+[2023-11-27 13:25:18] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:18] Restarting training due to early completion: 1320.2217366695404/3600.0
+[2023-11-27 13:25:18] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:19] Restarting training due to early completion: 1320.569640636444/3600.0
+[2023-11-27 13:25:19] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:19] Restarting training due to early completion: 1320.933525800705/3600.0
+[2023-11-27 13:25:19] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:20] Restarting training due to early completion: 1321.282066822052/3600.0
+[2023-11-27 13:25:20] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:20] Restarting training due to early completion: 1321.6630628108978/3600.0
+[2023-11-27 13:25:20] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:20] Restarting training due to early completion: 1322.0220427513123/3600.0
+[2023-11-27 13:25:20] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:21] Restarting training due to early completion: 1322.401062488556/3600.0
+[2023-11-27 13:25:21] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:21] Restarting training due to early completion: 1322.8187339305878/3600.0
+[2023-11-27 13:25:21] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:21] Restarting training due to early completion: 1323.2046008110046/3600.0
+[2023-11-27 13:25:21] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:22] Restarting training due to early completion: 1323.61003780365/3600.0
+[2023-11-27 13:25:22] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:22] Restarting training due to early completion: 1324.021780014038/3600.0
+[2023-11-27 13:25:22] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:23] Restarting training due to early completion: 1324.4558494091034/3600.0
+[2023-11-27 13:25:23] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:23] Restarting training due to early completion: 1324.894062757492/3600.0
+[2023-11-27 13:25:23] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:24] Restarting training due to early completion: 1325.3376502990723/3600.0
+[2023-11-27 13:25:24] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:24] Restarting training due to early completion: 1325.80304479599/3600.0
+[2023-11-27 13:25:24] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:25] Restarting training due to early completion: 1326.2759494781494/3600.0
+[2023-11-27 13:25:25] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:25] Restarting training due to early completion: 1326.7590444087982/3600.0
+[2023-11-27 13:25:25] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:25] Restarting training due to early completion: 1327.2403700351715/3600.0
+[2023-11-27 13:25:25] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:26] Restarting training due to early completion: 1327.7600469589233/3600.0
+[2023-11-27 13:25:26] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:27] Restarting training due to early completion: 1328.3036897182465/3600.0
+[2023-11-27 13:25:27] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:27] Restarting training due to early completion: 1328.8119168281555/3600.0
+[2023-11-27 13:25:27] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:28] Restarting training due to early completion: 1329.3656384944916/3600.0
+[2023-11-27 13:25:28] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:28] Restarting training due to early completion: 1329.8786783218384/3600.0
+[2023-11-27 13:25:28] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:29] Restarting training due to early completion: 1330.4370465278625/3600.0
+[2023-11-27 13:25:29] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:29] Restarting training due to early completion: 1331.0210542678833/3600.0
+[2023-11-27 13:25:29] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:30] Restarting training due to early completion: 1331.5850591659546/3600.0
+[2023-11-27 13:25:30] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:30] Restarting training due to early completion: 1332.1508963108063/3600.0
+[2023-11-27 13:25:30] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:31] Restarting training due to early completion: 1332.7750380039215/3600.0
+[2023-11-27 13:25:31] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:32] Restarting training due to early completion: 1333.3687727451324/3600.0
+[2023-11-27 13:25:32] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:32] Restarting training due to early completion: 1333.9930505752563/3600.0
+[2023-11-27 13:25:32] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:33] Restarting training due to early completion: 1334.5800416469574/3600.0
+[2023-11-27 13:25:33] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:34] Restarting training due to early completion: 1335.275059223175/3600.0
+[2023-11-27 13:25:34] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:34] Restarting training due to early completion: 1335.8840472698212/3600.0
+[2023-11-27 13:25:34] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:35] Restarting training due to early completion: 1336.5130548477173/3600.0
+[2023-11-27 13:25:35] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:35] Restarting training due to early completion: 1337.1700546741486/3600.0
+[2023-11-27 13:25:35] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:36] Restarting training due to early completion: 1337.8610441684723/3600.0
+[2023-11-27 13:25:36] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:37] Restarting training due to early completion: 1338.4789443016052/3600.0
+[2023-11-27 13:25:37] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:38] Restarting training due to early completion: 1339.2580406665802/3600.0
+[2023-11-27 13:25:38] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:38] Restarting training due to early completion: 1339.9300599098206/3600.0
+[2023-11-27 13:25:38] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:39] Restarting training due to early completion: 1340.6700398921967/3600.0
+[2023-11-27 13:25:39] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:40] Restarting training due to early completion: 1341.3650488853455/3600.0
+[2023-11-27 13:25:40] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:40] Restarting training due to early completion: 1342.09406208992/3600.0
+[2023-11-27 13:25:40] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:41] Restarting training due to early completion: 1342.848081111908/3600.0
+[2023-11-27 13:25:41] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:42] Restarting training due to early completion: 1343.6040606498718/3600.0
+[2023-11-27 13:25:42] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:43] Restarting training due to early completion: 1344.3790533542633/3600.0
+[2023-11-27 13:25:43] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:43] Restarting training due to early completion: 1345.1240673065186/3600.0
+[2023-11-27 13:25:43] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:44] Restarting training due to early completion: 1345.9547686576843/3600.0
+[2023-11-27 13:25:44] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:45] Restarting training due to early completion: 1346.763997554779/3600.0
+[2023-11-27 13:25:45] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:46] Restarting training due to early completion: 1347.5580658912659/3600.0
+[2023-11-27 13:25:46] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:47] Restarting training due to early completion: 1348.3640434741974/3600.0
+[2023-11-27 13:25:47] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:47] Restarting training due to early completion: 1349.2049310207367/3600.0
+[2023-11-27 13:25:47] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:48] Restarting training due to early completion: 1350.0610666275024/3600.0
+[2023-11-27 13:25:48] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:49] Restarting training due to early completion: 1350.9320437908173/3600.0
+[2023-11-27 13:25:49] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:50] Restarting training due to early completion: 1351.7677972316742/3600.0
+[2023-11-27 13:25:50] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:51] Restarting training due to early completion: 1352.675050497055/3600.0
+[2023-11-27 13:25:51] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:52] Restarting training due to early completion: 1353.4900681972504/3600.0
+[2023-11-27 13:25:52] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:53] Restarting training due to early completion: 1354.3250391483307/3600.0
+[2023-11-27 13:25:53] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:53] Restarting training due to early completion: 1355.1470637321472/3600.0
+[2023-11-27 13:25:53] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:54] Restarting training due to early completion: 1356.0670654773712/3600.0
+[2023-11-27 13:25:54] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:55] Restarting training due to early completion: 1356.815738916397/3600.0
+[2023-11-27 13:25:55] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:56] Restarting training due to early completion: 1357.753601551056/3600.0
+[2023-11-27 13:25:56] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:57] Restarting training due to early completion: 1358.5950412750244/3600.0
+[2023-11-27 13:25:57] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:58] Restarting training due to early completion: 1359.387859582901/3600.0
+[2023-11-27 13:25:58] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:59] Restarting training due to early completion: 1360.3097593784332/3600.0
+[2023-11-27 13:25:59] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:25:59] Restarting training due to early completion: 1361.1375875473022/3600.0
+[2023-11-27 13:25:59] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:00] Restarting training due to early completion: 1362.098871231079/3600.0
+[2023-11-27 13:26:00] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:01] Restarting training due to early completion: 1362.945541381836/3600.0
+[2023-11-27 13:26:01] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:02] Restarting training due to early completion: 1363.8288989067078/3600.0
+[2023-11-27 13:26:02] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:03] Restarting training due to early completion: 1364.6567482948303/3600.0
+[2023-11-27 13:26:03] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:04] Restarting training due to early completion: 1365.5266993045807/3600.0
+[2023-11-27 13:26:04] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:05] Restarting training due to early completion: 1366.3005645275116/3600.0
+[2023-11-27 13:26:05] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:05] Restarting training due to early completion: 1367.2270669937134/3600.0
+[2023-11-27 13:26:05] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:06] Restarting training due to early completion: 1368.0677943229675/3600.0
+[2023-11-27 13:26:06] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:07] Restarting training due to early completion: 1368.9665412902832/3600.0
+[2023-11-27 13:26:07] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:08] Restarting training due to early completion: 1369.867916584015/3600.0
+[2023-11-27 13:26:08] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:09] Restarting training due to early completion: 1370.6477670669556/3600.0
+[2023-11-27 13:26:09] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:10] Restarting training due to early completion: 1371.679859638214/3600.0
+[2023-11-27 13:26:10] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:11] Restarting training due to early completion: 1372.5448462963104/3600.0
+[2023-11-27 13:26:11] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:12] Restarting training due to early completion: 1373.4345755577087/3600.0
+[2023-11-27 13:26:12] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:13] Restarting training due to early completion: 1374.2946367263794/3600.0
+[2023-11-27 13:26:13] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:13] Restarting training due to early completion: 1375.1840188503265/3600.0
+[2023-11-27 13:26:13] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:14] Restarting training due to early completion: 1376.0350630283356/3600.0
+[2023-11-27 13:26:14] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:15] Restarting training due to early completion: 1376.8477411270142/3600.0
+[2023-11-27 13:26:15] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:16] Restarting training due to early completion: 1377.8089303970337/3600.0
+[2023-11-27 13:26:16] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:17] Restarting training due to early completion: 1378.6527752876282/3600.0
+[2023-11-27 13:26:17] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:18] Restarting training due to early completion: 1379.476065158844/3600.0
+[2023-11-27 13:26:18] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:19] Restarting training due to early completion: 1380.3750615119934/3600.0
+[2023-11-27 13:26:19] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:19] Restarting training due to early completion: 1381.1908848285675/3600.0
+[2023-11-27 13:26:19] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:20] Restarting training due to early completion: 1382.1150586605072/3600.0
+[2023-11-27 13:26:20] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:22] Restarting training due to early completion: 1383.3071882724762/3600.0
+[2023-11-27 13:26:22] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:22] Restarting training due to early completion: 1384.1623532772064/3600.0
+[2023-11-27 13:26:22] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:23] Restarting training due to early completion: 1385.0970425605774/3600.0
+[2023-11-27 13:26:23] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:24] Restarting training due to early completion: 1386.03448843956/3600.0
+[2023-11-27 13:26:24] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:25] Restarting training due to early completion: 1387.0460617542267/3600.0
+[2023-11-27 13:26:25] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:26] Restarting training due to early completion: 1387.897177696228/3600.0
+[2023-11-27 13:26:26] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:27] Restarting training due to early completion: 1388.8566181659698/3600.0
+[2023-11-27 13:26:27] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:28] Restarting training due to early completion: 1389.8049790859222/3600.0
+[2023-11-27 13:26:28] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:29] Restarting training due to early completion: 1390.7400460243225/3600.0
+[2023-11-27 13:26:29] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:30] Restarting training due to early completion: 1391.5470523834229/3600.0
+[2023-11-27 13:26:30] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:31] Restarting training due to early completion: 1392.6770441532135/3600.0
+[2023-11-27 13:26:31] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:32] Restarting training due to early completion: 1393.6230564117432/3600.0
+[2023-11-27 13:26:32] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:33] Restarting training due to early completion: 1394.6900324821472/3600.0
+[2023-11-27 13:26:33] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:34] Restarting training due to early completion: 1395.617070198059/3600.0
+[2023-11-27 13:26:34] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:35] Restarting training due to early completion: 1396.5396523475647/3600.0
+[2023-11-27 13:26:35] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:36] Restarting training due to early completion: 1397.3829205036163/3600.0
+[2023-11-27 13:26:36] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:37] Restarting training due to early completion: 1398.3490254878998/3600.0
+[2023-11-27 13:26:37] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:38] Restarting training due to early completion: 1399.5057773590088/3600.0
+[2023-11-27 13:26:38] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:39] Restarting training due to early completion: 1400.4416573047638/3600.0
+[2023-11-27 13:26:39] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:40] Restarting training due to early completion: 1401.2749419212341/3600.0
+[2023-11-27 13:26:40] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:40] Restarting training due to early completion: 1402.168042898178/3600.0
+[2023-11-27 13:26:40] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:41] Restarting training due to early completion: 1403.0380635261536/3600.0
+[2023-11-27 13:26:41] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:42] Restarting training due to early completion: 1404.0315177440643/3600.0
+[2023-11-27 13:26:42] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:43] Restarting training due to early completion: 1404.8958978652954/3600.0
+[2023-11-27 13:26:43] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:44] Restarting training due to early completion: 1405.774043560028/3600.0
+[2023-11-27 13:26:44] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:45] Restarting training due to early completion: 1406.9395442008972/3600.0
+[2023-11-27 13:26:45] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:46] Restarting training due to early completion: 1407.822613477707/3600.0
+[2023-11-27 13:26:46] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:47] Restarting training due to early completion: 1408.8390550613403/3600.0
+[2023-11-27 13:26:47] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:48] Restarting training due to early completion: 1409.7406313419342/3600.0
+[2023-11-27 13:26:48] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:49] Restarting training due to early completion: 1410.6248478889465/3600.0
+[2023-11-27 13:26:49] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:50] Restarting training due to early completion: 1411.668063402176/3600.0
+[2023-11-27 13:26:50] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:51] Restarting training due to early completion: 1412.565603017807/3600.0
+[2023-11-27 13:26:51] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:52] Restarting training due to early completion: 1413.633048772812/3600.0
+[2023-11-27 13:26:52] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:53] Restarting training due to early completion: 1414.4567124843597/3600.0
+[2023-11-27 13:26:53] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:54] Restarting training due to early completion: 1415.4530453681946/3600.0
+[2023-11-27 13:26:54] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:55] Restarting training due to early completion: 1416.6430480480194/3600.0
+[2023-11-27 13:26:55] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:56] Restarting training due to early completion: 1417.5798411369324/3600.0
+[2023-11-27 13:26:56] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:57] Restarting training due to early completion: 1418.4510490894318/3600.0
+[2023-11-27 13:26:57] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:58] Restarting training due to early completion: 1419.317500114441/3600.0
+[2023-11-27 13:26:58] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:58] Restarting training due to early completion: 1420.2070500850677/3600.0
+[2023-11-27 13:26:58] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:26:59] Restarting training due to early completion: 1421.1650547981262/3600.0
+[2023-11-27 13:26:59] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:00] Restarting training due to early completion: 1422.100641489029/3600.0
+[2023-11-27 13:27:00] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:01] Restarting training due to early completion: 1422.9369089603424/3600.0
+[2023-11-27 13:27:01] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:02] Restarting training due to early completion: 1423.7750504016876/3600.0
+[2023-11-27 13:27:02] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:03] Restarting training due to early completion: 1425.0235757827759/3600.0
+[2023-11-27 13:27:03] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:04] Restarting training due to early completion: 1425.9808650016785/3600.0
+[2023-11-27 13:27:04] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:05] Restarting training due to early completion: 1427.0330455303192/3600.0
+[2023-11-27 13:27:05] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:06] Restarting training due to early completion: 1428.0500392913818/3600.0
+[2023-11-27 13:27:06] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:07] Restarting training due to early completion: 1428.9170615673065/3600.0
+[2023-11-27 13:27:07] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:08] Restarting training due to early completion: 1429.7302215099335/3600.0
+[2023-11-27 13:27:08] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:09] Restarting training due to early completion: 1430.666051864624/3600.0
+[2023-11-27 13:27:09] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:10] Restarting training due to early completion: 1431.9278693199158/3600.0
+[2023-11-27 13:27:10] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:11] Restarting training due to early completion: 1432.8357377052307/3600.0
+[2023-11-27 13:27:11] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:12] Restarting training due to early completion: 1433.6788442134857/3600.0
+[2023-11-27 13:27:12] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:13] Restarting training due to early completion: 1434.6170644760132/3600.0
+[2023-11-27 13:27:13] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:14] Restarting training due to early completion: 1435.4866008758545/3600.0
+[2023-11-27 13:27:14] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:15] Restarting training due to early completion: 1436.34104514122/3600.0
+[2023-11-27 13:27:15] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:15] Restarting training due to early completion: 1437.0210528373718/3600.0
+[2023-11-27 13:27:15] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:17] Restarting training due to early completion: 1438.3556804656982/3600.0
+[2023-11-27 13:27:17] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:18] Restarting training due to early completion: 1439.3545014858246/3600.0
+[2023-11-27 13:27:18] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:19] Restarting training due to early completion: 1440.3546426296234/3600.0
+[2023-11-27 13:27:19] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:20] Restarting training due to early completion: 1441.5150430202484/3600.0
+[2023-11-27 13:27:20] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:21] Restarting training due to early completion: 1442.310046672821/3600.0
+[2023-11-27 13:27:21] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:21] Restarting training due to early completion: 1443.1771967411041/3600.0
+[2023-11-27 13:27:21] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:22] Restarting training due to early completion: 1444.2163481712341/3600.0
+[2023-11-27 13:27:22] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:23] Restarting training due to early completion: 1445.1375644207/3600.0
+[2023-11-27 13:27:23] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:24] Restarting training due to early completion: 1445.894596338272/3600.0
+[2023-11-27 13:27:24] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:25] Restarting training due to early completion: 1446.7140188217163/3600.0
+[2023-11-27 13:27:25] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:26] Restarting training due to early completion: 1447.6110525131226/3600.0
+[2023-11-27 13:27:26] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:27] Restarting training due to early completion: 1448.4747331142426/3600.0
+[2023-11-27 13:27:27] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:28] Restarting training due to early completion: 1449.2890191078186/3600.0
+[2023-11-27 13:27:28] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:28] Restarting training due to early completion: 1450.0053658485413/3600.0
+[2023-11-27 13:27:28] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:29] Restarting training due to early completion: 1450.8394963741302/3600.0
+[2023-11-27 13:27:29] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:30] Restarting training due to early completion: 1451.6126618385315/3600.0
+[2023-11-27 13:27:30] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:31] Restarting training due to early completion: 1452.424038887024/3600.0
+[2023-11-27 13:27:31] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:31] Restarting training due to early completion: 1453.216563463211/3600.0
+[2023-11-27 13:27:31] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:32] Restarting training due to early completion: 1454.0120317935944/3600.0
+[2023-11-27 13:27:32] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:33] Restarting training due to early completion: 1454.7870407104492/3600.0
+[2023-11-27 13:27:33] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:34] Restarting training due to early completion: 1455.6254198551178/3600.0
+[2023-11-27 13:27:34] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:35] Restarting training due to early completion: 1456.3925936222076/3600.0
+[2023-11-27 13:27:35] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:35] Restarting training due to early completion: 1457.1799507141113/3600.0
+[2023-11-27 13:27:35] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:36] Restarting training due to early completion: 1457.9399423599243/3600.0
+[2023-11-27 13:27:36] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:37] Restarting training due to early completion: 1458.7248582839966/3600.0
+[2023-11-27 13:27:37] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:38] Restarting training due to early completion: 1459.5270462036133/3600.0
+[2023-11-27 13:27:38] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:39] Restarting training due to early completion: 1460.327538728714/3600.0
+[2023-11-27 13:27:39] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:40] Restarting training due to early completion: 1461.260517835617/3600.0
+[2023-11-27 13:27:40] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:40] Restarting training due to early completion: 1461.9895992279053/3600.0
+[2023-11-27 13:27:40] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:41] Restarting training due to early completion: 1462.7960469722748/3600.0
+[2023-11-27 13:27:41] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:42] Restarting training due to early completion: 1463.8100595474243/3600.0
+[2023-11-27 13:27:42] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:43] Restarting training due to early completion: 1464.5707335472107/3600.0
+[2023-11-27 13:27:43] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:44] Restarting training due to early completion: 1465.3990499973297/3600.0
+[2023-11-27 13:27:44] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:45] Restarting training due to early completion: 1466.2920424938202/3600.0
+[2023-11-27 13:27:45] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:45] Restarting training due to early completion: 1466.9940376281738/3600.0
+[2023-11-27 13:27:45] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:46] Restarting training due to early completion: 1467.8149583339691/3600.0
+[2023-11-27 13:27:46] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:47] Restarting training due to early completion: 1468.4950606822968/3600.0
+[2023-11-27 13:27:47] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:48] Restarting training due to early completion: 1469.4754638671875/3600.0
+[2023-11-27 13:27:48] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:48] Restarting training due to early completion: 1470.2090656757355/3600.0
+[2023-11-27 13:27:48] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:49] Restarting training due to early completion: 1470.9859066009521/3600.0
+[2023-11-27 13:27:49] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:50] Restarting training due to early completion: 1472.1019644737244/3600.0
+[2023-11-27 13:27:50] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:51] Restarting training due to early completion: 1473.0220563411713/3600.0
+[2023-11-27 13:27:51] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:52] Restarting training due to early completion: 1473.8350467681885/3600.0
+[2023-11-27 13:27:52] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:53] Restarting training due to early completion: 1474.658772468567/3600.0
+[2023-11-27 13:27:53] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:54] Restarting training due to early completion: 1475.5400710105896/3600.0
+[2023-11-27 13:27:54] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:55] Restarting training due to early completion: 1476.3825378417969/3600.0
+[2023-11-27 13:27:55] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:55] Restarting training due to early completion: 1477.1336839199066/3600.0
+[2023-11-27 13:27:55] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:56] Restarting training due to early completion: 1478.1850459575653/3600.0
+[2023-11-27 13:27:56] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:57] Restarting training due to early completion: 1479.0760443210602/3600.0
+[2023-11-27 13:27:57] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:58] Restarting training due to early completion: 1479.9330503940582/3600.0
+[2023-11-27 13:27:58] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:27:59] Restarting training due to early completion: 1480.7880477905273/3600.0
+[2023-11-27 13:27:59] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:00] Restarting training due to early completion: 1481.5043094158173/3600.0
+[2023-11-27 13:28:00] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:01] Restarting training due to early completion: 1482.2930467128754/3600.0
+[2023-11-27 13:28:01] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:02] Restarting training due to early completion: 1483.6025879383087/3600.0
+[2023-11-27 13:28:02] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:03] Restarting training due to early completion: 1484.4076821804047/3600.0
+[2023-11-27 13:28:03] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:03] Restarting training due to early completion: 1485.197866678238/3600.0
+[2023-11-27 13:28:03] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:04] Restarting training due to early completion: 1486.0180568695068/3600.0
+[2023-11-27 13:28:04] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:05] Restarting training due to early completion: 1486.7950685024261/3600.0
+[2023-11-27 13:28:05] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:06] Restarting training due to early completion: 1487.5610525608063/3600.0
+[2023-11-27 13:28:06] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:07] Restarting training due to early completion: 1488.3450548648834/3600.0
+[2023-11-27 13:28:07] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:08] Restarting training due to early completion: 1489.4380512237549/3600.0
+[2023-11-27 13:28:08] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:08] Restarting training due to early completion: 1490.20960688591/3600.0
+[2023-11-27 13:28:08] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:09] Restarting training due to early completion: 1491.1680433750153/3600.0
+[2023-11-27 13:28:09] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:10] Restarting training due to early completion: 1491.944982767105/3600.0
+[2023-11-27 13:28:10] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:11] Restarting training due to early completion: 1492.8013508319855/3600.0
+[2023-11-27 13:28:11] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:12] Restarting training due to early completion: 1493.602046251297/3600.0
+[2023-11-27 13:28:12] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:13] Restarting training due to early completion: 1494.37407040596/3600.0
+[2023-11-27 13:28:13] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:14] Restarting training due to early completion: 1495.4559049606323/3600.0
+[2023-11-27 13:28:14] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:15] Restarting training due to early completion: 1496.2820444107056/3600.0
+[2023-11-27 13:28:15] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:15] Restarting training due to early completion: 1497.022046327591/3600.0
+[2023-11-27 13:28:15] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:16] Restarting training due to early completion: 1497.7860932350159/3600.0
+[2023-11-27 13:28:16] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:17] Restarting training due to early completion: 1498.6405518054962/3600.0
+[2023-11-27 13:28:17] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:18] Restarting training due to early completion: 1499.4680869579315/3600.0
+[2023-11-27 13:28:18] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:19] Restarting training due to early completion: 1500.2565631866455/3600.0
+[2023-11-27 13:28:19] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:19] Restarting training due to early completion: 1501.0997428894043/3600.0
+[2023-11-27 13:28:19] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:20] Restarting training due to early completion: 1501.8640773296356/3600.0
+[2023-11-27 13:28:20] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:21] Restarting training due to early completion: 1502.6222348213196/3600.0
+[2023-11-27 13:28:21] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:22] Restarting training due to early completion: 1503.4220435619354/3600.0
+[2023-11-27 13:28:22] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:22] Restarting training due to early completion: 1504.2297914028168/3600.0
+[2023-11-27 13:28:22] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:23] Restarting training due to early completion: 1505.2168102264404/3600.0
+[2023-11-27 13:28:23] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:24] Restarting training due to early completion: 1505.9920485019684/3600.0
+[2023-11-27 13:28:24] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:25] Restarting training due to early completion: 1506.7600495815277/3600.0
+[2023-11-27 13:28:25] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:26] Restarting training due to early completion: 1507.6880428791046/3600.0
+[2023-11-27 13:28:26] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:27] Restarting training due to early completion: 1508.4530491828918/3600.0
+[2023-11-27 13:28:27] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:28] Restarting training due to early completion: 1509.2670481204987/3600.0
+[2023-11-27 13:28:28] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:28] Restarting training due to early completion: 1510.1050353050232/3600.0
+[2023-11-27 13:28:28] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:29] Restarting training due to early completion: 1510.9227969646454/3600.0
+[2023-11-27 13:28:29] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:30] Restarting training due to early completion: 1511.6906471252441/3600.0
+[2023-11-27 13:28:30] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:31] Restarting training due to early completion: 1512.5280466079712/3600.0
+[2023-11-27 13:28:31] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:32] Restarting training due to early completion: 1513.3020417690277/3600.0
+[2023-11-27 13:28:32] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:32] Restarting training due to early completion: 1514.0618860721588/3600.0
+[2023-11-27 13:28:32] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:33] Restarting training due to early completion: 1514.8121995925903/3600.0
+[2023-11-27 13:28:33] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:34] Restarting training due to early completion: 1515.6060671806335/3600.0
+[2023-11-27 13:28:34] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:35] Restarting training due to early completion: 1516.7780318260193/3600.0
+[2023-11-27 13:28:35] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:36] Restarting training due to early completion: 1517.6145787239075/3600.0
+[2023-11-27 13:28:36] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:37] Restarting training due to early completion: 1518.3697588443756/3600.0
+[2023-11-27 13:28:37] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:37] Restarting training due to early completion: 1519.1400308609009/3600.0
+[2023-11-27 13:28:37] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:38] Restarting training due to early completion: 1519.904051065445/3600.0
+[2023-11-27 13:28:38] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:39] Restarting training due to early completion: 1520.7373485565186/3600.0
+[2023-11-27 13:28:39] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:40] Restarting training due to early completion: 1521.5108330249786/3600.0
+[2023-11-27 13:28:40] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:41] Restarting training due to early completion: 1522.44207406044/3600.0
+[2023-11-27 13:28:41] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:41] Restarting training due to early completion: 1523.179046869278/3600.0
+[2023-11-27 13:28:41] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:42] Restarting training due to early completion: 1523.9879796504974/3600.0
+[2023-11-27 13:28:42] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:43] Restarting training due to early completion: 1524.8056681156158/3600.0
+[2023-11-27 13:28:43] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:44] Restarting training due to early completion: 1525.5666465759277/3600.0
+[2023-11-27 13:28:44] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:45] Restarting training due to early completion: 1526.6380472183228/3600.0
+[2023-11-27 13:28:45] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:46] Restarting training due to early completion: 1527.4520633220673/3600.0
+[2023-11-27 13:28:46] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:46] Restarting training due to early completion: 1528.2030448913574/3600.0
+[2023-11-27 13:28:46] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:47] Restarting training due to early completion: 1528.9738283157349/3600.0
+[2023-11-27 13:28:47] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:48] Restarting training due to early completion: 1529.7898471355438/3600.0
+[2023-11-27 13:28:48] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:49] Restarting training due to early completion: 1530.5930454730988/3600.0
+[2023-11-27 13:28:49] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:50] Restarting training due to early completion: 1531.3839704990387/3600.0
+[2023-11-27 13:28:50] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:50] Restarting training due to early completion: 1532.1289083957672/3600.0
+[2023-11-27 13:28:50] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:51] Restarting training due to early completion: 1532.8890681266785/3600.0
+[2023-11-27 13:28:51] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:52] Restarting training due to early completion: 1533.6653981208801/3600.0
+[2023-11-27 13:28:52] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:53] Restarting training due to early completion: 1534.4380724430084/3600.0
+[2023-11-27 13:28:53] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:53] Restarting training due to early completion: 1535.2120492458344/3600.0
+[2023-11-27 13:28:53] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:54] Restarting training due to early completion: 1536.0060381889343/3600.0
+[2023-11-27 13:28:54] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:55] Restarting training due to early completion: 1536.7878015041351/3600.0
+[2023-11-27 13:28:55] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:56] Restarting training due to early completion: 1537.7240676879883/3600.0
+[2023-11-27 13:28:56] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:57] Restarting training due to early completion: 1538.4530515670776/3600.0
+[2023-11-27 13:28:57] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:58] Restarting training due to early completion: 1539.3380463123322/3600.0
+[2023-11-27 13:28:58] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:58] Restarting training due to early completion: 1540.1649732589722/3600.0
+[2023-11-27 13:28:58] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:28:59] Restarting training due to early completion: 1540.975397348404/3600.0
+[2023-11-27 13:28:59] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:00] Restarting training due to early completion: 1541.7740452289581/3600.0
+[2023-11-27 13:29:00] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:01] Restarting training due to early completion: 1542.5730776786804/3600.0
+[2023-11-27 13:29:01] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:02] Restarting training due to early completion: 1543.3226416110992/3600.0
+[2023-11-27 13:29:02] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:02] Restarting training due to early completion: 1544.2188096046448/3600.0
+[2023-11-27 13:29:02] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:03] Restarting training due to early completion: 1545.0420942306519/3600.0
+[2023-11-27 13:29:03] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:04] Restarting training due to early completion: 1545.8380694389343/3600.0
+[2023-11-27 13:29:04] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:05] Restarting training due to early completion: 1546.6238086223602/3600.0
+[2023-11-27 13:29:05] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:06] Restarting training due to early completion: 1547.4147114753723/3600.0
+[2023-11-27 13:29:06] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:06] Restarting training due to early completion: 1548.1988580226898/3600.0
+[2023-11-27 13:29:06] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:07] Restarting training due to early completion: 1549.0230638980865/3600.0
+[2023-11-27 13:29:07] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:08] Restarting training due to early completion: 1549.7778418064117/3600.0
+[2023-11-27 13:29:08] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:09] Restarting training due to early completion: 1550.585041999817/3600.0
+[2023-11-27 13:29:09] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:10] Restarting training due to early completion: 1551.4190320968628/3600.0
+[2023-11-27 13:29:10] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:10] Restarting training due to early completion: 1552.2046866416931/3600.0
+[2023-11-27 13:29:10] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:11] Restarting training due to early completion: 1552.9672961235046/3600.0
+[2023-11-27 13:29:11] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:12] Restarting training due to early completion: 1553.8230748176575/3600.0
+[2023-11-27 13:29:12] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:13] Restarting training due to early completion: 1554.56804728508/3600.0
+[2023-11-27 13:29:13] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:14] Restarting training due to early completion: 1555.37602186203/3600.0
+[2023-11-27 13:29:14] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:14] Restarting training due to early completion: 1556.146064043045/3600.0
+[2023-11-27 13:29:14] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:15] Restarting training due to early completion: 1556.935039281845/3600.0
+[2023-11-27 13:29:15] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:16] Restarting training due to early completion: 1557.6966140270233/3600.0
+[2023-11-27 13:29:16] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:17] Restarting training due to early completion: 1558.4750611782074/3600.0
+[2023-11-27 13:29:17] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:18] Restarting training due to early completion: 1559.457068681717/3600.0
+[2023-11-27 13:29:18] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:18] Restarting training due to early completion: 1560.1330659389496/3600.0
+[2023-11-27 13:29:18] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:19] Restarting training due to early completion: 1560.9890642166138/3600.0
+[2023-11-27 13:29:19] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:20] Restarting training due to early completion: 1561.7677824497223/3600.0
+[2023-11-27 13:29:20] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:21] Restarting training due to early completion: 1562.629233121872/3600.0
+[2023-11-27 13:29:21] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:22] Restarting training due to early completion: 1563.4593241214752/3600.0
+[2023-11-27 13:29:22] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:22] Restarting training due to early completion: 1564.2018456459045/3600.0
+[2023-11-27 13:29:22] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:23] Restarting training due to early completion: 1564.9694149494171/3600.0
+[2023-11-27 13:29:23] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:24] Restarting training due to early completion: 1565.7370624542236/3600.0
+[2023-11-27 13:29:24] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:25] Restarting training due to early completion: 1566.515062570572/3600.0
+[2023-11-27 13:29:25] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:26] Restarting training due to early completion: 1567.4260005950928/3600.0
+[2023-11-27 13:29:26] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:26] Restarting training due to early completion: 1568.174649477005/3600.0
+[2023-11-27 13:29:26] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:27] Restarting training due to early completion: 1569.0120599269867/3600.0
+[2023-11-27 13:29:27] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:28] Restarting training due to early completion: 1569.7583990097046/3600.0
+[2023-11-27 13:29:28] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:29] Restarting training due to early completion: 1570.5635402202606/3600.0
+[2023-11-27 13:29:29] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:30] Restarting training due to early completion: 1571.2820518016815/3600.0
+[2023-11-27 13:29:30] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:30] Restarting training due to early completion: 1572.1530401706696/3600.0
+[2023-11-27 13:29:30] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:31] Restarting training due to early completion: 1572.882956981659/3600.0
+[2023-11-27 13:29:31] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:32] Restarting training due to early completion: 1573.6890466213226/3600.0
+[2023-11-27 13:29:32] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:33] Restarting training due to early completion: 1574.4540407657623/3600.0
+[2023-11-27 13:29:33] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:33] Restarting training due to early completion: 1575.2178301811218/3600.0
+[2023-11-27 13:29:33] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:34] Restarting training due to early completion: 1576.1190338134766/3600.0
+[2023-11-27 13:29:34] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:35] Restarting training due to early completion: 1576.9330604076385/3600.0
+[2023-11-27 13:29:35] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:36] Restarting training due to early completion: 1577.7178728580475/3600.0
+[2023-11-27 13:29:36] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:37] Restarting training due to early completion: 1578.5790169239044/3600.0
+[2023-11-27 13:29:37] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:38] Restarting training due to early completion: 1579.425092458725/3600.0
+[2023-11-27 13:29:38] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:38] Restarting training due to early completion: 1580.2307484149933/3600.0
+[2023-11-27 13:29:38] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:39] Restarting training due to early completion: 1581.0230388641357/3600.0
+[2023-11-27 13:29:39] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:40] Restarting training due to early completion: 1581.8074967861176/3600.0
+[2023-11-27 13:29:40] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:41] Restarting training due to early completion: 1582.5570466518402/3600.0
+[2023-11-27 13:29:41] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:42] Restarting training due to early completion: 1583.3287069797516/3600.0
+[2023-11-27 13:29:42] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:42] Restarting training due to early completion: 1584.144674539566/3600.0
+[2023-11-27 13:29:42] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:43] Restarting training due to early completion: 1584.931075334549/3600.0
+[2023-11-27 13:29:43] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:44] Restarting training due to early completion: 1585.8617315292358/3600.0
+[2023-11-27 13:29:44] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:45] Restarting training due to early completion: 1586.7636742591858/3600.0
+[2023-11-27 13:29:45] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:46] Restarting training due to early completion: 1587.5510408878326/3600.0
+[2023-11-27 13:29:46] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:47] Restarting training due to early completion: 1588.313063621521/3600.0
+[2023-11-27 13:29:47] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:47] Restarting training due to early completion: 1589.1070730686188/3600.0
+[2023-11-27 13:29:47] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:48] Restarting training due to early completion: 1589.9220411777496/3600.0
+[2023-11-27 13:29:48] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:49] Restarting training due to early completion: 1590.763041973114/3600.0
+[2023-11-27 13:29:49] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:50] Restarting training due to early completion: 1591.4322092533112/3600.0
+[2023-11-27 13:29:50] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:51] Restarting training due to early completion: 1592.3260469436646/3600.0
+[2023-11-27 13:29:51] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:51] Restarting training due to early completion: 1593.082774400711/3600.0
+[2023-11-27 13:29:51] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:52] Restarting training due to early completion: 1593.8610696792603/3600.0
+[2023-11-27 13:29:52] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:53] Restarting training due to early completion: 1594.6467723846436/3600.0
+[2023-11-27 13:29:53] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:54] Restarting training due to early completion: 1595.4760468006134/3600.0
+[2023-11-27 13:29:54] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:54] Restarting training due to early completion: 1596.2050523757935/3600.0
+[2023-11-27 13:29:54] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:55] Restarting training due to early completion: 1596.988051891327/3600.0
+[2023-11-27 13:29:55] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:56] Restarting training due to early completion: 1597.7597460746765/3600.0
+[2023-11-27 13:29:56] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:57] Restarting training due to early completion: 1598.5938346385956/3600.0
+[2023-11-27 13:29:57] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:58] Restarting training due to early completion: 1599.366059064865/3600.0
+[2023-11-27 13:29:58] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:58] Restarting training due to early completion: 1600.1375839710236/3600.0
+[2023-11-27 13:29:58] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:29:59] Restarting training due to early completion: 1600.9070630073547/3600.0
+[2023-11-27 13:29:59] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:00] Restarting training due to early completion: 1601.7810394763947/3600.0
+[2023-11-27 13:30:00] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:01] Restarting training due to early completion: 1602.58003282547/3600.0
+[2023-11-27 13:30:01] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:02] Restarting training due to early completion: 1603.3550441265106/3600.0
+[2023-11-27 13:30:02] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:02] Restarting training due to early completion: 1604.112046957016/3600.0
+[2023-11-27 13:30:02] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:03] Restarting training due to early completion: 1604.897044658661/3600.0
+[2023-11-27 13:30:03] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:04] Restarting training due to early completion: 1605.707055568695/3600.0
+[2023-11-27 13:30:04] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:05] Restarting training due to early completion: 1606.4915788173676/3600.0
+[2023-11-27 13:30:05] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:06] Restarting training due to early completion: 1607.2648627758026/3600.0
+[2023-11-27 13:30:06] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:06] Restarting training due to early completion: 1608.0330684185028/3600.0
+[2023-11-27 13:30:06] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:07] Restarting training due to early completion: 1608.8155126571655/3600.0
+[2023-11-27 13:30:07] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:08] Restarting training due to early completion: 1609.5710191726685/3600.0
+[2023-11-27 13:30:08] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:09] Restarting training due to early completion: 1610.36478972435/3600.0
+[2023-11-27 13:30:09] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:10] Restarting training due to early completion: 1611.4290318489075/3600.0
+[2023-11-27 13:30:10] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:11] Restarting training due to early completion: 1612.7690150737762/3600.0
+[2023-11-27 13:30:11] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:12] Restarting training due to early completion: 1614.0790691375732/3600.0
+[2023-11-27 13:30:12] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:14] Restarting training due to early completion: 1615.6800377368927/3600.0
+[2023-11-27 13:30:14] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:16] Restarting training due to early completion: 1617.8710486888885/3600.0
+[2023-11-27 13:30:16] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:18] Restarting training due to early completion: 1619.8160433769226/3600.0
+[2023-11-27 13:30:18] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:20] Restarting training due to early completion: 1621.71204996109/3600.0
+[2023-11-27 13:30:20] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:22] Restarting training due to early completion: 1623.529280424118/3600.0
+[2023-11-27 13:30:22] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:23] Restarting training due to early completion: 1624.882036447525/3600.0
+[2023-11-27 13:30:23] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:25] Restarting training due to early completion: 1626.3300652503967/3600.0
+[2023-11-27 13:30:25] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:27] Restarting training due to early completion: 1628.372049331665/3600.0
+[2023-11-27 13:30:27] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:28] Restarting training due to early completion: 1629.5272240638733/3600.0
+[2023-11-27 13:30:28] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:29] Restarting training due to early completion: 1630.5759904384613/3600.0
+[2023-11-27 13:30:29] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:30] Restarting training due to early completion: 1631.6335875988007/3600.0
+[2023-11-27 13:30:30] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:31] Restarting training due to early completion: 1632.566043138504/3600.0
+[2023-11-27 13:30:31] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:32] Restarting training due to early completion: 1633.3988246917725/3600.0
+[2023-11-27 13:30:32] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:33] Restarting training due to early completion: 1634.3080422878265/3600.0
+[2023-11-27 13:30:33] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:33] Restarting training due to early completion: 1635.151893377304/3600.0
+[2023-11-27 13:30:33] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:34] Restarting training due to early completion: 1635.9700162410736/3600.0
+[2023-11-27 13:30:34] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:35] Restarting training due to early completion: 1636.8310658931732/3600.0
+[2023-11-27 13:30:35] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:36] Restarting training due to early completion: 1637.529571056366/3600.0
+[2023-11-27 13:30:36] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:37] Restarting training due to early completion: 1638.4539275169373/3600.0
+[2023-11-27 13:30:37] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:37] Restarting training due to early completion: 1639.1960091590881/3600.0
+[2023-11-27 13:30:37] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:39] Restarting training due to early completion: 1640.5100691318512/3600.0
+[2023-11-27 13:30:39] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:40] Restarting training due to early completion: 1641.7082045078278/3600.0
+[2023-11-27 13:30:40] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:41] Restarting training due to early completion: 1642.682697057724/3600.0
+[2023-11-27 13:30:41] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:42] Restarting training due to early completion: 1643.599684715271/3600.0
+[2023-11-27 13:30:42] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:43] Restarting training due to early completion: 1644.5327653884888/3600.0
+[2023-11-27 13:30:43] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:44] Restarting training due to early completion: 1645.5358872413635/3600.0
+[2023-11-27 13:30:44] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:45] Restarting training due to early completion: 1646.4870591163635/3600.0
+[2023-11-27 13:30:45] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:46] Restarting training due to early completion: 1647.3940405845642/3600.0
+[2023-11-27 13:30:46] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:47] Restarting training due to early completion: 1648.3140749931335/3600.0
+[2023-11-27 13:30:47] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:47] Restarting training due to early completion: 1649.2289865016937/3600.0
+[2023-11-27 13:30:47] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:48] Restarting training due to early completion: 1650.062046289444/3600.0
+[2023-11-27 13:30:48] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:49] Restarting training due to early completion: 1650.9079139232635/3600.0
+[2023-11-27 13:30:49] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:50] Restarting training due to early completion: 1651.651053905487/3600.0
+[2023-11-27 13:30:50] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:51] Restarting training due to early completion: 1652.5790567398071/3600.0
+[2023-11-27 13:30:51] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:52] Restarting training due to early completion: 1653.3500440120697/3600.0
+[2023-11-27 13:30:52] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:52] Restarting training due to early completion: 1654.1360602378845/3600.0
+[2023-11-27 13:30:52] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:53] Restarting training due to early completion: 1654.9480729103088/3600.0
+[2023-11-27 13:30:53] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:54] Restarting training due to early completion: 1655.8507931232452/3600.0
+[2023-11-27 13:30:54] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:55] Restarting training due to early completion: 1656.6180472373962/3600.0
+[2023-11-27 13:30:55] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:56] Restarting training due to early completion: 1657.4544787406921/3600.0
+[2023-11-27 13:30:56] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:57] Restarting training due to early completion: 1658.2806632518768/3600.0
+[2023-11-27 13:30:57] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:57] Restarting training due to early completion: 1659.0359735488892/3600.0
+[2023-11-27 13:30:57] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:58] Restarting training due to early completion: 1659.929049730301/3600.0
+[2023-11-27 13:30:58] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:30:59] Restarting training due to early completion: 1660.7379214763641/3600.0
+[2023-11-27 13:30:59] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:00] Restarting training due to early completion: 1661.5400364398956/3600.0
+[2023-11-27 13:31:00] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:01] Restarting training due to early completion: 1662.2988622188568/3600.0
+[2023-11-27 13:31:01] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:02] Restarting training due to early completion: 1663.3650579452515/3600.0
+[2023-11-27 13:31:02] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:02] Restarting training due to early completion: 1664.1600549221039/3600.0
+[2023-11-27 13:31:02] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:03] Restarting training due to early completion: 1665.1140475273132/3600.0
+[2023-11-27 13:31:03] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:04] Restarting training due to early completion: 1666.1656622886658/3600.0
+[2023-11-27 13:31:04] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:05] Restarting training due to early completion: 1667.112681388855/3600.0
+[2023-11-27 13:31:05] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:07] Restarting training due to early completion: 1668.7990493774414/3600.0
+[2023-11-27 13:31:07] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:10] Restarting training due to early completion: 1671.4121413230896/3600.0
+[2023-11-27 13:31:10] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:11] Restarting training due to early completion: 1672.7258846759796/3600.0
+[2023-11-27 13:31:11] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:12] Restarting training due to early completion: 1674.0490460395813/3600.0
+[2023-11-27 13:31:12] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:14] Restarting training due to early completion: 1675.7254910469055/3600.0
+[2023-11-27 13:31:14] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:15] Restarting training due to early completion: 1677.1299266815186/3600.0
+[2023-11-27 13:31:15] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:17] Restarting training due to early completion: 1678.5260417461395/3600.0
+[2023-11-27 13:31:17] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:18] Restarting training due to early completion: 1679.941815853119/3600.0
+[2023-11-27 13:31:18] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:20] Restarting training due to early completion: 1681.42569565773/3600.0
+[2023-11-27 13:31:20] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:21] Restarting training due to early completion: 1682.634922027588/3600.0
+[2023-11-27 13:31:21] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:22] Restarting training due to early completion: 1683.9343781471252/3600.0
+[2023-11-27 13:31:22] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:23] Restarting training due to early completion: 1685.0030398368835/3600.0
+[2023-11-27 13:31:23] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:25] Restarting training due to early completion: 1686.3993458747864/3600.0
+[2023-11-27 13:31:25] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:26] Restarting training due to early completion: 1687.5077691078186/3600.0
+[2023-11-27 13:31:26] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:27] Restarting training due to early completion: 1688.7970402240753/3600.0
+[2023-11-27 13:31:27] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:28] Restarting training due to early completion: 1690.0830614566803/3600.0
+[2023-11-27 13:31:28] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:29] Restarting training due to early completion: 1691.1250467300415/3600.0
+[2023-11-27 13:31:29] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:30] Restarting training due to early completion: 1692.1250326633453/3600.0
+[2023-11-27 13:31:30] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:32] Restarting training due to early completion: 1693.9959332942963/3600.0
+[2023-11-27 13:31:32] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:33] Restarting training due to early completion: 1695.0950722694397/3600.0
+[2023-11-27 13:31:33] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:35] Restarting training due to early completion: 1696.3924722671509/3600.0
+[2023-11-27 13:31:35] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:36] Restarting training due to early completion: 1698.1390731334686/3600.0
+[2023-11-27 13:31:36] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:40] Restarting training due to early completion: 1701.6230556964874/3600.0
+[2023-11-27 13:31:40] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:42] Restarting training due to early completion: 1703.396523475647/3600.0
+[2023-11-27 13:31:42] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:44] Restarting training due to early completion: 1705.5900495052338/3600.0
+[2023-11-27 13:31:44] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:46] Restarting training due to early completion: 1708.0140504837036/3600.0
+[2023-11-27 13:31:46] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:48] Restarting training due to early completion: 1709.9067876338959/3600.0
+[2023-11-27 13:31:48] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:50] Restarting training due to early completion: 1712.184062719345/3600.0
+[2023-11-27 13:31:50] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:52] Restarting training due to early completion: 1713.9010517597198/3600.0
+[2023-11-27 13:31:52] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:54] Restarting training due to early completion: 1715.3110749721527/3600.0
+[2023-11-27 13:31:54] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:31:56] Restarting training due to early completion: 1717.3602139949799/3600.0
+[2023-11-27 13:31:56] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:32:00] Restarting training due to early completion: 1721.2690904140472/3600.0
+[2023-11-27 13:32:00] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:32:01] Restarting training due to early completion: 1723.080045223236/3600.0
+[2023-11-27 13:32:01] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:32:04] Restarting training due to early completion: 1725.42906832695/3600.0
+[2023-11-27 13:32:04] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:32:05] Restarting training due to early completion: 1727.1500713825226/3600.0
+[2023-11-27 13:32:05] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:32:08] Restarting training due to early completion: 1729.2821238040924/3600.0
+[2023-11-27 13:32:08] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:32:09] Restarting training due to early completion: 1730.908212184906/3600.0
+[2023-11-27 13:32:09] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:32:11] Restarting training due to early completion: 1732.9980626106262/3600.0
+[2023-11-27 13:32:11] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:32:13] Restarting training due to early completion: 1734.6080539226532/3600.0
+[2023-11-27 13:32:13] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:32:14] Restarting training due to early completion: 1736.2140657901764/3600.0
+[2023-11-27 13:32:14] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:32:17] Restarting training due to early completion: 1738.5582840442657/3600.0
+[2023-11-27 13:32:17] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:32:19] Restarting training due to early completion: 1740.367075920105/3600.0
+[2023-11-27 13:32:19] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:32:20] Restarting training due to early completion: 1741.9650740623474/3600.0
+[2023-11-27 13:32:20] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:32:22] Restarting training due to early completion: 1743.8230497837067/3600.0
+[2023-11-27 13:32:22] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:32:24] Restarting training due to early completion: 1745.5050384998322/3600.0
+[2023-11-27 13:32:24] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:32:25] Restarting training due to early completion: 1746.8020622730255/3600.0
+[2023-11-27 13:32:25] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:32:27] Restarting training due to early completion: 1748.542291879654/3600.0
+[2023-11-27 13:32:27] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:32:29] Restarting training due to early completion: 1750.5253949165344/3600.0
+[2023-11-27 13:32:29] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:32:30] Restarting training due to early completion: 1752.111046552658/3600.0
+[2023-11-27 13:32:30] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:32:32] Restarting training due to early completion: 1753.7620024681091/3600.0
+[2023-11-27 13:32:32] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16
+[2023-11-27 13:32:34] Restarting training due to early completion: 1755.4104373455048/3600.0
+[2023-11-27 13:32:34] Spawning train.py medium_learn_medium_batch --epochs 100 --lr 0.0002 --batch_size 16

@@ -1,0 +1,13 @@
+Universe   = vanilla
+Executable = run_job.sh
+Arguments  = train_distributed.py --num_epochs 100 --name e_uhl_lb_ssim --learning_rate 0.0001 --batch_size 10 --lossoption 1
+
+Output     = logs/out.log
+Error      = logs/error.log
+Log        = logs/log.log
+
+Request_Cpus   = 1
+Request_Gpus   = 2
+Request_Memory = 45GB
+
+Queue

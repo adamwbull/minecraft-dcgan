@@ -1,0 +1,9 @@
+[2023-12-05 00:00:18] Epoch 94/100 | Discriminator Loss: 0.004823 | Generator Loss: 6.069217
+[2023-12-05 00:06:40] Epoch 95/100 | Discriminator Loss: 0.190276 | Generator Loss: 11.106625
+[2023-12-05 00:13:02] Epoch 96/100 | Discriminator Loss: 0.000827 | Generator Loss: 7.575175
+[2023-12-05 00:20:14] Epoch 97/100 | Discriminator Loss: 0.000499 | Generator Loss: 9.783285
+[2023-12-05 00:26:39] Epoch 98/100 | Discriminator Loss: 0.000027 | Generator Loss: 10.921123
+[2023-12-05 00:33:11] Epoch 99/100 | Discriminator Loss: 0.001368 | Generator Loss: 7.707986
+[2023-12-05 00:33:11] Epoch 100/100 | Discriminator Loss: 0.001368 | Generator Loss: 7.707986
+[2023-12-05 00:33:14] Saved checkpoint ml_hb_terminated.pth.tar.
+[2023-12-05 00:33:14] CUDA cache cleared. Exiting train.py...

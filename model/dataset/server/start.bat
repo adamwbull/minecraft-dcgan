@@ -1,0 +1,1 @@
+java -Xms4G -Xmx8G -jar paper-1.20.2-243.jar

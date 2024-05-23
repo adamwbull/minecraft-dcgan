@@ -1,0 +1,28 @@
+Traceback (most recent call last):
+  File "train.py", line 177, in <module>
+    output_fake = discriminator(fake_data.detach())  
+  File "/cluster/research-groups/deneke/minecraft-gan/dcgan_pyenv/lib64/python3.6/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/cluster/research-groups/deneke/minecraft-gan/src/dcgan.py", line 100, in forward
+    x = F.leaky_relu(self.bn3(self.conv3(x)), 0.2)
+  File "/cluster/research-groups/deneke/minecraft-gan/dcgan_pyenv/lib64/python3.6/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/cluster/research-groups/deneke/minecraft-gan/dcgan_pyenv/lib64/python3.6/site-packages/torch/nn/modules/batchnorm.py", line 179, in forward
+    self.eps,
+  File "/cluster/research-groups/deneke/minecraft-gan/dcgan_pyenv/lib64/python3.6/site-packages/torch/nn/functional.py", line 2283, in batch_norm
+    input, weight, bias, running_mean, running_var, training, momentum, eps, torch.backends.cudnn.enabled
+RuntimeError: CUDA out of memory. Tried to allocate 32.00 MiB (GPU 0; 10.75 GiB total capacity; 9.54 GiB already allocated; 22.50 MiB free; 9.57 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+Traceback (most recent call last):
+  File "train.py", line 171, in <module>
+    output_real = discriminator(real_data)
+  File "/cluster/research-groups/deneke/minecraft-gan/dcgan_pyenv/lib64/python3.6/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/cluster/research-groups/deneke/minecraft-gan/src/dcgan.py", line 86, in forward
+    x = self.adaptive_pool(x)
+  File "/cluster/research-groups/deneke/minecraft-gan/dcgan_pyenv/lib64/python3.6/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/cluster/research-groups/deneke/minecraft-gan/dcgan_pyenv/lib64/python3.6/site-packages/torch/nn/modules/pooling.py", line 1206, in forward
+    return F.adaptive_avg_pool3d(input, self.output_size)
+  File "/cluster/research-groups/deneke/minecraft-gan/dcgan_pyenv/lib64/python3.6/site-packages/torch/nn/functional.py", line 1148, in adaptive_avg_pool3d
+    return torch._C._nn.adaptive_avg_pool3d(input, _output_size)
+RuntimeError: CUDA out of memory. Tried to allocate 3.19 GiB (GPU 0; 10.75 GiB total capacity; 4.07 GiB already allocated; 1.59 GiB free; 8.00 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF

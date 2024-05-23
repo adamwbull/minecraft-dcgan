@@ -1,0 +1,13 @@
+Universe   = vanilla
+Executable = run_job.sh
+Arguments  = train.py ll_hb --epochs 100 --lr 0.0001 --batch_size 24
+
+Output     = logs/models/ll_hb.log
+Error      = logs/errors/ll_hb.log
+Log        = logs/condor/ll_hb.log
+
+Request_Cpus   = 1
+Request_Gpus   = 2
+Request_Memory = 40GB
+
+Queue

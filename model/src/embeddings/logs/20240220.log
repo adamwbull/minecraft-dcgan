@@ -1,0 +1,261 @@
+[2024-02-20 00:02:36] Epoch 0, total_train_loss: 15753.579778671265, total_val_loss: 3912.6888694763184
+[2024-02-20 00:07:40] Epoch 1, total_train_loss: 15654.85439312458, total_val_loss: 3913.080710053444
+[2024-02-20 00:12:33] Epoch 2, total_train_loss: 15652.384886741638, total_val_loss: 3912.8699818849564
+[2024-02-20 00:17:21] Epoch 3, total_train_loss: 15651.860451221466, total_val_loss: 3910.0648770332336
+[2024-02-20 00:22:27] Epoch 4, total_train_loss: 15651.517776608467, total_val_loss: 3908.9594382047653
+[2024-02-20 00:27:30] Epoch 5, total_train_loss: 15650.31396830082, total_val_loss: 3910.8560396432877
+[2024-02-20 00:32:30] Epoch 6, total_train_loss: 15650.618098855019, total_val_loss: 3912.911734223366
+[2024-02-20 00:37:31] Epoch 7, total_train_loss: 15650.662159085274, total_val_loss: 3912.26369535923
+[2024-02-20 00:42:24] Epoch 8, total_train_loss: 15650.444916129112, total_val_loss: 3908.6241174936295
+[2024-02-20 00:48:23] CUDA Available: True
+[2024-02-20 00:48:23] CUDA Version: 11.3
+[2024-02-20 00:48:23] PyTorch Version: 1.10.2+cu113
+[2024-02-20 00:48:23] CUDA Device Name: NVIDIA GeForce RTX 4080
+[2024-02-20 00:48:23] Using device: cuda
+[2024-02-20 00:48:23] Initializing dataset...
+[2024-02-20 00:48:23] Dataset initialized.
+[2024-02-20 00:48:23] No checkpoint found at 'embeddings/checkpoints/ll_10batch_advancedinductive_target.pth.tar', starting from scratch.
+[2024-02-20 00:48:45] CUDA Available: True
+[2024-02-20 00:48:45] CUDA Version: 11.3
+[2024-02-20 00:48:45] PyTorch Version: 1.10.2+cu113
+[2024-02-20 00:48:45] CUDA Device Name: NVIDIA GeForce RTX 4080
+[2024-02-20 00:48:45] Using device: cuda
+[2024-02-20 00:48:45] Initializing dataset...
+[2024-02-20 00:48:45] Dataset initialized.
+[2024-02-20 00:48:45] No checkpoint found at 'embeddings/checkpoints/ll_10batch_advancedinductive_target.pth.tar', starting from scratch.
+[2024-02-20 00:49:48] CUDA Available: True
+[2024-02-20 00:49:48] CUDA Version: 11.3
+[2024-02-20 00:49:48] PyTorch Version: 1.10.2+cu113
+[2024-02-20 00:49:48] CUDA Device Name: NVIDIA GeForce RTX 4080
+[2024-02-20 00:49:48] Using device: cuda
+[2024-02-20 00:49:48] Initializing dataset...
+[2024-02-20 00:49:48] Dataset initialized.
+[2024-02-20 00:49:48] No checkpoint found at 'embeddings/checkpoints/ll_10batch_advancedinductive_target.pth.tar', starting from scratch.
+[2024-02-20 00:52:51] CUDA Available: True
+[2024-02-20 00:52:51] CUDA Version: 11.3
+[2024-02-20 00:52:51] PyTorch Version: 1.10.2+cu113
+[2024-02-20 00:52:51] CUDA Device Name: NVIDIA GeForce RTX 4080
+[2024-02-20 00:52:51] Using device: cuda
+[2024-02-20 00:52:52] Initializing dataset...
+[2024-02-20 00:52:52] Dataset initialized.
+[2024-02-20 00:52:52] No checkpoint found at 'embeddings/checkpoints/ll_10batch_advancedinductive_target.pth.tar', starting from scratch.
+[2024-02-20 00:57:56] Epoch 0, total_train_loss: 90.0625516605756, total_val_loss: 1.7881392366803084e-08
+[2024-02-20 01:02:53] Epoch 1, total_train_loss: 4.172324885587386e-08, total_val_loss: 5.960464122267695e-09
+[2024-02-20 01:07:52] Epoch 2, total_train_loss: 2.781549923724924e-08, total_val_loss: 1.9868213740892315e-09
+[2024-02-20 01:12:53] Epoch 3, total_train_loss: 1.9868213740892315e-09, total_val_loss: 0.0
+[2024-02-20 01:17:31] CUDA Available: True
+[2024-02-20 01:17:31] CUDA Version: 11.3
+[2024-02-20 01:17:31] PyTorch Version: 1.10.2+cu113
+[2024-02-20 01:17:31] CUDA Device Name: NVIDIA GeForce RTX 4080
+[2024-02-20 01:17:31] Using device: cuda
+[2024-02-20 01:17:31] Initializing dataset...
+[2024-02-20 01:17:32] Dataset initialized.
+[2024-02-20 01:17:32] No checkpoint found at 'embeddings/checkpoints/ll_10batch_newadvancedinductive_target.pth.tar', starting from scratch.
+[2024-02-20 01:22:14] Epoch 0, total_train_loss: 15670.072975635529, total_val_loss: 3902.5913573503494
+[2024-02-20 01:26:55] Epoch 1, total_train_loss: 15587.132522940636, total_val_loss: 3905.5546807050705
+[2024-02-20 01:31:34] Epoch 2, total_train_loss: 15581.64897119999, total_val_loss: 3899.4140062332153
+[2024-02-20 01:36:07] Epoch 3, total_train_loss: 15578.286130189896, total_val_loss: 3898.313603758812
+[2024-02-20 01:40:50] Epoch 4, total_train_loss: 15575.119649887085, total_val_loss: 3899.7306365966797
+[2024-02-20 01:45:28] Epoch 5, total_train_loss: 15574.22711133957, total_val_loss: 3900.871835231781
+[2024-02-20 01:50:05] Epoch 6, total_train_loss: 15572.223127126694, total_val_loss: 3897.8546365499496
+[2024-02-20 01:54:40] Epoch 7, total_train_loss: 15570.70732998848, total_val_loss: 3898.2382724285126
+[2024-02-20 01:59:16] Epoch 8, total_train_loss: 15570.597230434418, total_val_loss: 3898.8763216733932
+[2024-02-20 02:03:52] Epoch 9, total_train_loss: 15569.216964960098, total_val_loss: 3904.1040407419205
+[2024-02-20 02:08:30] Epoch 10, total_train_loss: 15568.299594402313, total_val_loss: 3899.2387214899063
+[2024-02-20 02:13:05] Epoch 11, total_train_loss: 15568.126450657845, total_val_loss: 3898.950725913048
+[2024-02-20 02:17:41] Epoch 12, total_train_loss: 15567.487372279167, total_val_loss: 3900.0452070236206
+[2024-02-20 02:22:19] Epoch 13, total_train_loss: 15566.573435544968, total_val_loss: 3898.660911679268
+[2024-02-20 02:26:57] Epoch 14, total_train_loss: 15565.95015835762, total_val_loss: 3900.226099729538
+[2024-02-20 02:31:33] Epoch 15, total_train_loss: 15565.98066675663, total_val_loss: 3898.7480529546738
+[2024-02-20 02:36:09] Epoch 16, total_train_loss: 15565.581223487854, total_val_loss: 3899.78840303421
+[2024-02-20 02:40:47] Epoch 17, total_train_loss: 15565.004758358002, total_val_loss: 3900.2032339572906
+[2024-02-20 02:45:25] Epoch 18, total_train_loss: 15565.388431549072, total_val_loss: 3898.450941324234
+[2024-02-20 02:50:03] Epoch 19, total_train_loss: 15564.536298394203, total_val_loss: 3900.905375123024
+[2024-02-20 02:54:39] Epoch 20, total_train_loss: 15564.344938993454, total_val_loss: 3901.221211194992
+[2024-02-20 02:59:15] Epoch 21, total_train_loss: 15564.449712395668, total_val_loss: 3899.785309791565
+[2024-02-20 03:03:53] Epoch 22, total_train_loss: 15564.305970311165, total_val_loss: 3900.430996656418
+[2024-02-20 03:08:31] Epoch 23, total_train_loss: 15564.306918859482, total_val_loss: 3899.6005573272705
+[2024-02-20 03:13:06] Epoch 24, total_train_loss: 15563.931991696358, total_val_loss: 3899.379406929016
+[2024-02-20 03:17:42] Epoch 25, total_train_loss: 15563.762164115906, total_val_loss: 3902.383192539215
+[2024-02-20 03:22:20] Epoch 26, total_train_loss: 15563.57802939415, total_val_loss: 3899.2220418453217
+[2024-02-20 03:26:58] Epoch 27, total_train_loss: 15564.310582399368, total_val_loss: 3899.0934921503067
+[2024-02-20 03:31:34] Epoch 28, total_train_loss: 15563.579088330269, total_val_loss: 3900.7209013700485
+[2024-02-20 03:36:21] Epoch 29, total_train_loss: 15563.51156616211, total_val_loss: 3900.1756006479263
+[2024-02-20 03:40:59] Epoch 30, total_train_loss: 15562.664776086807, total_val_loss: 3901.14573431015
+[2024-02-20 03:45:37] Epoch 31, total_train_loss: 15563.43497812748, total_val_loss: 3900.354250192642
+[2024-02-20 03:50:15] Epoch 32, total_train_loss: 15563.053519964218, total_val_loss: 3901.6250898838043
+[2024-02-20 03:54:51] Epoch 33, total_train_loss: 15562.848977088928, total_val_loss: 3901.1040914058685
+[2024-02-20 03:59:27] Epoch 34, total_train_loss: 15562.76145207882, total_val_loss: 3901.735987663269
+[2024-02-20 04:04:04] Epoch 35, total_train_loss: 15562.66233074665, total_val_loss: 3902.078420519829
+[2024-02-20 04:08:41] Epoch 36, total_train_loss: 15563.127955794334, total_val_loss: 3900.6718069314957
+[2024-02-20 04:13:17] Epoch 37, total_train_loss: 15562.8150151968, total_val_loss: 3901.711696267128
+[2024-02-20 04:17:53] Epoch 38, total_train_loss: 15562.893027544022, total_val_loss: 3901.104066967964
+[2024-02-20 04:22:31] Epoch 39, total_train_loss: 15562.743180036545, total_val_loss: 3903.7389748096466
+[2024-02-20 04:27:10] Epoch 40, total_train_loss: 15562.55868446827, total_val_loss: 3902.469099998474
+[2024-02-20 04:31:47] Epoch 41, total_train_loss: 15562.608382105827, total_val_loss: 3900.4926409721375
+[2024-02-20 04:36:23] Epoch 42, total_train_loss: 15563.624603390694, total_val_loss: 3901.8849794864655
+[2024-02-20 04:41:00] Epoch 43, total_train_loss: 15562.490491986275, total_val_loss: 3902.9481422901154
+[2024-02-20 04:45:39] Epoch 44, total_train_loss: 15562.399874091148, total_val_loss: 3904.05715739727
+[2024-02-20 04:50:18] Epoch 45, total_train_loss: 15562.551760435104, total_val_loss: 3906.522600054741
+[2024-02-20 04:54:55] Epoch 46, total_train_loss: 15562.406884431839, total_val_loss: 3903.1996344327927
+[2024-02-20 04:59:31] Epoch 47, total_train_loss: 15562.664500713348, total_val_loss: 3904.5981991291046
+[2024-02-20 05:04:10] Epoch 48, total_train_loss: 15562.950556874275, total_val_loss: 3905.041428565979
+[2024-02-20 05:08:48] Epoch 49, total_train_loss: 15562.41673386097, total_val_loss: 3903.5458879470825
+[2024-02-20 05:13:24] Epoch 50, total_train_loss: 15562.312260866165, total_val_loss: 3903.643977999687
+[2024-02-20 05:17:59] Epoch 51, total_train_loss: 15562.857182264328, total_val_loss: 3905.974907875061
+[2024-02-20 05:22:38] Epoch 52, total_train_loss: 15562.018469929695, total_val_loss: 3903.328354358673
+[2024-02-20 05:27:16] Epoch 53, total_train_loss: 15562.399125695229, total_val_loss: 3907.568866252899
+[2024-02-20 05:31:54] Epoch 54, total_train_loss: 15562.296686053276, total_val_loss: 3906.27832531929
+[2024-02-20 05:36:30] Epoch 55, total_train_loss: 15562.231792926788, total_val_loss: 3904.2894780635834
+[2024-02-20 05:41:07] Epoch 56, total_train_loss: 15561.985646724701, total_val_loss: 3905.4427258968353
+[2024-02-20 05:45:46] Epoch 57, total_train_loss: 15562.73615705967, total_val_loss: 3907.321429014206
+[2024-02-20 05:50:24] Epoch 58, total_train_loss: 15562.991273522377, total_val_loss: 3906.202261567116
+[2024-02-20 05:54:59] Epoch 59, total_train_loss: 15562.45186328888, total_val_loss: 3907.1866335868835
+[2024-02-20 05:59:37] Epoch 60, total_train_loss: 15562.788799405098, total_val_loss: 3908.0222338438034
+[2024-02-20 06:04:13] Epoch 61, total_train_loss: 15562.396001815796, total_val_loss: 3908.1539496183395
+[2024-02-20 06:08:51] Epoch 62, total_train_loss: 15562.083946704865, total_val_loss: 3908.6515126228333
+[2024-02-20 06:13:29] Epoch 63, total_train_loss: 15562.272892475128, total_val_loss: 3906.727990627289
+[2024-02-20 06:18:07] Epoch 64, total_train_loss: 15562.177757263184, total_val_loss: 3911.4239399433136
+[2024-02-20 06:22:45] Epoch 65, total_train_loss: 15562.393547177315, total_val_loss: 3909.8323245048523
+[2024-02-20 06:27:23] Epoch 66, total_train_loss: 15563.357728242874, total_val_loss: 3909.5652722120285
+[2024-02-20 06:32:00] Epoch 67, total_train_loss: 15562.302479982376, total_val_loss: 3910.7891577482224
+[2024-02-20 06:36:36] Epoch 68, total_train_loss: 15562.123152017593, total_val_loss: 3912.839144349098
+[2024-02-20 06:41:14] Epoch 69, total_train_loss: 15562.19976246357, total_val_loss: 3908.7760639190674
+[2024-02-20 06:45:53] Epoch 70, total_train_loss: 15562.278710126877, total_val_loss: 3912.547162413597
+[2024-02-20 06:50:30] Epoch 71, total_train_loss: 15562.823020935059, total_val_loss: 3910.304635286331
+[2024-02-20 06:55:06] Epoch 72, total_train_loss: 15562.054103374481, total_val_loss: 3907.9380625486374
+[2024-02-20 06:59:43] Epoch 73, total_train_loss: 15562.357243657112, total_val_loss: 3912.7893756628036
+[2024-02-20 07:04:21] Epoch 74, total_train_loss: 15562.672519087791, total_val_loss: 3909.520430326462
+[2024-02-20 07:08:58] Epoch 75, total_train_loss: 15562.593437552452, total_val_loss: 3911.519740819931
+[2024-02-20 07:13:36] Epoch 76, total_train_loss: 15562.943419098854, total_val_loss: 3911.368101477623
+[2024-02-20 07:18:11] Epoch 77, total_train_loss: 15562.420066356659, total_val_loss: 3907.741430282593
+[2024-02-20 07:22:49] Epoch 78, total_train_loss: 15562.330635786057, total_val_loss: 3911.411754846573
+[2024-02-20 07:27:27] Epoch 79, total_train_loss: 15562.868480563164, total_val_loss: 3912.5240705013275
+[2024-02-20 07:32:06] Epoch 80, total_train_loss: 15563.023555994034, total_val_loss: 3910.939816594124
+[2024-02-20 07:36:42] Epoch 81, total_train_loss: 15563.023566246033, total_val_loss: 3920.2242584228516
+[2024-02-20 07:41:20] Epoch 82, total_train_loss: 15562.757024049759, total_val_loss: 3912.022763609886
+[2024-02-20 07:45:59] Epoch 83, total_train_loss: 15563.131798148155, total_val_loss: 3912.091768026352
+[2024-02-20 07:50:37] Epoch 84, total_train_loss: 15562.901338815689, total_val_loss: 3912.5062638521194
+[2024-02-20 07:55:13] Epoch 85, total_train_loss: 15562.834024429321, total_val_loss: 3909.5865426063538
+[2024-02-20 07:59:50] Epoch 86, total_train_loss: 15562.634553074837, total_val_loss: 3911.3721050024033
+[2024-02-20 08:04:29] Epoch 87, total_train_loss: 15562.861477971077, total_val_loss: 3912.1343054771423
+[2024-02-20 08:09:08] Epoch 88, total_train_loss: 15562.736450076103, total_val_loss: 3910.2619721889496
+[2024-02-20 08:13:45] Epoch 89, total_train_loss: 15562.073930740356, total_val_loss: 3913.7152522802353
+[2024-02-20 08:18:22] Epoch 90, total_train_loss: 15562.952870965004, total_val_loss: 3912.0601128339767
+[2024-02-20 08:22:59] Epoch 91, total_train_loss: 15562.327833533287, total_val_loss: 3913.989095568657
+[2024-02-20 08:27:37] Epoch 92, total_train_loss: 15562.728758454323, total_val_loss: 3912.6277115345
+[2024-02-20 08:32:15] Epoch 93, total_train_loss: 15562.365844964981, total_val_loss: 3910.2949109077454
+[2024-02-20 08:36:50] Epoch 94, total_train_loss: 15562.574918746948, total_val_loss: 3909.610943198204
+[2024-02-20 08:41:29] Epoch 95, total_train_loss: 15563.864155173302, total_val_loss: 3909.487905740738
+[2024-02-20 08:46:07] Epoch 96, total_train_loss: 15562.05438387394, total_val_loss: 3919.754072546959
+[2024-02-20 08:50:46] Epoch 97, total_train_loss: 15563.0708091259, total_val_loss: 3918.27386367321
+[2024-02-20 08:55:23] Epoch 98, total_train_loss: 15562.568103432655, total_val_loss: 3920.938541650772
+[2024-02-20 08:59:58] Epoch 99, total_train_loss: 15562.863318562508, total_val_loss: 3911.6175614595413
+[2024-02-20 11:54:08] CUDA Available: True
+[2024-02-20 11:54:08] CUDA Version: 11.3
+[2024-02-20 11:54:08] PyTorch Version: 1.10.2+cu113
+[2024-02-20 11:54:08] CUDA Device Name: NVIDIA GeForce RTX 4080
+[2024-02-20 11:54:08] Using device: cuda
+[2024-02-20 11:54:08] Initializing dataset...
+[2024-02-20 11:54:08] Dataset initialized.
+[2024-02-20 11:54:08] No checkpoint found at 'embeddings/checkpoints/ll_500batch_newadvancedinductive_target.pth.tar', starting from scratch.
+[2024-02-20 11:58:08] Epoch 0, total_train_loss: 361.7845994234085, total_val_loss: 81.0576560497284
+[2024-02-20 12:02:07] Epoch 1, total_train_loss: 316.23960268497467, total_val_loss: 80.33309376239777
+[2024-02-20 12:06:09] Epoch 2, total_train_loss: 314.8638664484024, total_val_loss: 80.16407251358032
+[2024-02-20 12:10:07] Epoch 3, total_train_loss: 314.2753710746765, total_val_loss: 80.06355595588684
+[2024-02-20 12:14:07] Epoch 4, total_train_loss: 313.6870346069336, total_val_loss: 79.97896921634674
+[2024-02-20 12:18:06] Epoch 5, total_train_loss: 313.3907138109207, total_val_loss: 79.9474447965622
+[2024-02-20 12:22:06] Epoch 6, total_train_loss: 313.4086706638336, total_val_loss: 79.95439386367798
+[2024-02-20 12:26:07] Epoch 7, total_train_loss: 313.4116725921631, total_val_loss: 79.9327220916748
+[2024-02-20 12:30:06] Epoch 8, total_train_loss: 313.4210170507431, total_val_loss: 79.91370475292206
+[2024-02-20 12:34:05] Epoch 9, total_train_loss: 313.2734445333481, total_val_loss: 79.9117546081543
+[2024-02-20 12:38:06] Epoch 10, total_train_loss: 313.24308145046234, total_val_loss: 79.89661157131195
+[2024-02-20 12:42:05] Epoch 11, total_train_loss: 313.17035734653473, total_val_loss: 79.88763129711151
+[2024-02-20 12:46:04] Epoch 12, total_train_loss: 313.14536821842194, total_val_loss: 79.90219724178314
+[2024-02-20 12:50:05] Epoch 13, total_train_loss: 313.15792441368103, total_val_loss: 79.89568257331848
+[2024-02-20 12:54:03] Epoch 14, total_train_loss: 313.1051045656204, total_val_loss: 79.87439095973969
+[2024-02-20 12:58:05] Epoch 15, total_train_loss: 313.19208109378815, total_val_loss: 79.8672194480896
+[2024-02-20 13:02:07] Epoch 16, total_train_loss: 313.1585305929184, total_val_loss: 79.87887942790985
+[2024-02-20 13:06:09] Epoch 17, total_train_loss: 313.10539519786835, total_val_loss: 79.86287140846252
+[2024-02-20 13:10:12] Epoch 18, total_train_loss: 312.99353432655334, total_val_loss: 79.86378109455109
+[2024-02-20 13:14:13] Epoch 19, total_train_loss: 312.97960925102234, total_val_loss: 79.84874987602234
+[2024-02-20 13:18:12] Epoch 20, total_train_loss: 313.1033664941788, total_val_loss: 79.8836520910263
+[2024-02-20 13:22:12] Epoch 21, total_train_loss: 313.111399769783, total_val_loss: 79.8673746585846
+[2024-02-20 13:26:12] Epoch 22, total_train_loss: 313.0971828699112, total_val_loss: 79.85130774974823
+[2024-02-20 13:30:11] Epoch 23, total_train_loss: 312.99732422828674, total_val_loss: 79.89566504955292
+[2024-02-20 13:34:14] Epoch 24, total_train_loss: 313.09590101242065, total_val_loss: 79.84487187862396
+[2024-02-20 13:38:13] Epoch 25, total_train_loss: 313.1516729593277, total_val_loss: 79.8747889995575
+[2024-02-20 13:42:12] Epoch 26, total_train_loss: 313.016463637352, total_val_loss: 79.8496105670929
+[2024-02-20 13:46:11] Epoch 27, total_train_loss: 313.0256578922272, total_val_loss: 79.85106825828552
+[2024-02-20 13:50:10] Epoch 28, total_train_loss: 313.08098912239075, total_val_loss: 79.846564412117
+[2024-02-20 13:54:08] Epoch 29, total_train_loss: 313.13281083106995, total_val_loss: 79.84733724594116
+[2024-02-20 13:58:08] Epoch 30, total_train_loss: 313.1368592977524, total_val_loss: 79.85121762752533
+[2024-02-20 14:02:08] Epoch 31, total_train_loss: 313.05209624767303, total_val_loss: 79.85167527198792
+[2024-02-20 14:06:07] Epoch 32, total_train_loss: 313.01405251026154, total_val_loss: 79.84133183956146
+[2024-02-20 14:10:06] Epoch 33, total_train_loss: 313.0576251745224, total_val_loss: 79.85117840766907
+[2024-02-20 14:14:07] Epoch 34, total_train_loss: 312.85100853443146, total_val_loss: 79.85125732421875
+[2024-02-20 14:18:08] Epoch 35, total_train_loss: 312.91326653957367, total_val_loss: 79.86625325679779
+[2024-02-20 14:22:08] Epoch 36, total_train_loss: 312.95347034931183, total_val_loss: 79.84165358543396
+[2024-02-20 14:26:09] Epoch 37, total_train_loss: 313.0056252479553, total_val_loss: 79.85110759735107
+[2024-02-20 14:30:09] Epoch 38, total_train_loss: 313.0832555294037, total_val_loss: 79.85121095180511
+[2024-02-20 14:34:08] Epoch 39, total_train_loss: 313.04836678504944, total_val_loss: 79.84585332870483
+[2024-02-20 14:38:10] Epoch 40, total_train_loss: 313.02110481262207, total_val_loss: 79.84166741371155
+[2024-02-20 14:42:10] Epoch 41, total_train_loss: 312.8595770597458, total_val_loss: 79.83883714675903
+[2024-02-20 14:46:10] Epoch 42, total_train_loss: 312.89791440963745, total_val_loss: 79.84153056144714
+[2024-02-20 14:50:10] Epoch 43, total_train_loss: 312.89711236953735, total_val_loss: 79.87547254562378
+[2024-02-20 14:54:09] Epoch 44, total_train_loss: 313.0217844247818, total_val_loss: 79.83970808982849
+[2024-02-20 14:58:09] Epoch 45, total_train_loss: 313.03301441669464, total_val_loss: 79.85375440120697
+[2024-02-20 15:02:10] Epoch 46, total_train_loss: 313.00488543510437, total_val_loss: 79.83267545700073
+[2024-02-20 15:06:10] Epoch 47, total_train_loss: 312.97063314914703, total_val_loss: 79.8717223405838
+[2024-02-20 15:10:10] Epoch 48, total_train_loss: 313.0207875967026, total_val_loss: 79.83688044548035
+[2024-02-20 15:14:10] Epoch 49, total_train_loss: 312.97012066841125, total_val_loss: 79.85733962059021
+[2024-02-20 15:18:11] Epoch 50, total_train_loss: 312.9966365098953, total_val_loss: 79.84304916858673
+[2024-02-20 15:22:12] Epoch 51, total_train_loss: 312.989515542984, total_val_loss: 79.83424746990204
+[2024-02-20 15:26:12] Epoch 52, total_train_loss: 312.96678268909454, total_val_loss: 79.84348177909851
+[2024-02-20 15:30:12] Epoch 53, total_train_loss: 312.8902986049652, total_val_loss: 79.84771716594696
+[2024-02-20 15:34:13] Epoch 54, total_train_loss: 313.11297380924225, total_val_loss: 79.8577811717987
+[2024-02-20 15:38:13] Epoch 55, total_train_loss: 313.02447164058685, total_val_loss: 79.84411704540253
+[2024-02-20 15:42:13] Epoch 56, total_train_loss: 312.86396753787994, total_val_loss: 79.84194540977478
+[2024-02-20 15:46:13] Epoch 57, total_train_loss: 312.9111217260361, total_val_loss: 79.82840013504028
+[2024-02-20 15:50:15] Epoch 58, total_train_loss: 312.9625859260559, total_val_loss: 79.83080470561981
+[2024-02-20 15:54:14] Epoch 59, total_train_loss: 312.93448424339294, total_val_loss: 79.83592700958252
+[2024-02-20 15:58:14] Epoch 60, total_train_loss: 312.93409836292267, total_val_loss: 79.83726286888123
+[2024-02-20 16:02:14] Epoch 61, total_train_loss: 312.9597487449646, total_val_loss: 79.83731186389923
+[2024-02-20 16:06:15] Epoch 62, total_train_loss: 312.93571746349335, total_val_loss: 79.83277082443237
+[2024-02-20 16:10:14] Epoch 63, total_train_loss: 312.9803296327591, total_val_loss: 79.84510409832001
+[2024-02-20 16:14:14] Epoch 64, total_train_loss: 312.9758139848709, total_val_loss: 79.84413266181946
+[2024-02-20 16:18:14] Epoch 65, total_train_loss: 312.9536814689636, total_val_loss: 79.83191990852356
+[2024-02-20 16:22:14] Epoch 66, total_train_loss: 312.8575186729431, total_val_loss: 79.84292602539062
+[2024-02-20 16:26:16] Epoch 67, total_train_loss: 312.9524221420288, total_val_loss: 79.86156439781189
+[2024-02-20 16:30:16] Epoch 68, total_train_loss: 313.0114394426346, total_val_loss: 79.87040615081787
+[2024-02-20 16:34:16] Epoch 69, total_train_loss: 312.89248156547546, total_val_loss: 79.83898794651031
+[2024-02-20 16:38:17] Epoch 70, total_train_loss: 312.9617567062378, total_val_loss: 79.85833489894867
+[2024-02-20 16:42:16] Epoch 71, total_train_loss: 312.86500895023346, total_val_loss: 79.8547033071518
+[2024-02-20 16:46:16] Epoch 72, total_train_loss: 312.9227890968323, total_val_loss: 79.84062206745148
+[2024-02-20 16:50:18] Epoch 73, total_train_loss: 312.95641338825226, total_val_loss: 79.8478502035141
+[2024-02-20 16:54:17] Epoch 74, total_train_loss: 312.91569674015045, total_val_loss: 79.85414004325867
+[2024-02-20 16:58:17] Epoch 75, total_train_loss: 312.94892394542694, total_val_loss: 79.83787870407104
+[2024-02-20 17:02:18] Epoch 76, total_train_loss: 312.98089241981506, total_val_loss: 79.87727272510529
+[2024-02-20 17:06:17] Epoch 77, total_train_loss: 312.85497999191284, total_val_loss: 79.84045851230621
+[2024-02-20 17:10:18] Epoch 78, total_train_loss: 313.03800225257874, total_val_loss: 79.83080172538757
+[2024-02-20 17:14:19] Epoch 79, total_train_loss: 313.0344159603119, total_val_loss: 79.83160924911499
+[2024-02-20 17:18:26] Epoch 80, total_train_loss: 312.88159906864166, total_val_loss: 79.83433175086975
+[2024-02-20 17:22:25] Epoch 81, total_train_loss: 312.9034649133682, total_val_loss: 79.83029913902283
+[2024-02-20 17:26:24] Epoch 82, total_train_loss: 312.96713042259216, total_val_loss: 79.84519684314728
+[2024-02-20 17:30:22] Epoch 83, total_train_loss: 312.95494174957275, total_val_loss: 79.8424391746521
+[2024-02-20 17:34:19] Epoch 84, total_train_loss: 312.9087505340576, total_val_loss: 79.83198928833008
+[2024-02-20 17:38:18] Epoch 85, total_train_loss: 312.92311894893646, total_val_loss: 79.8287523984909
+[2024-02-20 17:42:14] Epoch 86, total_train_loss: 312.9829012155533, total_val_loss: 79.83916568756104
+[2024-02-20 17:46:12] Epoch 87, total_train_loss: 312.9753954410553, total_val_loss: 79.83303666114807
+[2024-02-20 17:50:14] Epoch 88, total_train_loss: 313.00979113578796, total_val_loss: 79.84246325492859
+[2024-02-20 17:54:11] Epoch 89, total_train_loss: 313.01254737377167, total_val_loss: 79.84136652946472
+[2024-02-20 17:58:12] Epoch 90, total_train_loss: 312.8673459291458, total_val_loss: 79.8252295255661
+[2024-02-20 18:02:10] Epoch 91, total_train_loss: 312.94792437553406, total_val_loss: 79.83119094371796
+[2024-02-20 18:06:07] Epoch 92, total_train_loss: 312.922358751297, total_val_loss: 79.85372960567474
+[2024-02-20 18:10:05] Epoch 93, total_train_loss: 313.00293040275574, total_val_loss: 79.82689201831818
+[2024-02-20 18:14:04] Epoch 94, total_train_loss: 312.86304557323456, total_val_loss: 79.83782970905304
+[2024-02-20 18:18:02] Epoch 95, total_train_loss: 312.94607949256897, total_val_loss: 79.83294904232025
+[2024-02-20 18:22:00] Epoch 96, total_train_loss: 312.8911919593811, total_val_loss: 79.84442377090454
+[2024-02-20 18:25:57] Epoch 97, total_train_loss: 312.8530297279358, total_val_loss: 79.87388741970062
+[2024-02-20 18:29:53] Epoch 98, total_train_loss: 312.8635859489441, total_val_loss: 79.83818590641022
+[2024-02-20 18:33:51] Epoch 99, total_train_loss: 312.8278080224991, total_val_loss: 79.85274803638458

@@ -1,0 +1,62 @@
+000 (55645.000.000) 2023-12-01 19:47:53 Job submitted from host: <140.160.143.130:9618?addrs=140.160.143.130-9618&alias=csci-head.cluster.cs.wwu.edu&noUDP&sock=schedd_1686_08c4>
+...
+001 (55645.000.000) 2023-12-01 19:48:05 Job executing on host: <140.160.143.172:9618?addrs=140.160.143.172-9618&alias=g-1-0.cluster.cs.wwu.edu&noUDP&sock=startd_2355_e99f>
+	SlotName: slot1_2@g-1-0.cluster.cs.wwu.edu
+	AvailableGPUs = { GPUs_GPU_4baabe5e,GPUs_GPU_ba1787c6 }
+	CondorScratchDir = "/scratch_ssd/condor/execute/dir_2447051"
+	Cpus = 1
+	Disk = 3503172
+	GPUs = 2
+	GPUs_GPU_4baabe5e = [ DeviceName = "NVIDIA GeForce RTX 2080 Ti"; DriverVersion = 12.2; ECCEnabled = false; DevicePciBusId = "0000:AF:00.0"; DeviceUuid = "4baabe5e-6d32-d686-d67b-51558270e42e"; GlobalMemoryMb = 11012; MaxSupportedVersion = 12020; Capability = 7.5; Id = "GPU-4baabe5e" ]
+	GPUs_GPU_ba1787c6 = [ DeviceName = "NVIDIA GeForce RTX 2080 Ti"; DriverVersion = 12.2; ECCEnabled = false; DevicePciBusId = "0000:D8:00.0"; DeviceUuid = "ba1787c6-b8e6-cc61-7296-f35ff2ec108c"; GlobalMemoryMb = 11012; MaxSupportedVersion = 12020; Capability = 7.5; Id = "GPU-ba1787c6" ]
+	Memory = 40960
+...
+006 (55645.000.000) 2023-12-01 19:48:13 Image size of job updated: 1417192
+	1384  -  MemoryUsage of job (MB)
+	1417192  -  ResidentSetSize of job (KB)
+...
+006 (55645.000.000) 2023-12-01 19:53:13 Image size of job updated: 28068848
+	26724  -  MemoryUsage of job (MB)
+	27364608  -  ResidentSetSize of job (KB)
+...
+006 (55645.000.000) 2023-12-01 19:53:46 Image size of job updated: 30289816
+	26724  -  MemoryUsage of job (MB)
+	27364608  -  ResidentSetSize of job (KB)
+...
+004 (55645.000.000) 2023-12-01 19:53:46 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:42, Sys 0 00:00:44  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :     0.20        1         1 
+	   Disk (KB)            :     1           1   3503172 
+	   Gpus (Average)       :     0.05        2         2 "GPU-4baabe5e,GPU-ba1787c6"
+	   GpusMemory (MB)      :   256                       
+	   Memory (MB)          : 26724       40960     40960 
+...
+009 (55645.000.000) 2023-12-01 19:53:46 Job was aborted.
+	via condor_rm (by user bullara2)
+...
+000 (55647.000.000) 2023-12-01 19:55:48 Job submitted from host: <140.160.143.130:9618?addrs=140.160.143.130-9618&alias=csci-head.cluster.cs.wwu.edu&noUDP&sock=schedd_1686_08c4>
+...
+001 (55647.000.000) 2023-12-01 19:55:49 Job executing on host: <140.160.143.172:9618?addrs=140.160.143.172-9618&alias=g-1-0.cluster.cs.wwu.edu&noUDP&sock=startd_2355_e99f>
+	SlotName: slot1_2@g-1-0.cluster.cs.wwu.edu
+	AvailableGPUs = { GPUs_GPU_4baabe5e,GPUs_GPU_ba1787c6 }
+	CondorScratchDir = "/scratch_ssd/condor/execute/dir_2447084"
+	Cpus = 1
+	Disk = 3503172
+	GPUs = 2
+	GPUs_GPU_4baabe5e = [ DeviceName = "NVIDIA GeForce RTX 2080 Ti"; DriverVersion = 12.2; ECCEnabled = false; DevicePciBusId = "0000:AF:00.0"; DeviceUuid = "4baabe5e-6d32-d686-d67b-51558270e42e"; GlobalMemoryMb = 11012; MaxSupportedVersion = 12020; Capability = 7.5; Id = "GPU-4baabe5e" ]
+	GPUs_GPU_ba1787c6 = [ DeviceName = "NVIDIA GeForce RTX 2080 Ti"; DriverVersion = 12.2; ECCEnabled = false; DevicePciBusId = "0000:D8:00.0"; DeviceUuid = "ba1787c6-b8e6-cc61-7296-f35ff2ec108c"; GlobalMemoryMb = 11012; MaxSupportedVersion = 12020; Capability = 7.5; Id = "GPU-ba1787c6" ]
+	Memory = 40960
+...
+006 (55647.000.000) 2023-12-01 19:55:58 Image size of job updated: 4548808
+	3833  -  MemoryUsage of job (MB)
+	3924880  -  ResidentSetSize of job (KB)
+...
+006 (55647.000.000) 2023-12-01 20:00:59 Image size of job updated: 11304772
+	8561  -  MemoryUsage of job (MB)
+	8765740  -  ResidentSetSize of job (KB)
+...

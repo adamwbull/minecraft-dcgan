@@ -1,0 +1,12 @@
+Universe   = vanilla
+Executable = run_job.sh
+Arguments  = schematics-convert.py --schematics_file ./schematics.hdf5 --embeddings_file ./embeddings.pkl --output_file ./schematics_embeddings.hdf5
+
+Output     = out.log
+Error      = error.log
+Log        = log.log
+
+Request_Cpus   = 1
+Request_Memory = 10GB
+
+Queue

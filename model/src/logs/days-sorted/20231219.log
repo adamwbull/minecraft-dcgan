@@ -1,0 +1,22 @@
+[2023-12-19 00:26:15] Epoch 83/100 | Discriminator Loss: 0.005147 | Generator Loss: 6.637150
+[2023-12-19 00:26:15] Epoch 83/100 | Discriminator Loss: 0.005847 | Generator Loss: 6.910970
+[2023-12-19 03:17:59] Epoch 84/100 | Discriminator Loss: 0.029665 | Generator Loss: 4.891792
+[2023-12-19 03:17:59] Epoch 84/100 | Discriminator Loss: 0.015243 | Generator Loss: 6.900450
+[2023-12-19 06:09:21] Epoch 85/100 | Discriminator Loss: 0.001503 | Generator Loss: 9.363308
+[2023-12-19 06:09:21] Epoch 85/100 | Discriminator Loss: 0.000722 | Generator Loss: 9.790870
+[2023-12-19 09:00:50] Epoch 86/100 | Discriminator Loss: 0.002380 | Generator Loss: 6.576868
+[2023-12-19 09:00:50] Epoch 86/100 | Discriminator Loss: 0.001680 | Generator Loss: 7.243412
+[2023-12-19 11:52:43] Epoch 87/100 | Discriminator Loss: 0.190100 | Generator Loss: 16.048153
+[2023-12-19 11:52:43] Epoch 87/100 | Discriminator Loss: 0.200164 | Generator Loss: 14.879688
+[2023-12-19 14:44:26] Epoch 88/100 | Discriminator Loss: 0.000127 | Generator Loss: 11.643627
+[2023-12-19 14:44:26] Epoch 88/100 | Discriminator Loss: 0.002081 | Generator Loss: 9.820354
+[2023-12-19 17:04:52] Saved new best_loss_d checkpoint ll_lb_best_loss_d.pth.tar
+[2023-12-19 17:04:52] Saved Epoch 89/100 | Discriminator Loss: 0.000000 | Generator Loss: 32.044415
+[2023-12-19 17:06:33] Saved new best_loss_d checkpoint ll_lb_best_loss_d.pth.tar
+[2023-12-19 17:06:33] Saved Epoch 89/100 | Discriminator Loss: 0.000000 | Generator Loss: 26.553890
+[2023-12-19 17:36:20] Epoch 89/100 | Discriminator Loss: 0.009177 | Generator Loss: 6.107827
+[2023-12-19 17:36:20] Epoch 89/100 | Discriminator Loss: 0.073236 | Generator Loss: 5.964957
+[2023-12-19 20:15:05] Epoch 90/100 | Discriminator Loss: 0.001478 | Generator Loss: 11.250188
+[2023-12-19 20:15:05] Epoch 90/100 | Discriminator Loss: 0.007856 | Generator Loss: 8.027971
+[2023-12-19 22:34:08] Epoch 91/100 | Discriminator Loss: 0.002886 | Generator Loss: 9.845057
+[2023-12-19 22:34:08] Epoch 91/100 | Discriminator Loss: 0.002774 | Generator Loss: 8.462662

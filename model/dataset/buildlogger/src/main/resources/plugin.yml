@@ -1,0 +1,21 @@
+name: 'BuildLogger'
+version: 1.4
+main: cappycap.buildlogger.BuildLogger
+api-version: '1.20'
+commands:
+  convert:
+    description: Convert schematics to JSON
+    usage: /convert
+    permission: buildlogger.convert
+  ve:
+    description: View a pre-processed entry. Add -e flag to display the original .schem to the side of the pre-processed entry, if it exists.
+    usage: /ve -e(optional) list/[entry id]
+    permission: buildlogger.ve
+  vg:
+    description: Display a generated schematic entry.
+    usage: /vg
+    permission: buildlogger.vg
+  ue:
+    description: Categorize an entry.
+    usage: /ue [entry id] [category]
+    permission: buildlogger.ue

@@ -1,0 +1,8 @@
+[2023-11-26 09:50:27] Loaded checkpoint with best_loss_d value of inf
+[2023-11-26 09:50:32] Saved new best checkpoint to high_learn_medium_batch_best.pth.tar
+[2023-11-26 09:50:32] Saved In Epoch 0/100 | Discriminator Loss: 1.4394 | Generator Loss: 19.3499
+[2023-11-26 09:50:38] Saved new best checkpoint to high_learn_medium_batch_best.pth.tar
+[2023-11-26 09:50:38] Saved In Epoch 0/100 | Discriminator Loss: 0.2593 | Generator Loss: 14.5716
+[2023-11-26 09:50:47] Saved new best checkpoint to high_learn_medium_batch_best.pth.tar
+[2023-11-26 09:50:47] Saved In Epoch 0/100 | Discriminator Loss: 0.0000 | Generator Loss: 22.9863
+[2023-11-26 09:52:29] Epoch 0/100 | Discriminator Loss: 1.0676 | Generator Loss: 6.6652

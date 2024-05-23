@@ -1,0 +1,278 @@
+[2024-02-01 12:09:08] World size: 2
+[2024-02-01 12:09:08] Found GPU 0: _CudaDeviceProperties(name='NVIDIA GeForce RTX 2080 Ti', major=7, minor=5, total_memory=11011MB, multi_processor_count=68)
+[2024-02-01 12:09:08] Found GPU 1: _CudaDeviceProperties(name='NVIDIA GeForce RTX 2080 Ti', major=7, minor=5, total_memory=11011MB, multi_processor_count=68)
+[2024-02-01 12:09:09] Setting up 1 of 2
+[2024-02-01 12:09:09] Initialized main on device: cuda:1 with rank 1
+[2024-02-01 12:09:18] Loaded model ll_hb on rank 1 in local epoch 0 | best_loss_g: inf | best_loss_d_closest_to_half: inf | best_loss_d: inf 
+[2024-02-01 12:22:48] GPU 1: Epoch 0/100 | Discriminator Loss: -62.815140 | Generator Loss: 44.749603
+[2024-02-01 12:35:25] GPU 1: Epoch 1/100 | Discriminator Loss: -53.890347 | Generator Loss: -39.901794
+[2024-02-01 12:48:00] GPU 1: Epoch 2/100 | Discriminator Loss: -60.796486 | Generator Loss: 5.340681
+[2024-02-01 13:00:33] GPU 1: Epoch 3/100 | Discriminator Loss: -60.722008 | Generator Loss: 11.218792
+[2024-02-01 13:13:06] GPU 1: Epoch 4/100 | Discriminator Loss: -64.315071 | Generator Loss: 2.819554
+[2024-02-01 13:25:38] GPU 1: Epoch 5/100 | Discriminator Loss: -53.956409 | Generator Loss: -8.502981
+[2024-02-01 13:38:10] GPU 1: Epoch 6/100 | Discriminator Loss: -48.544914 | Generator Loss: -1.517955
+[2024-02-01 13:50:42] GPU 1: Epoch 7/100 | Discriminator Loss: -52.591148 | Generator Loss: -0.612430
+[2024-02-01 14:03:14] GPU 1: Epoch 8/100 | Discriminator Loss: -46.511650 | Generator Loss: -15.732998
+[2024-02-01 14:15:47] GPU 1: Epoch 9/100 | Discriminator Loss: -50.561081 | Generator Loss: -17.101334
+[2024-02-01 14:28:19] GPU 1: Epoch 10/100 | Discriminator Loss: -44.931492 | Generator Loss: -17.924347
+[2024-02-01 14:40:53] GPU 1: Epoch 11/100 | Discriminator Loss: -49.094040 | Generator Loss: -19.669018
+[2024-02-01 14:53:25] GPU 1: Epoch 12/100 | Discriminator Loss: -44.953949 | Generator Loss: -21.515945
+[2024-02-01 15:05:57] GPU 1: Epoch 13/100 | Discriminator Loss: -46.626869 | Generator Loss: -25.350342
+[2024-02-01 15:18:29] GPU 1: Epoch 14/100 | Discriminator Loss: -44.755283 | Generator Loss: -28.582191
+[2024-02-01 15:31:01] GPU 1: Epoch 15/100 | Discriminator Loss: -41.033356 | Generator Loss: -35.188828
+[2024-02-01 15:43:32] GPU 1: Epoch 16/100 | Discriminator Loss: -45.163540 | Generator Loss: -38.389233
+[2024-02-01 15:56:04] GPU 1: Epoch 17/100 | Discriminator Loss: -40.289188 | Generator Loss: -35.123718
+[2024-02-01 16:08:35] GPU 1: Epoch 18/100 | Discriminator Loss: -42.566013 | Generator Loss: -39.953842
+[2024-02-01 16:21:07] GPU 1: Epoch 19/100 | Discriminator Loss: -41.323822 | Generator Loss: -31.928562
+[2024-02-01 16:33:39] GPU 1: Epoch 20/100 | Discriminator Loss: -42.206963 | Generator Loss: -26.711361
+[2024-02-01 16:46:12] GPU 1: Epoch 21/100 | Discriminator Loss: -38.277359 | Generator Loss: -30.930479
+[2024-02-01 16:58:44] GPU 1: Epoch 22/100 | Discriminator Loss: -43.930801 | Generator Loss: -30.936857
+[2024-02-01 17:11:17] GPU 1: Epoch 23/100 | Discriminator Loss: -41.436306 | Generator Loss: -33.871861
+[2024-02-01 17:23:49] GPU 1: Epoch 24/100 | Discriminator Loss: -41.154579 | Generator Loss: -35.837383
+[2024-02-01 17:36:21] GPU 1: Epoch 25/100 | Discriminator Loss: -40.684036 | Generator Loss: -32.119236
+[2024-02-01 17:48:53] GPU 1: Epoch 26/100 | Discriminator Loss: -45.040585 | Generator Loss: -35.323669
+[2024-02-01 18:01:26] GPU 1: Epoch 27/100 | Discriminator Loss: -35.508453 | Generator Loss: -21.264675
+[2024-02-01 18:13:59] GPU 1: Epoch 28/100 | Discriminator Loss: -39.420345 | Generator Loss: -28.287489
+[2024-02-01 18:26:31] GPU 1: Epoch 29/100 | Discriminator Loss: -39.968681 | Generator Loss: -24.854246
+[2024-02-01 18:39:03] GPU 1: Epoch 30/100 | Discriminator Loss: -40.043839 | Generator Loss: -25.955175
+[2024-02-01 18:51:36] GPU 1: Epoch 31/100 | Discriminator Loss: -42.372841 | Generator Loss: -20.604061
+[2024-02-01 19:04:08] GPU 1: Epoch 32/100 | Discriminator Loss: -41.226284 | Generator Loss: -21.803123
+[2024-02-01 19:16:40] GPU 1: Epoch 33/100 | Discriminator Loss: -40.867882 | Generator Loss: -18.486563
+[2024-02-01 19:29:12] GPU 1: Epoch 34/100 | Discriminator Loss: -41.778351 | Generator Loss: -13.881813
+[2024-02-01 19:41:44] GPU 1: Epoch 35/100 | Discriminator Loss: -36.868568 | Generator Loss: -15.004145
+[2024-02-01 19:54:17] GPU 1: Epoch 36/100 | Discriminator Loss: -39.254509 | Generator Loss: -11.713148
+[2024-02-01 20:06:48] GPU 1: Epoch 37/100 | Discriminator Loss: -39.399208 | Generator Loss: -19.187372
+[2024-02-01 20:19:20] GPU 1: Epoch 38/100 | Discriminator Loss: -43.079815 | Generator Loss: -16.976894
+[2024-02-01 20:31:52] GPU 1: Epoch 39/100 | Discriminator Loss: -35.434208 | Generator Loss: -15.672970
+[2024-02-01 20:44:24] GPU 1: Epoch 40/100 | Discriminator Loss: -41.797768 | Generator Loss: -15.889300
+[2024-02-01 20:56:58] GPU 1: Epoch 41/100 | Discriminator Loss: -35.483055 | Generator Loss: -12.658949
+[2024-02-01 21:09:30] GPU 1: Epoch 42/100 | Discriminator Loss: -36.286552 | Generator Loss: -15.903387
+[2024-02-01 21:22:01] GPU 1: Epoch 43/100 | Discriminator Loss: -35.257523 | Generator Loss: -14.924781
+[2024-02-01 21:34:34] GPU 1: Epoch 44/100 | Discriminator Loss: -32.912785 | Generator Loss: -10.593849
+[2024-02-01 21:47:05] GPU 1: Epoch 45/100 | Discriminator Loss: -39.290199 | Generator Loss: -15.863455
+[2024-02-01 21:59:37] GPU 1: Epoch 46/100 | Discriminator Loss: -35.336258 | Generator Loss: -10.686581
+[2024-02-01 22:12:10] GPU 1: Epoch 47/100 | Discriminator Loss: -36.431931 | Generator Loss: -8.149542
+[2024-02-01 22:24:42] GPU 1: Epoch 48/100 | Discriminator Loss: -37.922737 | Generator Loss: -14.154854
+[2024-02-01 22:37:14] GPU 1: Epoch 49/100 | Discriminator Loss: -38.224838 | Generator Loss: -8.271305
+[2024-02-01 22:49:46] GPU 1: Epoch 50/100 | Discriminator Loss: -38.471035 | Generator Loss: -15.358343
+[2024-02-01 23:02:18] GPU 1: Epoch 51/100 | Discriminator Loss: -33.517586 | Generator Loss: -5.854766
+[2024-02-01 23:14:50] GPU 1: Epoch 52/100 | Discriminator Loss: -39.384979 | Generator Loss: -12.182219
+[2024-02-01 23:27:22] GPU 1: Epoch 53/100 | Discriminator Loss: -33.439724 | Generator Loss: -12.899795
+[2024-02-01 23:39:54] GPU 1: Epoch 54/100 | Discriminator Loss: -35.542484 | Generator Loss: -7.574014
+[2024-02-01 23:52:26] GPU 1: Epoch 55/100 | Discriminator Loss: -34.341599 | Generator Loss: -9.629581
+[2024-02-02 00:04:58] GPU 1: Epoch 56/100 | Discriminator Loss: -30.519041 | Generator Loss: -6.894958
+[2024-02-02 00:17:30] GPU 1: Epoch 57/100 | Discriminator Loss: -31.087639 | Generator Loss: -7.722204
+[2024-02-02 00:30:02] GPU 1: Epoch 58/100 | Discriminator Loss: -33.406960 | Generator Loss: -5.250692
+[2024-02-02 00:42:35] GPU 1: Epoch 59/100 | Discriminator Loss: -33.935394 | Generator Loss: -12.277797
+[2024-02-02 00:55:07] GPU 1: Epoch 60/100 | Discriminator Loss: -30.827555 | Generator Loss: -10.988177
+[2024-02-02 01:07:39] GPU 1: Epoch 61/100 | Discriminator Loss: -33.959854 | Generator Loss: -8.857411
+[2024-02-02 01:20:11] GPU 1: Epoch 62/100 | Discriminator Loss: -29.627153 | Generator Loss: -6.267494
+[2024-02-02 01:32:42] GPU 1: Epoch 63/100 | Discriminator Loss: -29.670033 | Generator Loss: -11.190898
+[2024-02-02 01:45:14] GPU 1: Epoch 64/100 | Discriminator Loss: -26.421354 | Generator Loss: -5.999074
+[2024-02-02 01:57:46] GPU 1: Epoch 65/100 | Discriminator Loss: -30.995026 | Generator Loss: -9.594955
+[2024-02-02 02:10:18] GPU 1: Epoch 66/100 | Discriminator Loss: -28.948080 | Generator Loss: -4.596970
+[2024-02-02 02:22:49] GPU 1: Epoch 67/100 | Discriminator Loss: -30.907907 | Generator Loss: -4.182722
+[2024-02-02 02:35:20] GPU 1: Epoch 68/100 | Discriminator Loss: -30.305271 | Generator Loss: -5.547248
+[2024-02-02 02:47:52] GPU 1: Epoch 69/100 | Discriminator Loss: -24.738602 | Generator Loss: -12.215858
+[2024-02-02 03:00:23] GPU 1: Epoch 70/100 | Discriminator Loss: -28.041046 | Generator Loss: -3.489108
+[2024-02-02 03:12:55] GPU 1: Epoch 71/100 | Discriminator Loss: -27.313793 | Generator Loss: -13.305632
+[2024-02-02 03:25:26] GPU 1: Epoch 72/100 | Discriminator Loss: -28.347721 | Generator Loss: -4.531667
+[2024-02-02 03:37:59] GPU 1: Epoch 73/100 | Discriminator Loss: -25.149658 | Generator Loss: -4.240886
+[2024-02-02 03:50:31] GPU 1: Epoch 74/100 | Discriminator Loss: -27.655167 | Generator Loss: -8.881989
+[2024-02-02 04:03:03] GPU 1: Epoch 75/100 | Discriminator Loss: -24.601021 | Generator Loss: -5.739207
+[2024-02-02 04:15:35] GPU 1: Epoch 76/100 | Discriminator Loss: -23.701267 | Generator Loss: -2.559521
+[2024-02-02 04:28:07] GPU 1: Epoch 77/100 | Discriminator Loss: -23.516426 | Generator Loss: -12.128969
+[2024-02-02 04:40:39] GPU 1: Epoch 78/100 | Discriminator Loss: -27.760948 | Generator Loss: -5.325914
+[2024-02-02 04:53:11] GPU 1: Epoch 79/100 | Discriminator Loss: -25.784939 | Generator Loss: -2.933506
+[2024-02-02 05:05:43] GPU 1: Epoch 80/100 | Discriminator Loss: -26.813225 | Generator Loss: -8.871186
+[2024-02-02 05:18:16] GPU 1: Epoch 81/100 | Discriminator Loss: -24.240322 | Generator Loss: -10.056430
+[2024-02-02 05:30:48] GPU 1: Epoch 82/100 | Discriminator Loss: -23.882786 | Generator Loss: -6.508162
+[2024-02-02 05:43:19] GPU 1: Epoch 83/100 | Discriminator Loss: -24.752153 | Generator Loss: -1.928399
+[2024-02-02 05:55:51] GPU 1: Epoch 84/100 | Discriminator Loss: -23.942566 | Generator Loss: -7.129919
+[2024-02-02 06:08:23] GPU 1: Epoch 85/100 | Discriminator Loss: -24.153866 | Generator Loss: -11.282881
+[2024-02-02 06:20:55] GPU 1: Epoch 86/100 | Discriminator Loss: -25.802578 | Generator Loss: -10.322096
+[2024-02-02 06:33:26] GPU 1: Epoch 87/100 | Discriminator Loss: -20.429916 | Generator Loss: -6.567653
+[2024-02-02 06:45:58] GPU 1: Epoch 88/100 | Discriminator Loss: -22.232931 | Generator Loss: -8.286342
+[2024-02-02 06:58:30] GPU 1: Epoch 89/100 | Discriminator Loss: -25.887585 | Generator Loss: -9.572413
+[2024-02-02 07:11:02] GPU 1: Epoch 90/100 | Discriminator Loss: -23.326254 | Generator Loss: -5.301040
+[2024-02-02 07:23:35] GPU 1: Epoch 91/100 | Discriminator Loss: -23.990658 | Generator Loss: -3.034886
+[2024-02-02 07:36:07] GPU 1: Epoch 92/100 | Discriminator Loss: -26.485201 | Generator Loss: -2.703732
+[2024-02-02 07:48:39] GPU 1: Epoch 93/100 | Discriminator Loss: -21.772678 | Generator Loss: -8.562475
+[2024-02-02 08:01:12] GPU 1: Epoch 94/100 | Discriminator Loss: -18.961084 | Generator Loss: -2.732508
+[2024-02-02 08:13:44] GPU 1: Epoch 95/100 | Discriminator Loss: -24.077545 | Generator Loss: -5.610705
+[2024-02-02 08:26:15] GPU 1: Epoch 96/100 | Discriminator Loss: -24.677574 | Generator Loss: -4.787436
+[2024-02-02 08:38:47] GPU 1: Epoch 97/100 | Discriminator Loss: -25.146072 | Generator Loss: -7.683681
+[2024-02-02 08:51:19] GPU 1: Epoch 98/100 | Discriminator Loss: -24.905703 | Generator Loss: -10.109160
+[2024-02-02 09:03:51] GPU 1: Epoch 99/100 | Discriminator Loss: -22.893272 | Generator Loss: -2.981196
+[2024-02-01 12:09:09] Setting up 0 of 2
+[2024-02-01 12:09:09] Initialized main on device: cuda:0 with rank 0
+[2024-02-01 12:09:18] Loaded model ll_hb on rank 0 in local epoch 0 | best_loss_g: inf | best_loss_d_closest_to_half: inf | best_loss_d: inf 
+[2024-02-01 12:09:23] Saved new best_loss_g checkpoint ll_hb_best_loss_g.pth.tar
+[2024-02-01 12:09:23] Saved Epoch 0/100 | Discriminator Loss: 7.890148 | Generator Loss: 0.090077
+[2024-02-01 12:09:24] Saved new best_loss_d checkpoint ll_hb_best_loss_d.pth.tar
+[2024-02-01 12:09:24] Saved Epoch 0/100 | Discriminator Loss: 7.890148 | Generator Loss: 0.090077
+[2024-02-01 12:09:25] Saved new best_loss_d_closest_to_half checkpoint ll_hb_best_loss_d_closest_to_half.pth.tar
+[2024-02-01 12:09:25] Saved Epoch 0/100 | Discriminator Loss: 7.890148 | Generator Loss: 0.090077
+[2024-02-01 12:09:30] Saved new best_loss_d checkpoint ll_hb_best_loss_d.pth.tar
+[2024-02-01 12:09:30] Saved Epoch 0/100 | Discriminator Loss: -17.224314 | Generator Loss: 1.250906
+[2024-02-01 12:09:35] Saved new best_loss_d checkpoint ll_hb_best_loss_d.pth.tar
+[2024-02-01 12:09:35] Saved Epoch 0/100 | Discriminator Loss: -148.843292 | Generator Loss: 7.943630
+[2024-02-01 12:09:40] Saved new best_loss_d checkpoint ll_hb_best_loss_d.pth.tar
+[2024-02-01 12:09:40] Saved Epoch 0/100 | Discriminator Loss: -434.280670 | Generator Loss: 15.838570
+[2024-02-01 12:09:45] Saved new best_loss_d checkpoint ll_hb_best_loss_d.pth.tar
+[2024-02-01 12:09:46] Saved Epoch 0/100 | Discriminator Loss: -693.007019 | Generator Loss: 22.085873
+[2024-02-01 12:09:51] Saved new best_loss_d checkpoint ll_hb_best_loss_d.pth.tar
+[2024-02-01 12:09:51] Saved Epoch 0/100 | Discriminator Loss: -727.792480 | Generator Loss: 22.060246
+[2024-02-01 12:10:00] Saved new best_loss_g checkpoint ll_hb_best_loss_g.pth.tar
+[2024-02-01 12:10:00] Saved Epoch 0/100 | Discriminator Loss: -762.882202 | Generator Loss: -19.288883
+[2024-02-01 12:10:01] Saved new best_loss_d checkpoint ll_hb_best_loss_d.pth.tar
+[2024-02-01 12:10:01] Saved Epoch 0/100 | Discriminator Loss: -762.882202 | Generator Loss: -19.288883
+[2024-02-01 12:10:06] Saved new best_loss_g checkpoint ll_hb_best_loss_g.pth.tar
+[2024-02-01 12:10:06] Saved Epoch 0/100 | Discriminator Loss: -722.077820 | Generator Loss: -45.430004
+[2024-02-01 12:10:11] Saved new best_loss_g checkpoint ll_hb_best_loss_g.pth.tar
+[2024-02-01 12:10:11] Saved Epoch 0/100 | Discriminator Loss: -741.227722 | Generator Loss: -63.060040
+[2024-02-01 12:10:17] Saved new best_loss_g checkpoint ll_hb_best_loss_g.pth.tar
+[2024-02-01 12:10:17] Saved Epoch 0/100 | Discriminator Loss: -705.671631 | Generator Loss: -80.152275
+[2024-02-01 12:10:22] Saved new best_loss_g checkpoint ll_hb_best_loss_g.pth.tar
+[2024-02-01 12:10:22] Saved Epoch 0/100 | Discriminator Loss: -747.069336 | Generator Loss: -94.462341
+[2024-02-01 12:10:27] Saved new best_loss_g checkpoint ll_hb_best_loss_g.pth.tar
+[2024-02-01 12:10:27] Saved Epoch 0/100 | Discriminator Loss: -748.615784 | Generator Loss: -110.116119
+[2024-02-01 12:10:32] Saved new best_loss_g checkpoint ll_hb_best_loss_g.pth.tar
+[2024-02-01 12:10:32] Saved Epoch 0/100 | Discriminator Loss: -732.269775 | Generator Loss: -132.944336
+[2024-02-01 12:10:37] Saved new best_loss_g checkpoint ll_hb_best_loss_g.pth.tar
+[2024-02-01 12:10:37] Saved Epoch 0/100 | Discriminator Loss: -675.417664 | Generator Loss: -147.876343
+[2024-02-01 12:10:42] Saved new best_loss_g checkpoint ll_hb_best_loss_g.pth.tar
+[2024-02-01 12:10:43] Saved Epoch 0/100 | Discriminator Loss: -706.089600 | Generator Loss: -173.631714
+[2024-02-01 12:10:48] Saved new best_loss_g checkpoint ll_hb_best_loss_g.pth.tar
+[2024-02-01 12:10:48] Saved Epoch 0/100 | Discriminator Loss: -658.475891 | Generator Loss: -184.792450
+[2024-02-01 12:10:53] Saved new best_loss_g checkpoint ll_hb_best_loss_g.pth.tar
+[2024-02-01 12:10:53] Saved Epoch 0/100 | Discriminator Loss: -662.354553 | Generator Loss: -214.189484
+[2024-02-01 12:10:58] Saved new best_loss_g checkpoint ll_hb_best_loss_g.pth.tar
+[2024-02-01 12:10:58] Saved Epoch 0/100 | Discriminator Loss: -616.874084 | Generator Loss: -239.487289
+[2024-02-01 12:11:03] Saved new best_loss_g checkpoint ll_hb_best_loss_g.pth.tar
+[2024-02-01 12:11:03] Saved Epoch 0/100 | Discriminator Loss: -615.355347 | Generator Loss: -252.348785
+[2024-02-01 12:11:08] Saved new best_loss_g checkpoint ll_hb_best_loss_g.pth.tar
+[2024-02-01 12:11:08] Saved Epoch 0/100 | Discriminator Loss: -569.362000 | Generator Loss: -292.963806
+[2024-02-01 12:11:13] Saved new best_loss_g checkpoint ll_hb_best_loss_g.pth.tar
+[2024-02-01 12:11:13] Saved Epoch 0/100 | Discriminator Loss: -538.836914 | Generator Loss: -305.271362
+[2024-02-01 12:11:19] Saved new best_loss_g checkpoint ll_hb_best_loss_g.pth.tar
+[2024-02-01 12:11:19] Saved Epoch 0/100 | Discriminator Loss: -488.364014 | Generator Loss: -314.634338
+[2024-02-01 12:11:24] Saved new best_loss_g checkpoint ll_hb_best_loss_g.pth.tar
+[2024-02-01 12:11:24] Saved Epoch 0/100 | Discriminator Loss: -485.816711 | Generator Loss: -356.358215
+[2024-02-01 12:11:33] Saved new best_loss_g checkpoint ll_hb_best_loss_g.pth.tar
+[2024-02-01 12:11:33] Saved Epoch 0/100 | Discriminator Loss: -417.215271 | Generator Loss: -377.892212
+[2024-02-01 12:11:42] Saved new best_loss_g checkpoint ll_hb_best_loss_g.pth.tar
+[2024-02-01 12:11:42] Saved Epoch 0/100 | Discriminator Loss: -354.224518 | Generator Loss: -380.282806
+[2024-02-01 12:12:04] Saved new best_loss_g checkpoint ll_hb_best_loss_g.pth.tar
+[2024-02-01 12:12:04] Saved Epoch 0/100 | Discriminator Loss: -304.514038 | Generator Loss: -424.318298
+[2024-02-01 12:22:48] GPU 0: Epoch 0/100 | Discriminator Loss: -54.664562 | Generator Loss: 44.714489
+[2024-02-01 12:35:25] GPU 0: Epoch 1/100 | Discriminator Loss: -50.732742 | Generator Loss: -41.463387
+[2024-02-01 12:48:00] GPU 0: Epoch 2/100 | Discriminator Loss: -55.972954 | Generator Loss: 4.018426
+[2024-02-01 13:00:33] GPU 0: Epoch 3/100 | Discriminator Loss: -58.921150 | Generator Loss: 9.621735
+[2024-02-01 13:13:06] GPU 0: Epoch 4/100 | Discriminator Loss: -53.550060 | Generator Loss: 1.103458
+[2024-02-01 13:25:38] GPU 0: Epoch 5/100 | Discriminator Loss: -54.176811 | Generator Loss: -8.347445
+[2024-02-01 13:38:10] GPU 0: Epoch 6/100 | Discriminator Loss: -52.280006 | Generator Loss: -1.400830
+[2024-02-01 13:50:42] GPU 0: Epoch 7/100 | Discriminator Loss: -46.736496 | Generator Loss: -1.013874
+[2024-02-01 14:03:14] GPU 0: Epoch 8/100 | Discriminator Loss: -48.612144 | Generator Loss: -17.002829
+[2024-02-01 14:15:47] GPU 0: Epoch 9/100 | Discriminator Loss: -46.174500 | Generator Loss: -16.760389
+[2024-02-01 14:28:20] Saved latest checkpoint ll_hb_latest.pth.tar
+[2024-02-01 14:28:20] Saved Epoch 10/100 | Discriminator Loss: -44.512665 | Generator Loss: -17.481472
+[2024-02-01 14:40:53] GPU 0: Epoch 11/100 | Discriminator Loss: -43.922867 | Generator Loss: -18.698591
+[2024-02-01 14:53:25] GPU 0: Epoch 12/100 | Discriminator Loss: -43.136467 | Generator Loss: -21.211506
+[2024-02-01 15:05:57] GPU 0: Epoch 13/100 | Discriminator Loss: -42.490974 | Generator Loss: -26.802032
+[2024-02-01 15:18:29] GPU 0: Epoch 14/100 | Discriminator Loss: -46.010071 | Generator Loss: -26.787857
+[2024-02-01 15:31:01] GPU 0: Epoch 15/100 | Discriminator Loss: -42.772789 | Generator Loss: -34.931042
+[2024-02-01 15:43:32] GPU 0: Epoch 16/100 | Discriminator Loss: -38.393200 | Generator Loss: -35.683235
+[2024-02-01 15:56:04] GPU 0: Epoch 17/100 | Discriminator Loss: -42.136581 | Generator Loss: -35.396118
+[2024-02-01 16:08:35] GPU 0: Epoch 18/100 | Discriminator Loss: -44.974167 | Generator Loss: -38.726837
+[2024-02-01 16:21:07] GPU 0: Epoch 19/100 | Discriminator Loss: -40.921715 | Generator Loss: -31.394367
+[2024-02-01 16:33:40] Saved latest checkpoint ll_hb_latest.pth.tar
+[2024-02-01 16:33:40] Saved Epoch 20/100 | Discriminator Loss: -39.605854 | Generator Loss: -27.245344
+[2024-02-01 16:46:12] GPU 0: Epoch 21/100 | Discriminator Loss: -41.756786 | Generator Loss: -29.499249
+[2024-02-01 16:58:44] GPU 0: Epoch 22/100 | Discriminator Loss: -40.902683 | Generator Loss: -31.591803
+[2024-02-01 17:11:17] GPU 0: Epoch 23/100 | Discriminator Loss: -40.358044 | Generator Loss: -34.543861
+[2024-02-01 17:23:49] GPU 0: Epoch 24/100 | Discriminator Loss: -43.986069 | Generator Loss: -33.724335
+[2024-02-01 17:36:21] GPU 0: Epoch 25/100 | Discriminator Loss: -37.505466 | Generator Loss: -31.745764
+[2024-02-01 17:48:53] GPU 0: Epoch 26/100 | Discriminator Loss: -41.386482 | Generator Loss: -34.811272
+[2024-02-01 18:01:26] GPU 0: Epoch 27/100 | Discriminator Loss: -40.532890 | Generator Loss: -23.340246
+[2024-02-01 18:13:59] GPU 0: Epoch 28/100 | Discriminator Loss: -42.375847 | Generator Loss: -26.478313
+[2024-02-01 18:26:31] GPU 0: Epoch 29/100 | Discriminator Loss: -42.100876 | Generator Loss: -24.171024
+[2024-02-01 18:39:04] Saved latest checkpoint ll_hb_latest.pth.tar
+[2024-02-01 18:39:04] Saved Epoch 30/100 | Discriminator Loss: -35.542210 | Generator Loss: -24.112896
+[2024-02-01 18:51:36] GPU 0: Epoch 31/100 | Discriminator Loss: -40.106560 | Generator Loss: -21.481319
+[2024-02-01 19:04:08] GPU 0: Epoch 32/100 | Discriminator Loss: -41.232147 | Generator Loss: -20.769026
+[2024-02-01 19:16:40] GPU 0: Epoch 33/100 | Discriminator Loss: -38.700760 | Generator Loss: -19.608488
+[2024-02-01 19:29:12] GPU 0: Epoch 34/100 | Discriminator Loss: -41.606842 | Generator Loss: -13.476707
+[2024-02-01 19:41:44] GPU 0: Epoch 35/100 | Discriminator Loss: -35.724411 | Generator Loss: -15.442363
+[2024-02-01 19:54:17] GPU 0: Epoch 36/100 | Discriminator Loss: -34.712357 | Generator Loss: -11.428039
+[2024-02-01 20:06:48] GPU 0: Epoch 37/100 | Discriminator Loss: -40.082764 | Generator Loss: -17.694885
+[2024-02-01 20:19:20] GPU 0: Epoch 38/100 | Discriminator Loss: -39.112095 | Generator Loss: -18.550856
+[2024-02-01 20:31:52] GPU 0: Epoch 39/100 | Discriminator Loss: -35.753693 | Generator Loss: -19.048998
+[2024-02-01 20:44:25] Saved latest checkpoint ll_hb_latest.pth.tar
+[2024-02-01 20:44:25] Saved Epoch 40/100 | Discriminator Loss: -39.080353 | Generator Loss: -15.570227
+[2024-02-01 20:56:58] GPU 0: Epoch 41/100 | Discriminator Loss: -33.627773 | Generator Loss: -13.692195
+[2024-02-01 21:09:30] GPU 0: Epoch 42/100 | Discriminator Loss: -38.272682 | Generator Loss: -15.525245
+[2024-02-01 21:22:01] GPU 0: Epoch 43/100 | Discriminator Loss: -39.451225 | Generator Loss: -14.058604
+[2024-02-01 21:34:34] GPU 0: Epoch 44/100 | Discriminator Loss: -37.623966 | Generator Loss: -11.714079
+[2024-02-01 21:47:05] GPU 0: Epoch 45/100 | Discriminator Loss: -38.522579 | Generator Loss: -17.075912
+[2024-02-01 21:59:37] GPU 0: Epoch 46/100 | Discriminator Loss: -37.238098 | Generator Loss: -10.151155
+[2024-02-01 22:12:10] GPU 0: Epoch 47/100 | Discriminator Loss: -32.688362 | Generator Loss: -8.950454
+[2024-02-01 22:24:42] GPU 0: Epoch 48/100 | Discriminator Loss: -34.216179 | Generator Loss: -16.193672
+[2024-02-01 22:37:14] GPU 0: Epoch 49/100 | Discriminator Loss: -33.152565 | Generator Loss: -9.363020
+[2024-02-01 22:49:47] Saved latest checkpoint ll_hb_latest.pth.tar
+[2024-02-01 22:49:47] Saved Epoch 50/100 | Discriminator Loss: -38.912945 | Generator Loss: -13.833664
+[2024-02-01 23:02:18] GPU 0: Epoch 51/100 | Discriminator Loss: -32.698181 | Generator Loss: -8.340259
+[2024-02-01 23:14:50] GPU 0: Epoch 52/100 | Discriminator Loss: -36.062866 | Generator Loss: -16.514309
+[2024-02-01 23:27:22] GPU 0: Epoch 53/100 | Discriminator Loss: -36.196278 | Generator Loss: -12.895045
+[2024-02-01 23:39:54] GPU 0: Epoch 54/100 | Discriminator Loss: -28.194363 | Generator Loss: -7.271485
+[2024-02-01 23:52:26] GPU 0: Epoch 55/100 | Discriminator Loss: -35.135361 | Generator Loss: -10.478004
+[2024-02-02 00:04:58] GPU 0: Epoch 56/100 | Discriminator Loss: -34.615433 | Generator Loss: -7.031667
+[2024-02-02 00:17:30] GPU 0: Epoch 57/100 | Discriminator Loss: -32.979717 | Generator Loss: -7.861367
+[2024-02-02 00:30:02] GPU 0: Epoch 58/100 | Discriminator Loss: -33.230606 | Generator Loss: -5.241094
+[2024-02-02 00:42:35] GPU 0: Epoch 59/100 | Discriminator Loss: -31.696201 | Generator Loss: -8.839170
+[2024-02-02 00:55:07] Saved latest checkpoint ll_hb_latest.pth.tar
+[2024-02-02 00:55:07] Saved Epoch 60/100 | Discriminator Loss: -32.688751 | Generator Loss: -11.175894
+[2024-02-02 01:07:39] GPU 0: Epoch 61/100 | Discriminator Loss: -35.377190 | Generator Loss: -10.172817
+[2024-02-02 01:20:11] GPU 0: Epoch 62/100 | Discriminator Loss: -31.113781 | Generator Loss: -6.252337
+[2024-02-02 01:32:42] GPU 0: Epoch 63/100 | Discriminator Loss: -22.024813 | Generator Loss: -10.171450
+[2024-02-02 01:45:14] GPU 0: Epoch 64/100 | Discriminator Loss: -27.276735 | Generator Loss: -5.440033
+[2024-02-02 01:57:46] GPU 0: Epoch 65/100 | Discriminator Loss: -26.088394 | Generator Loss: -10.755855
+[2024-02-02 02:10:18] GPU 0: Epoch 66/100 | Discriminator Loss: -32.191204 | Generator Loss: -5.138473
+[2024-02-02 02:22:49] GPU 0: Epoch 67/100 | Discriminator Loss: -30.292713 | Generator Loss: -2.136403
+[2024-02-02 02:35:20] GPU 0: Epoch 68/100 | Discriminator Loss: -25.397060 | Generator Loss: -5.614965
+[2024-02-02 02:47:52] GPU 0: Epoch 69/100 | Discriminator Loss: -27.998552 | Generator Loss: -12.787102
+[2024-02-02 03:00:24] Saved latest checkpoint ll_hb_latest.pth.tar
+[2024-02-02 03:00:24] Saved Epoch 70/100 | Discriminator Loss: -21.975220 | Generator Loss: -1.334645
+[2024-02-02 03:12:55] GPU 0: Epoch 71/100 | Discriminator Loss: -30.649979 | Generator Loss: -10.339058
+[2024-02-02 03:25:26] GPU 0: Epoch 72/100 | Discriminator Loss: -26.795748 | Generator Loss: -1.964839
+[2024-02-02 03:37:59] GPU 0: Epoch 73/100 | Discriminator Loss: -23.925541 | Generator Loss: -6.201770
+[2024-02-02 03:50:31] GPU 0: Epoch 74/100 | Discriminator Loss: -24.458239 | Generator Loss: -9.574745
+[2024-02-02 04:03:03] GPU 0: Epoch 75/100 | Discriminator Loss: -29.544861 | Generator Loss: -5.695750
+[2024-02-02 04:15:35] GPU 0: Epoch 76/100 | Discriminator Loss: -28.707832 | Generator Loss: -3.903491
+[2024-02-02 04:28:07] GPU 0: Epoch 77/100 | Discriminator Loss: -27.852905 | Generator Loss: -11.822329
+[2024-02-02 04:40:39] GPU 0: Epoch 78/100 | Discriminator Loss: -24.389141 | Generator Loss: -6.588070
+[2024-02-02 04:53:11] GPU 0: Epoch 79/100 | Discriminator Loss: -26.930223 | Generator Loss: -3.129235
+[2024-02-02 05:05:44] Saved latest checkpoint ll_hb_latest.pth.tar
+[2024-02-02 05:05:44] Saved Epoch 80/100 | Discriminator Loss: -22.797695 | Generator Loss: -7.496786
+[2024-02-02 05:18:16] GPU 0: Epoch 81/100 | Discriminator Loss: -28.180288 | Generator Loss: -8.587844
+[2024-02-02 05:30:48] GPU 0: Epoch 82/100 | Discriminator Loss: -23.457146 | Generator Loss: -5.144953
+[2024-02-02 05:43:19] GPU 0: Epoch 83/100 | Discriminator Loss: -22.419125 | Generator Loss: -1.869673
+[2024-02-02 05:55:51] GPU 0: Epoch 84/100 | Discriminator Loss: -24.327469 | Generator Loss: -8.027575
+[2024-02-02 06:08:23] GPU 0: Epoch 85/100 | Discriminator Loss: -25.456959 | Generator Loss: -15.694263
+[2024-02-02 06:20:55] GPU 0: Epoch 86/100 | Discriminator Loss: -27.278343 | Generator Loss: -11.118000
+[2024-02-02 06:33:26] GPU 0: Epoch 87/100 | Discriminator Loss: -26.511791 | Generator Loss: -6.653272
+[2024-02-02 06:45:58] GPU 0: Epoch 88/100 | Discriminator Loss: -23.475531 | Generator Loss: -8.453110
+[2024-02-02 06:58:30] GPU 0: Epoch 89/100 | Discriminator Loss: -21.785606 | Generator Loss: -6.832022
+[2024-02-02 07:11:03] Saved latest checkpoint ll_hb_latest.pth.tar
+[2024-02-02 07:11:03] Saved Epoch 90/100 | Discriminator Loss: -19.431828 | Generator Loss: -5.079917
+[2024-02-02 07:23:35] GPU 0: Epoch 91/100 | Discriminator Loss: -21.122398 | Generator Loss: -3.184151
+[2024-02-02 07:36:07] GPU 0: Epoch 92/100 | Discriminator Loss: -24.843712 | Generator Loss: -1.698667
+[2024-02-02 07:48:39] GPU 0: Epoch 93/100 | Discriminator Loss: -21.207886 | Generator Loss: -8.482931
+[2024-02-02 08:01:12] GPU 0: Epoch 94/100 | Discriminator Loss: -19.654207 | Generator Loss: -3.405466
+[2024-02-02 08:13:44] GPU 0: Epoch 95/100 | Discriminator Loss: -21.947441 | Generator Loss: -6.171833
+[2024-02-02 08:26:15] GPU 0: Epoch 96/100 | Discriminator Loss: -24.981752 | Generator Loss: -5.373273
+[2024-02-02 08:38:47] GPU 0: Epoch 97/100 | Discriminator Loss: -24.347439 | Generator Loss: -8.896763
+[2024-02-02 08:51:19] GPU 0: Epoch 98/100 | Discriminator Loss: -25.348658 | Generator Loss: -10.138316
+[2024-02-02 09:03:51] GPU 0: Epoch 99/100 | Discriminator Loss: -23.477997 | Generator Loss: 0.426942
+[2024-02-02 09:03:51] Epoch 100/100 | Discriminator Loss: -23.477997 | Generator Loss: 0.426942
+[2024-02-02 09:03:52] Saved checkpoint ll_hb_terminated.pth.tar.

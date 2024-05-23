@@ -1,0 +1,8 @@
+[2024-02-19 23:57:27] CUDA Available: True
+[2024-02-19 23:57:27] CUDA Version: 11.3
+[2024-02-19 23:57:27] PyTorch Version: 1.10.2+cu113
+[2024-02-19 23:57:27] CUDA Device Name: NVIDIA GeForce RTX 4080
+[2024-02-19 23:57:27] Using device: cuda
+[2024-02-19 23:57:27] Initializing dataset...
+[2024-02-19 23:57:27] Dataset initialized.
+[2024-02-19 23:57:27] No checkpoint found at 'embeddings/checkpoints/ll_10batch_simpleinductive_target.pth.tar', starting from scratch.

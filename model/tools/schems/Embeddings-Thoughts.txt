@@ -1,0 +1,66 @@
+# ----
+
+# SUMMARY 
+
+This is partially pulled from a long educational discussion with GPT on ways I could approach the problem of encoding block and directional information into 
+the dataset while presenting the data in a palatable form for the cDCGAN, and otherwise contains notes on the discussions. 
+
+# DESIGNING DIMENSIONALITY
+
+There are several key points I am trying to achieve in my data representation:
+
+1. Preservation of Semantic Information: Widely, blocks that are often used together or have similar properties should have a similar embedding.
+2. Dimensionality Reduction: I should ideally not go down the route of one-hot encoding and use a more efficient embedding. 
+3. Continuous vector integration: The emnbeddings should be continous and normalized.
+
+These are all addresses in my current leading method, direct ID embedding. It will be the manner in which I store data initially in the database as well.
+In this embedding method, we represent the possible Minecraft blocks as IDs from 0 (air) to X (max block ID) that is ordered by block color such that
+similarly colored blocks appear closer to each other in the entire span of block IDs. We also record the directional data along with the ID like so:
+BLock Vector = [X, N, E, S, W]
+        X = Block ID
+        N, E, S, W = Equal to 1 if block faces that direct, all others are 0.
+
+This method preserves the semantic information we are trying to represent ()
+
+The downside of this method is that the block IDs impose an order that may not allow the cDCGAN to capture semantic information effectively. (For example, it may think block 1 < block 2 based on their IDs even though that has no meaning). A way to address this is learned embeddings described at the bottom of the GPT response.
+
+This method involves training a separate model, or creating a layer within the cDCGAN to do so, that takes the build matrices containing direct ID vectors above and 
+abstracts them to higher dimensional arrays ideally better capturing the semantics between related blocks near each other in the matrices overall, rather than just the block IDs.
+
+Of course, learned emebddings means even more computation towards training that layer and requires a probability reduction from outputted continuous learned embeddings from the cDCGAN back into discrete blocks, which could produce unexpected behavior and adds more complexity. However, its worth considering later on if direct ID is missing something.
+
+# DIRECT ID AND ONE-HOT EXPLANATIONS
+
+While both methods have their merits and are used widely in machine learning, the choice between them depends on the specifics of your project, such as the nature of your data, the computational resources available, and the complexity you're willing to manage.
+
+Direct ID Embedding
+
+In Direct ID Embedding, you assign an identifier to each category or block in Minecraft, such as Oak Stairs facing east. This is a form of ordinal encoding and can significantly reduce the dimensionality of your data compared to one-hot encoding, especially when you have many categories.
+
+One significant advantage of this method is its computational efficiency. The reduced dimensionality leads to less computational cost and memory usage, which could be critical for large-scale models like cDCGAN.
+
+However, the main drawback is that this method implicitly imposes an order on the categories, which may not actually exist. In other words, the model might interpret the categories as being ordered in some way (e.g., east > north > south > west), which is not accurate and can lead to less optimal results.
+
+References:
+Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. arXiv preprint arXiv:1301.3781. This paper presents the concept of word embeddings, which is directly applicable to your task of creating Minecraft block embeddings.
+Pennington, J., Socher, R., & Manning, C. (2014). GloVe: Global vectors for word representation. In Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP) (pp. 1532-1543). Another paper that provides an alternative method for word embeddings that could be used for your block embeddings.
+
+One-Hot Encoding
+
+In One-Hot Encoding, each category or block is represented as a binary vector of size equal to the total number of categories. This has the advantage of preserving the categorical nature of the data without introducing any artificial order. One-hot encoding can result in better performance if your model can handle the increased dimensionality.
+
+However, the downside is that it can drastically increase the dimensionality of your data, leading to higher computational costs and potential issues with overfitting (the so-called "curse of dimensionality"). Additionally, this method is less suitable if you have many categories, as each new category adds a dimension to your data.
+
+Since your data appears to be quite high-dimensional (with the number of blocks you're tracking potentially reaching 200), the computational cost of one-hot encoding might be a concern.
+
+References:
+Guo, G., & Wang, H. (2019). Text feature extraction based on deep learning: a review. EURASIP Journal on Wireless Communications and Networking, 2019(1), 1-16.
+Chollet, F. (2017). Deep Learning with Python. Manning Publications Co. This book is not a research paper, but it provides excellent practical coverage of one-hot encoding.
+
+Recommendation (Possible Learned Embeddings a la Word2Vec)
+
+Given the nature of your problem, the Direct ID Embedding method seems to be more appropriate. It can maintain lower dimensionality and computational cost, which is beneficial when dealing with large 3D matrices and complex models like cDCGANs.
+
+However, to address the potential issue of imposed order, you could use learned embeddings instead of manual ordinal encoding. Learned embeddings are capable of representing complex relationships between categories and can capture more information than simple one-hot or ordinal encoding. This concept is widely used in Natural Language Processing, where words are embedded into high-dimensional vectors (Word2Vec, GloVe). There's some precedent for this in vision tasks as well, such as "Learning to Represent Edits" by Rabeeh Karimi Mahabadi, Yova Kementchedjhieva, and Adam Lopez (NeurIPS 2020) Link.
+
+Remember, however, that the effectiveness of these methods can vary based on many factors, and it's always a good idea to experiment and evaluate different approaches using a validation dataset to determine what works best for your specific case.

@@ -1,0 +1,112 @@
+000 (55686.000.000) 2023-12-04 13:23:57 Job submitted from host: <140.160.143.130:9618?addrs=140.160.143.130-9618&alias=csci-head.cluster.cs.wwu.edu&noUDP&sock=schedd_1686_08c4>
+...
+001 (55686.000.000) 2023-12-04 13:24:12 Job executing on host: <140.160.143.172:9618?addrs=140.160.143.172-9618&alias=g-1-0.cluster.cs.wwu.edu&noUDP&sock=startd_2355_e99f>
+	SlotName: slot1_2@g-1-0.cluster.cs.wwu.edu
+	AvailableGPUs = { GPUs_GPU_4baabe5e,GPUs_GPU_ba1787c6 }
+	CondorScratchDir = "/scratch_ssd/condor/execute/dir_2510159"
+	Cpus = 1
+	Disk = 3503172
+	GPUs = 2
+	GPUs_GPU_4baabe5e = [ DeviceName = "NVIDIA GeForce RTX 2080 Ti"; DriverVersion = 12.2; ECCEnabled = false; DevicePciBusId = "0000:AF:00.0"; DeviceUuid = "4baabe5e-6d32-d686-d67b-51558270e42e"; GlobalMemoryMb = 11012; MaxSupportedVersion = 12020; Capability = 7.5; Id = "GPU-4baabe5e" ]
+	GPUs_GPU_ba1787c6 = [ DeviceName = "NVIDIA GeForce RTX 2080 Ti"; DriverVersion = 12.2; ECCEnabled = false; DevicePciBusId = "0000:D8:00.0"; DeviceUuid = "ba1787c6-b8e6-cc61-7296-f35ff2ec108c"; GlobalMemoryMb = 11012; MaxSupportedVersion = 12020; Capability = 7.5; Id = "GPU-ba1787c6" ]
+	Memory = 40960
+...
+006 (55686.000.000) 2023-12-04 13:24:20 Image size of job updated: 1273176
+	1244  -  MemoryUsage of job (MB)
+	1273176  -  ResidentSetSize of job (KB)
+...
+006 (55686.000.000) 2023-12-04 13:29:20 Image size of job updated: 11998108
+	7946  -  MemoryUsage of job (MB)
+	8136268  -  ResidentSetSize of job (KB)
+...
+006 (55686.000.000) 2023-12-04 13:34:20 Image size of job updated: 14812764
+	7947  -  MemoryUsage of job (MB)
+	8137292  -  ResidentSetSize of job (KB)
+...
+006 (55686.000.000) 2023-12-04 13:39:21 Image size of job updated: 27393896
+	24878  -  MemoryUsage of job (MB)
+	25474620  -  ResidentSetSize of job (KB)
+...
+006 (55686.000.000) 2023-12-04 13:44:21 Image size of job updated: 34505980
+	24879  -  MemoryUsage of job (MB)
+	25475644  -  ResidentSetSize of job (KB)
+...
+006 (55686.000.000) 2023-12-04 13:49:21 Image size of job updated: 34507992
+	24879  -  MemoryUsage of job (MB)
+	25475644  -  ResidentSetSize of job (KB)
+...
+006 (55686.000.000) 2023-12-04 13:59:23 Image size of job updated: 34511964
+	24879  -  MemoryUsage of job (MB)
+	25475644  -  ResidentSetSize of job (KB)
+...
+006 (55686.000.000) 2023-12-04 14:14:25 Image size of job updated: 34511964
+	32751  -  MemoryUsage of job (MB)
+	33536260  -  ResidentSetSize of job (KB)
+...
+006 (55686.000.000) 2023-12-04 14:19:25 Image size of job updated: 34511964
+	32754  -  MemoryUsage of job (MB)
+	33539076  -  ResidentSetSize of job (KB)
+...
+006 (55686.000.000) 2023-12-04 14:24:25 Image size of job updated: 34564584
+	32754  -  MemoryUsage of job (MB)
+	33539076  -  ResidentSetSize of job (KB)
+...
+006 (55686.000.000) 2023-12-04 14:34:26 Image size of job updated: 34569972
+	32754  -  MemoryUsage of job (MB)
+	33539076  -  ResidentSetSize of job (KB)
+...
+006 (55686.000.000) 2023-12-04 14:44:27 Image size of job updated: 34571144
+	32754  -  MemoryUsage of job (MB)
+	33539076  -  ResidentSetSize of job (KB)
+...
+006 (55686.000.000) 2023-12-04 16:29:37 Image size of job updated: 34571144
+	33111  -  MemoryUsage of job (MB)
+	33905660  -  ResidentSetSize of job (KB)
+...
+006 (55686.000.000) 2023-12-04 19:49:57 Image size of job updated: 34571144
+	33508  -  MemoryUsage of job (MB)
+	34311904  -  ResidentSetSize of job (KB)
+...
+006 (55686.000.000) 2023-12-04 20:15:00 Image size of job updated: 34582036
+	33508  -  MemoryUsage of job (MB)
+	34311904  -  ResidentSetSize of job (KB)
+...
+006 (55686.000.000) 2023-12-04 20:45:02 Image size of job updated: 34631096
+	33508  -  MemoryUsage of job (MB)
+	34311904  -  ResidentSetSize of job (KB)
+...
+006 (55686.000.000) 2023-12-04 20:55:04 Image size of job updated: 34675476
+	33508  -  MemoryUsage of job (MB)
+	34311904  -  ResidentSetSize of job (KB)
+...
+006 (55686.000.000) 2023-12-04 21:00:04 Image size of job updated: 34704304
+	33508  -  MemoryUsage of job (MB)
+	34311904  -  ResidentSetSize of job (KB)
+...
+006 (55686.000.000) 2023-12-04 21:30:07 Image size of job updated: 34704304
+	33596  -  MemoryUsage of job (MB)
+	34402164  -  ResidentSetSize of job (KB)
+...
+006 (55686.000.000) 2023-12-04 21:35:07 Image size of job updated: 34704304
+	33598  -  MemoryUsage of job (MB)
+	34404212  -  ResidentSetSize of job (KB)
+...
+005 (55686.000.000) 2023-12-05 00:33:16 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 01:31:12, Sys 0 01:26:13  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 01:31:12, Sys 0 01:26:13  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :     0.28        1         1 
+	   Disk (KB)            :     1           1   3503172 
+	   Gpus (Average)       :     0.07        2         2 "GPU-4baabe5e,GPU-ba1787c6"
+	   GpusMemory (MB)      :   256                       
+	   Memory (MB)          : 33598       40960     40960 
+
+	Job terminated of its own accord at 2023-12-05T08:33:16Z with exit-code 0.
+...

@@ -1,0 +1,34 @@
+000 (55917.000.000) 2023-12-21 15:58:08 Job submitted from host: <140.160.143.130:9618?addrs=140.160.143.130-9618&alias=csci-head.cluster.cs.wwu.edu&noUDP&sock=schedd_1686_08c4>
+...
+001 (55917.000.000) 2023-12-21 15:58:09 Job executing on host: <140.160.143.175:9618?addrs=140.160.143.175-9618&alias=g-2-0.cluster.cs.wwu.edu&noUDP&sock=startd_2498_ffaa>
+	SlotName: slot7@g-2-0.cluster.cs.wwu.edu
+	AvailableGPUs = { GPUs_GPU_baf6050d }
+	CondorScratchDir = "/scratch_ssd/condor/execute/dir_2135710"
+	Cpus = 8
+	Disk = 437896403
+	GPUs = 1
+	GPUs_GPU_baf6050d = [ DeviceName = "NVIDIA GeForce RTX 2080 Ti"; DriverVersion = 12.2; ECCEnabled = false; DevicePciBusId = "0000:23:00.0"; DeviceUuid = "baf6050d-55a3-66eb-8134-bf455936dfaa"; GlobalMemoryMb = 11012; MaxSupportedVersion = 12020; Capability = 7.5; Id = "GPU-baf6050d" ]
+	Memory = 47942
+...
+006 (55917.000.000) 2023-12-21 15:58:12 Image size of job updated: 414136
+	267  -  MemoryUsage of job (MB)
+	272708  -  ResidentSetSize of job (KB)
+...
+005 (55917.000.000) 2023-12-21 15:58:12 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:01, Sys 0 00:00:01  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:01  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :                 1         8 
+	   Disk (KB)            :        1        1 437896403 
+	   Gpus (Average)       :                 1         1 "GPU-baf6050d"
+	   Memory (MB)          :      267    10240     47942 
+
+	Job terminated of its own accord at 2023-12-21T23:58:12Z with exit-code 1.
+...

@@ -1,0 +1,13 @@
+Universe   = vanilla
+Executable = run_job.sh
+Arguments  = train.py low_learn_medium_batch --epochs 100 --lr 0.0001 --batch_size 16
+
+Output     = logs/output.log
+Error      = logs/error.log
+Log        = logs/condor.log
+
+Request_Cpus   = 1
+Request_Gpus   = 3
+Request_Memory = 40GB
+
+Queue

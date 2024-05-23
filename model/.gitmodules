@@ -1,0 +1,3 @@
+[submodule "BuildLogger"]
+	path = BuildLogger
+	url = https://github.com/cappycap/BuildLogger

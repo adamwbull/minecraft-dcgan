@@ -1,0 +1,13 @@
+Universe   = vanilla
+Executable = run_job.sh
+Arguments  = wtrain.py ll_lb --epochs 100 --lr 0.001 --batch_size 8
+
+Output     = logs/out.log
+Error      = logs/error.log
+Log        = logs/log.log
+
+Request_Cpus   = 1
+Request_Gpus   = 2
+Request_Memory = 45GB
+
+Queue

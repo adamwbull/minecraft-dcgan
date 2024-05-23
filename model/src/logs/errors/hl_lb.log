@@ -1,0 +1,23 @@
+Traceback (most recent call last):
+  File "train.py", line 371, in <module>
+    torch.multiprocessing.spawn(main, args=spawn_args, nprocs=world_size, join=True)
+  File "/cluster/research-groups/deneke/minecraft-gan/dcgan_pyenv/lib64/python3.6/site-packages/torch/multiprocessing/spawn.py", line 230, in spawn
+    return start_processes(fn, args, nprocs, join, daemon, start_method='spawn')
+  File "/cluster/research-groups/deneke/minecraft-gan/dcgan_pyenv/lib64/python3.6/site-packages/torch/multiprocessing/spawn.py", line 188, in start_processes
+    while not context.join():
+  File "/cluster/research-groups/deneke/minecraft-gan/dcgan_pyenv/lib64/python3.6/site-packages/torch/multiprocessing/spawn.py", line 150, in join
+    raise ProcessRaisedException(msg, error_index, failed_process.pid)
+torch.multiprocessing.spawn.ProcessRaisedException: 
+
+-- Process 0 terminated with the following error:
+Traceback (most recent call last):
+  File "/cluster/research-groups/deneke/minecraft-gan/dcgan_pyenv/lib64/python3.6/site-packages/torch/multiprocessing/spawn.py", line 59, in _wrap
+    fn(i, *args)
+  File "/cluster/research-groups/deneke/minecraft-gan/src/train.py", line 242, in main
+    loss_d.backward()
+  File "/cluster/research-groups/deneke/minecraft-gan/dcgan_pyenv/lib64/python3.6/site-packages/torch/_tensor.py", line 307, in backward
+    torch.autograd.backward(self, gradient, retain_graph, create_graph, inputs=inputs)
+  File "/cluster/research-groups/deneke/minecraft-gan/dcgan_pyenv/lib64/python3.6/site-packages/torch/autograd/__init__.py", line 156, in backward
+    allow_unreachable=True, accumulate_grad=True)  # allow_unreachable flag
+RuntimeError: one of the variables needed for gradient computation has been modified by an inplace operation: [torch.cuda.FloatTensor [512]] is at version 3; expected version 2 instead. Hint: enable anomaly detection to find the operation that failed to compute its gradient, with torch.autograd.set_detect_anomaly(True).
+
