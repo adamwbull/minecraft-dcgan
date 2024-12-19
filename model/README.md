@@ -1,17 +1,5 @@
 # Minecraft DCGAN
 
-# 02/20/2024
-
-## BlockEmbeddingsInductive 500 Batch, 0.001 LR, 70,000 blocks / epoch
-
-![3d_ll_500batch_newadvancedinductive_99.png](/src/embeddings/plots/3d_ll_500batch_newadvancedinductive_0.png)
-
-![3d_ll_500batch_newadvancedinductive_99.png](/src/embeddings/plots/3d_ll_500batch_newadvancedinductive_99.png)
-
-![ll_500batch_newadvancedinductive_0.png](/src/embeddings/confusion/ll_500batch_newadvancedinductive_0.png)
-
-![ll_500batch_newadvancedinductive_99.png](/src/embeddings/confusion/ll_500batch_newadvancedinductive_99.png)
-
 # Data Collection
 
 We gather or create the following commonly used Minecraft structure files:
