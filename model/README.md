@@ -39,7 +39,3 @@ On all json structures converted by the plugin, we:
 # Training (src/train.py)
 
 - Use create, load and train model states on HDF5 database.
-
-# Generation
-
-See [minecraft-gan-website](https://github.com/deneke-research/minecraft-gan-website) for a full implementation of a suite to view and create new generated structures using trained model weights.
