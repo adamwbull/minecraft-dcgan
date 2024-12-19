@@ -1,6 +1,3 @@
-# Development Demo Live
-
-Visit at: [minecraftgan.adambullard.com](https://minecraftgan.adambullard.com)
 
 # Frontend 
 
